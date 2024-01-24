@@ -1,0 +1,422 @@
+event id,card name,copies
+1,Back to Basics,2
+1,Blue Elemental Blast,3
+1,Brazen Borrower,1
+1,Brotherhood's End,2
+1,Chill,2
+1,Counterbalance,1
+1,Dauthi Voidwalker,2
+1,Dress Down,1
+1,"Emrakul, the Aeons Torn",1
+1,Endurance,3
+1,Fatal Push,2
+1,Force of Negation,6
+1,Force of Vigor,6
+1,Grafdigger's Cage,3
+1,Hydroblast,3
+1,Inevitable Betrayal,2
+1,Magus of the Moon,2
+1,Meltdown,2
+1,Mystical Dispute,2
+1,"Narset, Parter of Veils",2
+1,Nihil Spellbomb,1
+1,Null Rod,2
+1,Powder Keg,1
+1,Price of Progress,2
+1,Pyroblast,3
+1,Surgical Extraction,3
+2,Animation Module,1
+2,Blood Moon,12
+2,Bojuka Bog,3
+2,Bonecrusher Giant,6
+2,"Boseiju, Who Endures",3
+2,Brazen Borrower,2
+2,Brotherhood's End,6
+2,Cast into the Fire,3
+2,Celestial Purge,3
+2,Chalice of the Void,12
+2,Cityscape Leveler,1
+2,Cursed Totem,7
+2,Damping Sphere,4
+2,Dauthi Voidwalker,3
+2,Defense Grid,8
+2,Deflecting Palm,2
+2,Dismember,9
+2,Dress Down,2
+2,Earthquake,2
+2,Endurance,14
+2,Engineered Explosives,18
+2,Ensnaring Bridge,1
+2,Ertai's Scorn,2
+2,Explore,1
+2,Exquisite Firecraft,2
+2,Fable of the Mirror-Breaker,3
+2,Flame of Anor,1
+2,Flusterstorm,6
+2,Force of Vigor,11
+2,Foundation Breaker,3
+2,Grafdigger's Cage,2
+2,Haywire Mite,2
+2,Hidetsugu Consumes All,3
+2,Ingot Chewer,1
+2,Kolaghan's Command,2
+2,Legion's End,2
+2,Leyline of the Void,9
+2,Living End,1
+2,Magus of the Moon,7
+2,Mystical Dispute,9
+2,Natural State,2
+2,Nature's Claim,2
+2,Path to Exile,2
+2,Pithing Needle,2
+2,Radiant Fountain,1
+2,Sanctifier en-Vec,2
+2,Searing Blood,2
+2,"Sheoldred, the Apocalypse",1
+2,Silence,4
+2,Smash to Smithereens,2
+2,Soul-Guide Lantern,1
+2,Spelunking,2
+2,Stern Scolding,4
+2,Stone of Erech,2
+2,Subtlety,5
+2,Sundering Titan,1
+2,Tamiyo's Safekeeping,4
+2,The One Ring,2
+2,The Stone Brain,1
+2,"Thrun, Breaker of Silence",1
+2,Tithing Blade,1
+2,Unlicensed Hearse,3
+2,Wear // Tear,3
+3,Avenging Hunter,2
+3,Blue Elemental Blast,4
+3,Breath Weapon,2
+3,Campfire,2
+3,Cast into the Fire,10
+3,Circle of Protection: Blue,3
+3,Destroy Evil,1
+3,End the Festivities,3
+3,Hydroblast,8
+3,Negate,1
+3,Nihil Spellbomb,2
+3,Pyroblast,12
+3,Raze the Effigy,3
+3,Red Elemental Blast,2
+3,Relic of Progenitus,5
+3,Scattershot Archer,3
+3,Smash to Smithereens,4
+3,Tamiyo's Safekeeping,3
+3,Tormod's Crypt,1
+3,Wrap in Vigor,3
+4,Change the Equation,2
+4,Dark Betrayal,1
+4,Deep-Cavern Bat,1
+4,Disdainful Stroke,2
+4,Fatal Push,2
+4,Go Blank,2
+4,Haywire Mite,1
+4,Knight of Dusk's Shadow,1
+4,Mystical Dispute,4
+4,Path of Peril,1
+4,"Reidane, God of the Worthy",1
+4,Scavenging Ooze,1
+4,Sentinel of the Nameless City,2
+4,Test of Talents,1
+4,Thoughtseize,4
+4,Unlicensed Hearse,1
+4,Voice of Resurgence,2
+4,"Yorion, Sky Nomad",1
+5,Boon-Bringer Valkyrie,1
+5,Knockout Blow,3
+5,March of Otherworldly Light,2
+5,Metropolis Reformer,3
+5,Negate,3
+5,Tishana's Tidebinder,3
+6,Containment Priest,3
+6,Dauntless Dismantler,2
+6,Grafdigger's Cage,1
+6,Hurkyl's Recall,1
+6,Karakas,1
+6,Lurrus of the Dream-Den,1
+6,Mindbreak Trap,1
+6,Pithing Needle,1
+6,Seal of Cleansing,1
+6,Swords to Plowshares,2
+6,The Tabernacle at Pendrell Vale,1
+13,Acererak the Archlich,1
+13,Back to Basics,2
+13,Beseech the Mirror,1
+13,Blood Moon,5
+13,Blue Elemental Blast,3
+13,"Boseiju, Who Endures",1
+13,Brazen Borrower,1
+13,Brotherhood's End,2
+13,Carpet of Flowers,5
+13,Chalice of the Void,4
+13,Collector Ouphe,1
+13,Containment Priest,5
+13,Counterbalance,4
+13,Damping Sphere,3
+13,Dauthi Voidwalker,2
+13,Dismember,7
+13,Dress Down,1
+13,Endurance,6
+13,Ensnaring Bridge,1
+13,Faerie Macabre,7
+13,Fatal Push,5
+13,Feed the Swarm,1
+13,Flusterstorm,6
+13,Force of Negation,16
+13,Force of Vigor,8
+13,Grafdigger's Cage,3
+13,Grapeshot,1
+13,"Grist, the Hunger Tide",1
+13,Harmonic Sliver,3
+13,Haywire Mite,2
+13,Helm of Obedience,1
+13,Hullbreacher,1
+13,Hydroblast,10
+13,Hymn to Tourach,2
+13,Inevitable Betrayal,2
+13,Island,1
+13,Karakas,1
+13,"Klothys, God of Destiny",1
+13,Leyline of the Void,11
+13,Loran of the Third Path,1
+13,Magus of the Moon,6
+13,Meltdown,9
+13,Mystical Dispute,2
+13,"Narset, Parter of Veils",1
+13,Nether Void,1
+13,Nihil Spellbomb,1
+13,Null Rod,13
+13,Opposition Agent,1
+13,Pithing Needle,1
+13,Plague Engineer,6
+13,Powder Keg,1
+13,Price of Progress,4
+13,Pyroblast,18
+13,Pyrokinesis,5
+13,Red Elemental Blast,1
+13,Scavenging Ooze,1
+13,Sheoldred's Edict,1
+13,Snuff Out,5
+13,Soul-Guide Lantern,1
+13,Spatial Contortion,1
+13,Spell Pierce,1
+13,Surge Node,1
+13,Surgical Extraction,11
+13,Swords to Plowshares,4
+13,Tendrils of Agony,1
+13,Terminus,1
+13,Thoughtseize,5
+13,Torpor Orb,2
+13,Unlicensed Hearse,2
+13,"Uro, Titan of Nature's Wrath",1
+13,Veil of Summer,2
+13,Wasteland,1
+14,Abrupt Decay,1
+14,Aether Gust,2
+14,Alpine Moon,3
+14,Ancient Grudge,1
+14,Archfiend of the Dross,1
+14,Assassin's Trophy,2
+14,Blood Moon,19
+14,Bonecrusher Giant,2
+14,"Boseiju, Who Endures",4
+14,Brazen Borrower,1
+14,Brotherhood's End,6
+14,Cast into the Fire,3
+14,Chalice of the Void,28
+14,Cityscape Leveler,2
+14,Commandeer,2
+14,Cursed Totem,9
+14,Damping Matrix,1
+14,Damping Sphere,2
+14,Dauthi Voidwalker,3
+14,Dead // Gone,2
+14,Destructive Revelry,1
+14,Dismember,3
+14,Dromoka's Command,1
+14,Endurance,21
+14,Engineered Explosives,19
+14,Ensnaring Bridge,2
+14,Fable of the Mirror-Breaker,2
+14,Fatal Push,5
+14,Flame of Anor,3
+14,Flusterstorm,6
+14,Force of Negation,1
+14,Force of Vigor,19
+14,Foundation Breaker,6
+14,Fulminator Mage,5
+14,Gemstone Caverns,2
+14,Go for the Throat,2
+14,Grafdigger's Cage,1
+14,Hallowed Moonlight,1
+14,Haywire Mite,3
+14,Hidetsugu Consumes All,8
+14,Inevitable Betrayal,2
+14,Ingot Chewer,2
+14,"Jegantha, the Wellspring",3
+14,"Kaheera, the Orphanguard",1
+14,Kolaghan's Command,7
+14,"Kroxa, Titan of Death's Hunger",1
+14,"Lavinia, Azorius Renegade",2
+14,Legion's End,12
+14,Leyline of Sanctity,8
+14,Leyline of the Void,17
+14,Liquimetal Coating,1
+14,Magus of the Moon,13
+14,Mystical Dispute,18
+14,Natural State,3
+14,Nature's Claim,2
+14,Pithing Needle,2
+14,Plains,1
+14,Portable Hole,2
+14,Prismatic Ending,3
+14,Reclamation Sage,3
+14,Relic of Progenitus,1
+14,Reprieve,3
+14,Rest in Peace,3
+14,Shenanigans,1
+14,"Sheoldred, the Apocalypse",2
+14,Silence,3
+14,Soulless Jailer,3
+14,Spell Pierce,4
+14,Stern Scolding,2
+14,Stone of Erech,2
+14,Subtlety,2
+14,Sundering Titan,2
+14,Tamiyo's Safekeeping,2
+14,Tear Asunder,5
+14,The End,3
+14,The One Ring,2
+14,The Stone Brain,2
+14,Thoughtseize,6
+14,Tishana's Tidebinder,2
+14,Tithing Blade,1
+14,Turn the Earth,2
+14,Unlicensed Hearse,3
+14,Veil of Summer,3
+14,Void Mirror,1
+14,Wear // Tear,7
+15,Agony Warp,1
+15,Ancient Grudge,1
+15,Annul,4
+15,Arms of Hadar,7
+15,Azure Fleet Admiral,2
+15,Blacksmith's Skill,2
+15,Blue Elemental Blast,5
+15,Bojuka Bog,1
+15,Breath Weapon,2
+15,Cast into the Fire,10
+15,Chainer's Edict,5
+15,Crimson Acolyte,3
+15,Deep Analysis,1
+15,Deglamer,8
+15,Desert,1
+15,Destroy Evil,3
+15,Dispel,9
+15,Distress,2
+15,Drown in Sorrow,10
+15,Duress,10
+15,Dust to Dust,19
+15,Echoing Truth,2
+15,Electrickery,8
+15,End the Festivities,6
+15,Faerie Macabre,1
+15,Fangren Marauder,4
+15,Flaring Pain,4
+15,Gorilla Shaman,6
+15,Honorable Scout,1
+15,Hydroblast,27
+15,Keep Watch,1
+15,Kenku Artificer,1
+15,Krark-Clan Shaman,3
+15,Leave No Trace,1
+15,Murmuring Mystic,5
+15,Mystic Remora,4
+15,Nature's Claim,2
+15,Negate,3
+15,Nihil Spellbomb,9
+15,Obsidian Acolyte,3
+15,Okiba-Gang Shinobi,5
+15,Prismatic Strands,2
+15,Pyrite Spellbomb,2
+15,Pyroblast,10
+15,Ramosian Rally,2
+15,Raze the Effigy,2
+15,Reaping the Graves,1
+15,Red Elemental Blast,20
+15,Relic of Progenitus,29
+15,Return to Nature,4
+15,Revoke Existence,4
+15,Scattershot,2
+15,Scattershot Archer,3
+15,Smash to Smithereens,9
+15,Standard Bearer,4
+15,Stormbound Geist,3
+15,Stream of Thought,1
+15,Suffocating Fumes,1
+15,Tamiyo's Safekeeping,3
+15,Thorn of the Black Rose,3
+15,Tithing Blade,3
+15,Troublemaker Ouphe,4
+15,Unexpected Fangs,3
+15,Weather the Storm,11
+15,Wilt,2
+16,Abrade,2
+16,"Aclazotz, Deepest Betrayal",2
+16,Anger of the Gods,2
+16,Archon of Emeria,1
+16,Assassin's Trophy,1
+16,Bitter Triumph,2
+16,Brazen Borrower,2
+16,Brotherhood's End,3
+16,Cankerbloom,3
+16,Change the Equation,1
+16,Containment Priest,2
+16,Crackling Drake,6
+16,Damping Sphere,4
+16,Deafening Clarion,1
+16,Deep-Cavern Bat,1
+16,Disdainful Stroke,4
+16,Dovin's Veto,3
+16,Duress,2
+16,Extraction Specialist,1
+16,Fable of the Mirror-Breaker,2
+16,Fatal Push,6
+16,Flowstone Infusion,2
+16,Get Lost,2
+16,Go Blank,2
+16,Haywire Mite,1
+16,"Heliod, Sun-Crowned",1
+16,Hidetsugu Consumes All,1
+16,"Jegantha, the Wellspring",2
+16,Knight of Dusk's Shadow,2
+16,Kolaghan's Command,2
+16,"Lavinia, Azorius Renegade",1
+16,Light of Hope,2
+16,Loran's Escape,2
+16,Mystical Dispute,5
+16,Narset's Reversal,1
+16,Negate,2
+16,Notion Thief,1
+16,Path of Peril,2
+16,Radiant Flames,3
+16,Reckoner Bankbuster,3
+16,"Reidane, God of the Worthy",1
+16,Remorseful Cleric,1
+16,Rending Volley,2
+16,Rest in Peace,7
+16,"Saheeli, Sublime Artificer",1
+16,Scavenging Ooze,2
+16,Showdown of the Skalds,4
+16,Spell Pierce,1
+16,Tear Asunder,1
+16,The Stone Brain,2
+16,Thoughtseize,2
+16,Unlicensed Hearse,2
+16,Unmoored Ego,3
+16,Voice of Resurgence,2
+16,"Yorion, Sky Nomad",1

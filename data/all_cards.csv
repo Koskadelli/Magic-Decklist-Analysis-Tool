@@ -1,0 +1,849 @@
+card id,card name
+1,Birds of Paradise
+2,Brainstorm
+3,Brazen Borrower
+4,Collector Ouphe
+5,Crashing Footfalls
+6,Daze
+7,Delver of Secrets
+8,Dragon's Rage Channeler
+9,Drown in the Loch
+10,Elvish Spirit Guide
+11,"Ezuri, Claw of Progress"
+12,Fatal Push
+13,Fire // Ice
+14,Flooded Strand
+15,Force of Negation
+16,Force of Will
+17,Forest
+18,Grief
+19,Griselbrand
+20,Ice-Fang Coatl
+21,Island
+22,Lightning Bolt
+23,Lórien Revealed
+24,"Minsc & Boo, Timeless Heroes"
+25,Mishra's Bauble
+26,Misty Rainforest
+27,Molten Collapse
+28,Murktide Regent
+29,Mystical Dispute
+30,Neoform
+31,Orcish Bowmasters
+32,Polluted Delta
+33,Ponder
+34,Prismatic Vista
+35,Ramunap Excavator
+36,Reanimate
+37,Scalding Tarn
+38,Shardless Agent
+39,Simian Spirit Guide
+40,Snow-Covered Forest
+41,Snow-Covered Island
+42,Snuff Out
+43,Spell Pierce
+44,Stalactite Stalker
+45,Stifle
+46,Swamp
+47,Taiga
+48,The One Ring
+49,Troll of Khazad-dûm
+50,Tropical Island
+51,Underground Sea
+52,"Uro, Titan of Nature's Wrath"
+53,Veil of Summer
+54,Violent Outburst
+55,Volcanic Island
+56,Wail of the Forgotten
+57,Wasteland
+58,Wooded Foothills
+59,Agatha's Soul Cauldron
+60,Amulet of Vigor
+61,Ancient Stirrings
+62,Animation Module
+63,Arboreal Grazer
+64,Arcbound Ravager
+65,Architects of Will
+66,Archmage's Charm
+67,Arid Mesa
+68,"Azusa, Lost but Seeking"
+69,Basilisk Collar
+70,Blackcleave Cliffs
+71,Blood Crypt
+72,Bloodstained Mire
+73,Bonecrusher Giant
+74,Boros Charm
+75,Boros Garrison
+76,"Boseiju, Who Endures"
+77,Breeding Pool
+78,Cabal Coffers
+79,Castle Garenbrig
+80,Change the Equation
+81,Cling to Dust
+82,Counterspell
+83,Cragcrown Pathway
+84,Crumbling Vestige
+85,Cultivator Colossus
+86,Curator of Mysteries
+87,Damnation
+88,Dauthi Voidwalker
+89,Dead // Gone
+90,Demolition Field
+91,Dryad of the Ilysian Grove
+92,Echoing Deeps
+93,Elvish Reclaimer
+94,"Emrakul, the Promised End"
+95,Expedition Map
+96,Explore
+97,Expressive Iteration
+98,Fable of the Mirror-Breaker
+99,Field of Ruin
+100,Fiery Islet
+101,Flagstones of Trokair
+102,Flame of Anor
+103,Gemstone Caverns
+104,Generous Ent
+105,Goblin Guide
+106,Golgari Rot Farm
+107,Grove of the Burnwillows
+108,Gruul Turf
+109,Hangarback Walker
+110,Hanweir Battlements
+111,Hardened Scales
+112,Inkmoth Nexus
+113,Inspiring Vantage
+114,"Karn, the Great Creator"
+115,Kessig Wolf Run
+116,Ketria Triome
+117,Kolaghan's Command
+118,"Kroxa, Titan of Death's Hunger"
+119,Lava Spike
+120,Ledger Shredder
+121,Lightning Helix
+122,Littjara Mirrorlake
+123,Living End
+124,March of Wretched Sorrow
+125,Marsh Flats
+126,Monastery Swiftspear
+127,Mount Doom
+128,Mountain
+129,Mutavault
+130,Not Dead After All
+131,Oliphaunt
+132,"Otawara, Soaring City"
+133,Patchwork Automaton
+134,Pendelhaven
+135,Phyrexia's Core
+136,Pithing Needle
+137,Power Conduit
+138,Preordain
+139,Primeval Titan
+140,Profane Tutor
+141,"Ragavan, Nimble Pilferer"
+142,Rift Bolt
+143,Roiling Vortex
+144,Sacred Foundry
+145,Searing Blaze
+146,Selesnya Sanctuary
+147,Shadowspear
+148,Sheoldred's Edict
+149,"Sheoldred, the Apocalypse"
+150,Simic Growth Chamber
+151,Skewer the Critics
+152,Skullcrack
+153,Slayers' Stronghold
+154,Spell Snare
+155,Spelunking
+156,Spirebluff Canal
+157,Springleaf Drum
+158,Steam Vents
+159,Stern Scolding
+160,Stomping Ground
+161,Street Wraith
+162,Striped Riverwinder
+163,Subtlety
+164,Summoner's Pact
+165,Sunbaked Canyon
+166,"Sunhome, Fortress of the Legion"
+167,Sunken Citadel
+168,Sunken Ruins
+169,"Takenuma, Abandoned Mire"
+170,Temple Garden
+171,Terminate
+172,The Mycosynth Gardens
+173,The Ozolith
+174,Thoughtseize
+175,Tishana's Tidebinder
+176,Tolaria West
+177,Undying Evil
+178,Unholy Heat
+179,"Urborg, Tomb of Yawgmoth"
+180,Urza's Saga
+181,"Valakut, the Molten Pinnacle"
+182,Verdant Catacombs
+183,Vesuva
+184,Waker of Waves
+185,Walking Ballista
+186,Welding Jar
+187,Windswept Heath
+188,"Zabaz, the Glimmerwasp"
+189,Archaeomancer
+190,Ash Barrens
+191,Augur of Bolas
+192,Axebane Guardian
+193,Azure Fleet Admiral
+194,Breath Weapon
+195,Chain Lightning
+196,Cleansing Wildfire
+197,Crashing Drawbridge
+198,Crimson Fleet Commodore
+199,Destroy Evil
+200,Dispel
+201,Drift of Phantasms
+202,Elvish Mystic
+203,Ephemerate
+204,Experimental Synthesizer
+205,Fiery Cannonade
+206,Freed from the Real
+207,Galvanic Alchemist
+208,Galvanic Blast
+209,Glacial Floodplain
+210,Goblin Blast-Runner
+211,Goblin Bushwhacker
+212,Goblin Tomb Raider
+213,Great Furnace
+214,Implement of Combustion
+215,Jaspera Sentinel
+216,Kenku Artificer
+217,Kuldotha Rebirth
+218,Lead the Stampede
+219,Llanowar Elves
+220,Lose Focus
+221,Maestros Theater
+222,Mulldrifter
+223,Murmuring Mystic
+224,Orochi Leafcaller
+225,Overgrown Battlement
+226,Quirion Ranger
+227,Reaping the Graves
+228,Repository Skaab
+229,Rustvale Bridge
+230,Saruli Caretaker
+231,Seal of Fire
+232,Secret Door
+233,Shield-Wall Sentinel
+234,Silverbluff Bridge
+235,Skred
+236,Snow-Covered Mountain
+237,Snow-Covered Plains
+238,The Autonomous Furnace
+239,Tolarian Terror
+240,Tuktuk Rubblefort
+241,Union of the Third Path
+242,Valakut Invoker
+243,Vivien's Grizzly
+244,Volatile Fjord
+245,Voldaren Epicure
+246,Wall of Roots
+247,Winding Way
+248,Aetherflux Reservoir
+249,Amalia Benavides Aguirre
+250,Bitter Triumph
+251,Blooming Marsh
+252,Castle Locthwain
+253,Chord of Calling
+254,Clearwater Pathway
+255,Collected Company
+256,Consider
+257,Darkslick Shores
+258,"Dina, Soul Steeper"
+259,Disinformation Campaign
+260,Fabled Passage
+261,Geier Reach Sanitarium
+262,Gilded Goose
+263,Go for the Throat
+264,Godless Shrine
+265,Graveyard Trespasser
+266,Hall of Storm Giants
+267,Hive of the Eye Tyrant
+268,Jwari Disruption
+269,Lunarch Veteran
+270,Mana Confluence
+271,Omen of the Sea
+272,Overgrown Tomb
+273,Path of Peril
+274,Plains
+275,Power Word Kill
+276,Prosperous Innkeeper
+277,Razorverge Thicket
+278,Reckoner Bankbuster
+279,Return to the Ranks
+280,Sentinel of the Nameless City
+281,Shipwreck Marsh
+282,Skyclave Apparition
+283,Stubborn Denial
+284,"Tasigur, the Golden Fang"
+285,The Meathook Massacre
+286,Underground River
+287,Watery Grave
+288,Wildgrowth Walker
+289,Adarkar Wastes
+290,Deserted Beach
+291,"Eiganjo, Seat of the Empire"
+292,Farewell
+293,Get Lost
+294,Horned Loch-Whale
+295,"Jace, the Perfected Mind"
+296,Memory Deluge
+297,Mirrex
+298,Quick Study
+299,Restless Anchorage
+300,Sunfall
+301,Temporary Lockdown
+302,The Wandering Emperor
+303,Ancestral Recall
+304,Black Lotus
+305,Demonic Tutor
+306,Dig Through Time
+307,Flusterstorm
+308,Gitaxian Probe
+309,"Lavinia, Azorius Renegade"
+310,Manifold Key
+311,Mental Misstep
+312,Mox Emerald
+313,Mox Jet
+314,Mox Pearl
+315,Mox Ruby
+316,Mox Sapphire
+317,Nihil Spellbomb
+318,Snapcaster Mage
+319,Sol Ring
+320,Spreading Seas
+321,Strip Mine
+322,Swords to Plowshares
+323,Time Vault
+324,Time Walk
+325,Treasure Cruise
+326,Tundra
+327,Acererak the Archlich
+328,Aether Spellbomb
+329,Aether Vial
+330,Allosaurus Shepherd
+331,Aluren
+332,Ancient Tomb
+333,Archon of Emeria
+334,"Atraxa, Grand Unifier"
+335,Back to Basics
+336,Badlands
+337,Baleful Strix
+338,Batterskull
+339,Battle Cry Goblin
+340,Bayou
+341,Beseech the Mirror
+342,Blood Moon
+343,Bojuka Bog
+344,Broadside Bombardiers
+345,Burning Wish
+346,Cabal Therapy
+347,Cavern of Souls
+348,Caves of Chaos Adventurer
+349,Chalice of the Void
+350,Chrome Mox
+351,City of Traitors
+352,Cloudshredder Sliver
+353,Craterhoof Behemoth
+354,Crystalline Sliver
+355,Cursed Mirror
+356,Dark Confidant
+357,Dark Ritual
+358,Death's Shadow
+359,Den of the Bugbear
+360,Dress Down
+361,Dryad Arbor
+362,Duress
+363,Elvish Visionary
+364,"Emry, Lurker of the Loch"
+365,Endurance
+366,Fiend Artisan
+367,Forth Eorlingas!
+368,Fury
+369,Gaea's Cradle
+370,Gaea's Will
+371,Galerider Sliver
+372,Goblin Chieftain
+373,Goblin Rabblemaster
+374,Goblin Trashmaster
+375,Goblin Warchief
+376,Greater Gargadon
+377,Green Sun's Zenith
+378,"Grist, the Hunger Tide"
+379,Heritage Druid
+380,Hibernation Sliver
+381,Infernal Tutor
+382,Kaldra Compleat
+383,Kappa Cannoneer
+384,Karakas
+385,Legion Warboss
+386,Legolas's Quick Reflexes
+387,"Leovold, Emissary of Trest"
+388,Leyline Binding
+389,Life from the Loam
+390,Lion's Eye Diamond
+391,Living Wish
+392,Lotus Petal
+393,Mox Opal
+394,Muscle Sliver
+395,"Muxus, Goblin Grandee"
+396,Mystic Sanctuary
+397,"Narset, Parter of Veils"
+398,Natural Order
+399,Once Upon a Time
+400,Opposition Agent
+401,Plateau
+402,Predatory Sliver
+403,Prismatic Ending
+404,Savannah
+405,Sea Gate Restoration
+406,Seasoned Dungeoneer
+407,Seat of the Synod
+408,Secluded Courtyard
+409,Shatterskull Smashing
+410,Sinew Sliver
+411,Sliver Hive
+412,"Sokenzan, Crucible of Defiance"
+413,Solitude
+414,Song of Creation
+415,"Squee, Dubious Monarch"
+416,Stoneforge Mystic
+417,Striking Sliver
+418,"Syr Ginger, the Meal Ender"
+419,"Teferi, Time Raveler"
+420,Telekinetic Sliver
+421,Tendrils of Agony
+422,Terminus
+423,Thought Monitor
+424,Thoughtcast
+425,Touch the Spirit Realm
+426,True-Name Nemesis
+427,Unclaimed Territory
+428,Unlicensed Hearse
+429,Up the Beanstalk
+430,Urza's Bauble
+431,Vault of Whispers
+432,Wirewood Symbiote
+433,Wishclaw Talisman
+434,Xander's Lounge
+435,_____ Goblin
+436,"Éowyn, Fearless Knight"
+437,Archon of Cruelty
+438,Bitter Reunion
+439,Blood Artist
+440,Castle Vantress
+441,Cathartic Reunion
+442,City of Brass
+443,Colossal Skyturtle
+444,Conflagrate
+445,Creeping Chill
+446,Darkblast
+447,Defile
+448,Delighted Halfling
+449,Dismember
+450,Dwarven Mine
+451,Eldritch Evolution
+452,Golgari Thug
+453,Hallowed Fountain
+454,"Hapatra, Vizier of Poisons"
+455,Haywire Mite
+456,Ignoble Hierarch
+457,Indomitable Creativity
+458,"Inti, Seneschal of the Sun"
+459,Jetmir's Garden
+460,Khalni Garden
+461,Lava Dart
+462,Magus of the Moon
+463,"Minamo, School at Water's Edge"
+464,Mutagenic Growth
+465,Mystic Gate
+466,Narcomoeba
+467,Nishoba Brawler
+468,Nurturing Peatland
+469,Otherworldly Gaze
+470,Ox of Agonas
+471,Persist
+472,Prized Amalgam
+473,Questing Druid
+474,Raugrin Triome
+475,Relic of Progenitus
+476,Reprieve
+477,Savai Triome
+478,Scion of Draco
+479,Seasoned Pyromancer
+480,Shadow Prophecy
+481,Silversmote Ghoul
+482,Soul-Scar Mage
+483,Stinkweed Imp
+484,Stone of Erech
+485,Strangleroot Geist
+486,Strike It Rich
+487,Supreme Verdict
+488,Territorial Kavu
+489,Thrilling Discovery
+490,Tome Scour
+491,Tribal Flames
+492,Twilight Mire
+493,Underworld Breach
+494,Valakut Awakening
+495,Wild Nacatl
+496,Wrenn and Six
+497,"Yawgmoth, Thran Physician"
+498,Young Wolf
+499,Zagoth Triome
+500,Zulaport Cutthroat
+501,Accumulated Knowledge
+502,Agony Warp
+503,All That Glitters
+504,Alms of the Vein
+505,Ancient Den
+506,Arcane Denial
+507,Arms of Hadar
+508,Ashnod's Altar
+509,Avacyn's Pilgrim
+510,Avenging Hunter
+511,Azorius Guildgate
+512,Basilisk Gate
+513,Battle Screech
+514,Behold the Multiverse
+515,Blood Fountain
+516,Boarding Party
+517,Brinebarrow Intruder
+518,Campfire
+519,Candy Grapple
+520,Candy Trail
+521,Cast Down
+522,Chainer's Edict
+523,Chromatic Star
+524,Citadel Gate
+525,Conjurer's Bauble
+526,Contaminated Aquifer
+527,Crop Rotation
+528,Crypt Rats
+529,Crystal Grotto
+530,Darksteel Citadel
+531,Dawnbringer Cleric
+532,Deadly Dispute
+533,Deep Analysis
+534,Desert
+535,Dimir Aqueduct
+536,Drossforge Bridge
+537,Drown in Sorrow
+538,Energy Refractor
+539,Faerie Miscreant
+540,Faerie Seer
+541,Faithless Looting
+542,Fanatical Offering
+543,Fiery Temper
+544,Filigree Familiar
+545,Fog
+546,Frogmite
+547,Gingerbrute
+548,Glint Hawk
+549,Goblin Grenade
+550,Golem Foundry
+551,Growth Spiral
+552,Guardian of the Guildpact
+553,Gurmag Angler
+554,Haunted Mire
+555,Heap Gate
+556,Ichor Wellspring
+557,Idyllic Beachfront
+558,Izzet Charm
+559,Journey to Nowhere
+560,Kitchen Imp
+561,Kor Skyfisher
+562,Lembas
+563,Makeshift Munitions
+564,Metallic Rebuke
+565,Moment's Peace
+566,Moon-Circuit Hacker
+567,Myr Enforcer
+568,Myr Retriever
+569,Ninja of the Deep Hours
+570,Of One Mind
+571,Ornithopter
+572,Polluted Mire
+573,Prismatic Strands
+574,Quandrix Campus
+575,Radiant Fountain
+576,Rakdos Carnarium
+577,Rally the Peasants
+578,Razortide Bridge
+579,Reckoner's Bargain
+580,Rimewood Falls
+581,Rolling Thunder
+582,Rowan's Grim Search
+583,Sacred Cat
+584,Scrapwork Mutt
+585,Sea Gate
+586,Self-Assembler
+587,Smoldering Crater
+588,Snap
+589,Snaremaster Sprite
+590,Snow-Covered Swamp
+591,Spare Supplies
+592,Spellstutter Sprite
+593,Spinning Darkness
+594,Squadron Hawk
+595,Stream of Thought
+596,Suffocating Fumes
+597,Tangle
+598,The Modern Age
+599,Third Path Savant
+600,Thorn of the Black Rose
+601,Thornwood Falls
+602,Thraben Inspector
+603,Tithing Blade
+604,Urza's Mine
+605,Urza's Power Plant
+606,Urza's Tower
+607,Vampire's Kiss
+608,Volcanic Spite
+609,Weather the Storm
+610,Wind-Scarred Crag
+611,Witch's Cottage
+612,Wizard's Rockets
+613,Words of Wisdom
+614,Abrupt Decay
+615,Ancestral Anger
+616,Archfiend of the Dross
+617,Arclight Phoenix
+618,Battlefield Forge
+619,Blightstep Pathway
+620,Bloodtithe Harvester
+621,Bring to Light
+622,Cenote Scout
+623,Darkbore Pathway
+624,Deafening Clarion
+625,Defiant Strike
+626,Dragonskull Summit
+627,Dreadhorde Arcanist
+628,Drowned Catacomb
+629,"Elesh Norn, Mother of Machines"
+630,Evolving Wilds
+631,Extinction Event
+632,Extraction Specialist
+633,Favored Hoplite
+634,Fiery Impulse
+635,Galvanic Iteration
+636,Glacial Fortress
+637,Glissa Sunslayer
+638,Gods Willing
+639,Haunted Ridge
+640,Heartless Act
+641,Hinterland Harbor
+642,Homestead Courage
+643,Illuminator Virtuoso
+644,Indatha Triome
+645,"Kellan, Daring Traveler"
+646,"Kenrith, the Returned King"
+647,Knight of Dusk's Shadow
+648,Lightning Axe
+649,Llanowar Wastes
+650,"Lord Skitter, Sewer King"
+651,Lotus Cobra
+652,Lovestruck Beast
+653,Midnight Reaper
+654,Monstrous Rage
+655,Mosswood Dreadknight
+656,"Nahiri, the Harbinger"
+657,Needleverge Pathway
+658,"Nissa, Resurgent Animist"
+659,Niv-Mizzet Reborn
+660,"Niv-Mizzet, Supreme"
+661,"Omnath, Locus of Creation"
+662,Opt
+663,Picklock Prankster
+664,Priest of Forgotten Gods
+665,Reckless Rage
+666,Risen Reef
+667,Riverglide Pathway
+668,Rootbound Crag
+669,Sejiri Shelter
+670,Shadows' Verdict
+671,Sleight of Hand
+672,Smuggler's Copter
+673,Spara's Headquarters
+674,Spikefield Hazard
+675,Stormcarved Coast
+676,Sulfurous Springs
+677,Sunpetal Grove
+678,Sylvan Caryatid
+679,"Teferi, Hero of Dominaria"
+680,Temporal Trespass
+681,Tenth District Legionnaire
+682,Torch the Tower
+683,"Tyvar, Jubilant Brawler"
+684,Unmoored Ego
+685,"Valki, God of Lies"
+686,Vanishing Verse
+687,Voice of Resurgence
+688,"Vraan, Executioner Thane"
+689,Welcoming Vampire
+690,Westvale Abbey
+691,Woe Strider
+692,Ziatora's Proving Ground
+693,Blue Elemental Blast
+694,Brotherhood's End
+695,Chill
+696,Counterbalance
+697,"Emrakul, the Aeons Torn"
+698,Force of Vigor
+699,Grafdigger's Cage
+700,Hydroblast
+701,Inevitable Betrayal
+702,Meltdown
+703,Null Rod
+704,Powder Keg
+705,Price of Progress
+706,Pyroblast
+707,Surgical Extraction
+708,Cast into the Fire
+709,Celestial Purge
+710,Cityscape Leveler
+711,Cursed Totem
+712,Damping Sphere
+713,Defense Grid
+714,Deflecting Palm
+715,Earthquake
+716,Engineered Explosives
+717,Ensnaring Bridge
+718,Ertai's Scorn
+719,Exquisite Firecraft
+720,Foundation Breaker
+721,Hidetsugu Consumes All
+722,Ingot Chewer
+723,Legion's End
+724,Leyline of the Void
+725,Natural State
+726,Nature's Claim
+727,Path to Exile
+728,Sanctifier en-Vec
+729,Searing Blood
+730,Silence
+731,Smash to Smithereens
+732,Soul-Guide Lantern
+733,Sundering Titan
+734,Tamiyo's Safekeeping
+735,The Stone Brain
+736,"Thrun, Breaker of Silence"
+737,Wear // Tear
+738,Circle of Protection: Blue
+739,End the Festivities
+740,Negate
+741,Raze the Effigy
+742,Red Elemental Blast
+743,Scattershot Archer
+744,Tormod's Crypt
+745,Wrap in Vigor
+746,Dark Betrayal
+747,Deep-Cavern Bat
+748,Disdainful Stroke
+749,Go Blank
+750,"Reidane, God of the Worthy"
+751,Scavenging Ooze
+752,Test of Talents
+753,"Yorion, Sky Nomad"
+754,Boon-Bringer Valkyrie
+755,Knockout Blow
+756,March of Otherworldly Light
+757,Metropolis Reformer
+758,Containment Priest
+759,Dauntless Dismantler
+760,Hurkyl's Recall
+761,Lurrus of the Dream-Den
+762,Mindbreak Trap
+763,Seal of Cleansing
+764,The Tabernacle at Pendrell Vale
+765,Carpet of Flowers
+766,Faerie Macabre
+767,Feed the Swarm
+768,Grapeshot
+769,Harmonic Sliver
+770,Helm of Obedience
+771,Hullbreacher
+772,Hymn to Tourach
+773,"Klothys, God of Destiny"
+774,Loran of the Third Path
+775,Nether Void
+776,Plague Engineer
+777,Pyrokinesis
+778,Spatial Contortion
+779,Surge Node
+780,Torpor Orb
+781,Aether Gust
+782,Alpine Moon
+783,Ancient Grudge
+784,Assassin's Trophy
+785,Commandeer
+786,Damping Matrix
+787,Destructive Revelry
+788,Dromoka's Command
+789,Fulminator Mage
+790,Hallowed Moonlight
+791,"Jegantha, the Wellspring"
+792,"Kaheera, the Orphanguard"
+793,Leyline of Sanctity
+794,Liquimetal Coating
+795,Portable Hole
+796,Reclamation Sage
+797,Rest in Peace
+798,Shenanigans
+799,Soulless Jailer
+800,Tear Asunder
+801,The End
+802,Turn the Earth
+803,Void Mirror
+804,Annul
+805,Blacksmith's Skill
+806,Crimson Acolyte
+807,Deglamer
+808,Distress
+809,Dust to Dust
+810,Echoing Truth
+811,Electrickery
+812,Fangren Marauder
+813,Flaring Pain
+814,Gorilla Shaman
+815,Honorable Scout
+816,Keep Watch
+817,Krark-Clan Shaman
+818,Leave No Trace
+819,Mystic Remora
+820,Obsidian Acolyte
+821,Okiba-Gang Shinobi
+822,Pyrite Spellbomb
+823,Ramosian Rally
+824,Return to Nature
+825,Revoke Existence
+826,Scattershot
+827,Standard Bearer
+828,Stormbound Geist
+829,Troublemaker Ouphe
+830,Unexpected Fangs
+831,Wilt
+832,Abrade
+833,"Aclazotz, Deepest Betrayal"
+834,Anger of the Gods
+835,Cankerbloom
+836,Crackling Drake
+837,Dovin's Veto
+838,Flowstone Infusion
+839,"Heliod, Sun-Crowned"
+840,Light of Hope
+841,Loran's Escape
+842,Narset's Reversal
+843,Notion Thief
+844,Radiant Flames
+845,Remorseful Cleric
+846,Rending Volley
+847,"Saheeli, Sublime Artificer"
+848,Showdown of the Skalds
