@@ -1,0 +1,849 @@
+card id,card name,colors,cmc,type
+1,Birds of Paradise,['G'],1,Creature — Bird
+2,Brainstorm,['U'],1,Instant
+3,Brazen Borrower,['U'],3,Creature — Faerie Rogue
+4,Collector Ouphe,['G'],2,Creature — Ouphe
+5,Crashing Footfalls,['G'],0,Sorcery
+6,Daze,['U'],2,Instant
+7,Delver of Secrets,['U'],1,Creature — Human Wizard
+8,Dragon's Rage Channeler,['R'],1,Creature — Human Shaman
+9,Drown in the Loch,"['B', 'U']",2,Instant
+10,Elvish Spirit Guide,['G'],3,Creature — Elf Spirit
+11,"Ezuri, Claw of Progress","['G', 'U']",4,Legendary Creature — Phyrexian Elf Warrior
+12,Fatal Push,['B'],1,Instant
+13,Fire // Ice,['R'],4,Instant
+14,Flooded Strand,,0,Land
+15,Force of Negation,['U'],3,Instant
+16,Force of Will,['U'],5,Instant
+17,Forest,,0,Basic Land — Forest
+18,Grief,['B'],4,Creature — Elemental Incarnation
+19,Griselbrand,['B'],8,Legendary Creature — Demon
+20,Ice-Fang Coatl,"['G', 'U']",2,Snow Creature — Snake
+21,Island,,0,Basic Land — Island
+22,Lightning Bolt,['R'],1,Instant
+23,Lórien Revealed,['U'],5,Sorcery
+24,"Minsc & Boo, Timeless Heroes","['G', 'R']",4,Legendary Planeswalker — Minsc
+25,Mishra's Bauble,,0,Artifact
+26,Misty Rainforest,,0,Land
+27,Molten Collapse,"['B', 'R']",2,Sorcery
+28,Murktide Regent,['U'],7,Creature — Dragon
+29,Mystical Dispute,['U'],3,Instant
+30,Neoform,"['G', 'U']",2,Sorcery
+31,Orcish Bowmasters,['B'],2,Creature — Orc Archer
+32,Polluted Delta,,0,Land
+33,Ponder,['U'],1,Sorcery
+34,Prismatic Vista,,0,Land
+35,Ramunap Excavator,['G'],3,Creature — Naga Cleric
+36,Reanimate,['B'],1,Sorcery
+37,Scalding Tarn,,0,Land
+38,Shardless Agent,"['G', 'U']",3,Artifact Creature — Human Rogue
+39,Simian Spirit Guide,['R'],3,Creature — Ape Spirit
+40,Snow-Covered Forest,,0,Basic Snow Land — Forest
+41,Snow-Covered Island,,0,Basic Snow Land — Island
+42,Snuff Out,['B'],4,Instant
+43,Spell Pierce,['U'],1,Instant
+44,Stalactite Stalker,['B'],1,Creature — Goblin Rogue
+45,Stifle,['U'],1,Instant
+46,Swamp,,0,Basic Land — Swamp
+47,Taiga,,0,Land — Mountain Forest
+48,The One Ring,,4,Legendary Artifact
+49,Troll of Khazad-dûm,['B'],6,Creature — Troll
+50,Tropical Island,,0,Land — Forest Island
+51,Underground Sea,,0,Land — Island Swamp
+52,"Uro, Titan of Nature's Wrath","['G', 'U']",3,Legendary Creature — Elder Giant
+53,Veil of Summer,['G'],1,Instant
+54,Violent Outburst,"['G', 'R']",3,Instant
+55,Volcanic Island,,0,Land — Island Mountain
+56,Wail of the Forgotten,"['B', 'U']",2,Sorcery
+57,Wasteland,,0,Land
+58,Wooded Foothills,,0,Land
+59,Agatha's Soul Cauldron,None,2,Legendary Artifact
+60,Amulet of Vigor,,1,Artifact
+61,Ancient Stirrings,['G'],1,Sorcery
+62,Animation Module,,1,Artifact
+63,Arboreal Grazer,['G'],1,Creature — Beast
+64,Arcbound Ravager,,2,Artifact Creature — Beast
+65,Architects of Will,"['B', 'U']",4,Artifact Creature — Human Wizard
+66,Archmage's Charm,['U'],3,Instant
+67,Arid Mesa,,0,Land
+68,"Azusa, Lost but Seeking",['G'],3,Legendary Creature — Human Monk
+69,Basilisk Collar,,1,Artifact — Equipment
+70,Blackcleave Cliffs,,0,Land
+71,Blood Crypt,,0,Land — Swamp Mountain
+72,Bloodstained Mire,,0,Land
+73,Bonecrusher Giant,['R'],3,Creature — Giant
+74,Boros Charm,"['R', 'W']",2,Instant
+75,Boros Garrison,,0,Land
+76,"Boseiju, Who Endures",,0,Legendary Land
+77,Breeding Pool,,0,Land — Forest Island
+78,Cabal Coffers,,0,Land
+79,Castle Garenbrig,,0,Land
+80,Change the Equation,['U'],2,Instant
+81,Cling to Dust,['B'],1,Instant
+82,Counterspell,['U'],2,Instant
+83,Cragcrown Pathway,,0,Land
+84,Crumbling Vestige,,0,Land
+85,Cultivator Colossus,['G'],7,Creature — Plant Beast
+86,Curator of Mysteries,['U'],4,Creature — Sphinx
+87,Damnation,['B'],4,Sorcery
+88,Dauthi Voidwalker,['B'],2,Creature — Dauthi Rogue
+89,Dead // Gone,['R'],4,Instant
+90,Demolition Field,,0,Land
+91,Dryad of the Ilysian Grove,['G'],3,Enchantment Creature — Nymph Dryad
+92,Echoing Deeps,None,0,Land — Cave
+93,Elvish Reclaimer,['G'],1,Creature — Elf Warrior
+94,"Emrakul, the Promised End",,13,Legendary Creature — Eldrazi
+95,Expedition Map,,1,Artifact
+96,Explore,['G'],2,Sorcery
+97,Expressive Iteration,"['R', 'U']",2,Sorcery
+98,Fable of the Mirror-Breaker,['R'],3,Enchantment — Saga
+99,Field of Ruin,,0,Land
+100,Fiery Islet,,0,Land
+101,Flagstones of Trokair,,0,Legendary Land
+102,Flame of Anor,"['R', 'U']",3,Instant
+103,Gemstone Caverns,,0,Legendary Land
+104,Generous Ent,['G'],6,Creature — Treefolk
+105,Goblin Guide,['R'],1,Creature — Goblin Scout
+106,Golgari Rot Farm,,0,Land
+107,Grove of the Burnwillows,,0,Land
+108,Gruul Turf,,0,Land
+109,Hangarback Walker,,0,Artifact Creature — Construct
+110,Hanweir Battlements,,0,Land
+111,Hardened Scales,['G'],1,Enchantment
+112,Inkmoth Nexus,,0,Land
+113,Inspiring Vantage,,0,Land
+114,"Karn, the Great Creator",,4,Legendary Planeswalker — Karn
+115,Kessig Wolf Run,,0,Land
+116,Ketria Triome,,0,Land — Forest Island Mountain
+117,Kolaghan's Command,"['B', 'R']",3,Instant
+118,"Kroxa, Titan of Death's Hunger","['B', 'R']",2,Legendary Creature — Elder Giant
+119,Lava Spike,['R'],1,Sorcery — Arcane
+120,Ledger Shredder,['U'],2,Creature — Bird Advisor
+121,Lightning Helix,"['R', 'W']",2,Instant
+122,Littjara Mirrorlake,,0,Land
+123,Living End,['B'],0,Sorcery
+124,March of Wretched Sorrow,['B'],1,Instant
+125,Marsh Flats,,0,Land
+126,Monastery Swiftspear,['R'],1,Creature — Human Monk
+127,Mount Doom,,0,Legendary Land
+128,Mountain,,0,Basic Land — Mountain
+129,Mutavault,,0,Land
+130,Not Dead After All,['B'],1,Instant
+131,Oliphaunt,['R'],6,Creature — Elephant
+132,"Otawara, Soaring City",,0,Legendary Land
+133,Patchwork Automaton,,2,Artifact Creature — Construct
+134,Pendelhaven,,0,Legendary Land
+135,Phyrexia's Core,,0,Land
+136,Pithing Needle,,1,Artifact
+137,Power Conduit,,2,Artifact
+138,Preordain,['U'],1,Sorcery
+139,Primeval Titan,['G'],6,Creature — Giant
+140,Profane Tutor,['B'],0,Sorcery
+141,"Ragavan, Nimble Pilferer",['R'],1,Legendary Creature — Monkey Pirate
+142,Rift Bolt,['R'],3,Sorcery
+143,Roiling Vortex,['R'],2,Enchantment
+144,Sacred Foundry,,0,Land — Mountain Plains
+145,Searing Blaze,['R'],2,Instant
+146,Selesnya Sanctuary,,0,Land
+147,Shadowspear,,1,Legendary Artifact — Equipment
+148,Sheoldred's Edict,['B'],2,Instant
+149,"Sheoldred, the Apocalypse",['B'],4,Legendary Creature — Phyrexian Praetor
+150,Simic Growth Chamber,,0,Land
+151,Skewer the Critics,['R'],3,Sorcery
+152,Skullcrack,['R'],2,Instant
+153,Slayers' Stronghold,,0,Land
+154,Spell Snare,['U'],1,Instant
+155,Spelunking,['G'],3,Enchantment
+156,Spirebluff Canal,,0,Land
+157,Springleaf Drum,,1,Artifact
+158,Steam Vents,,0,Land — Island Mountain
+159,Stern Scolding,['U'],1,Instant
+160,Stomping Ground,,0,Land — Mountain Forest
+161,Street Wraith,['B'],5,Creature — Wraith
+162,Striped Riverwinder,['U'],7,Creature — Serpent
+163,Subtlety,['U'],4,Creature — Elemental Incarnation
+164,Summoner's Pact,['G'],0,Instant
+165,Sunbaked Canyon,,0,Land
+166,"Sunhome, Fortress of the Legion",,0,Land
+167,Sunken Citadel,None,0,Land — Cave
+168,Sunken Ruins,,0,Land
+169,"Takenuma, Abandoned Mire",,0,Legendary Land
+170,Temple Garden,,0,Land — Forest Plains
+171,Terminate,"['B', 'R']",2,Instant
+172,The Mycosynth Gardens,,0,Land — Sphere
+173,The Ozolith,,1,Legendary Artifact
+174,Thoughtseize,['B'],1,Sorcery
+175,Tishana's Tidebinder,['U'],3,Creature — Merfolk Wizard
+176,Tolaria West,,0,Land
+177,Undying Evil,['B'],1,Instant
+178,Unholy Heat,['R'],1,Instant
+179,"Urborg, Tomb of Yawgmoth",,0,Legendary Land
+180,Urza's Saga,,0,Enchantment Land — Urza's Saga
+181,"Valakut, the Molten Pinnacle",,0,Land
+182,Verdant Catacombs,,0,Land
+183,Vesuva,,0,Land
+184,Waker of Waves,['U'],7,Creature — Whale
+185,Walking Ballista,,0,Artifact Creature — Construct
+186,Welding Jar,,0,Artifact
+187,Windswept Heath,,0,Land
+188,"Zabaz, the Glimmerwasp",,1,Legendary Artifact Creature — Insect
+189,Archaeomancer,['U'],4,Creature — Human Wizard
+190,Ash Barrens,,0,Land
+191,Augur of Bolas,['U'],2,Creature — Merfolk Wizard
+192,Axebane Guardian,['G'],3,Creature — Human Druid
+193,Azure Fleet Admiral,['U'],4,Creature — Human Pirate
+194,Breath Weapon,['R'],3,Instant
+195,Chain Lightning,['R'],1,Sorcery
+196,Cleansing Wildfire,['R'],2,Sorcery
+197,Crashing Drawbridge,,2,Artifact Creature — Wall
+198,Crimson Fleet Commodore,['R'],4,Creature — Ogre Pirate
+199,Destroy Evil,['W'],2,Instant
+200,Dispel,['U'],1,Instant
+201,Drift of Phantasms,['U'],3,Creature — Spirit
+202,Elvish Mystic,['G'],1,Creature — Elf Druid
+203,Ephemerate,['W'],1,Instant
+204,Experimental Synthesizer,['R'],1,Artifact
+205,Fiery Cannonade,['R'],3,Instant
+206,Freed from the Real,['U'],3,Enchantment — Aura
+207,Galvanic Alchemist,['U'],3,Creature — Human Wizard
+208,Galvanic Blast,['R'],1,Instant
+209,Glacial Floodplain,,0,Snow Land — Plains Island
+210,Goblin Blast-Runner,['R'],1,Creature — Goblin
+211,Goblin Bushwhacker,['R'],1,Creature — Goblin Warrior
+212,Goblin Tomb Raider,['R'],1,Creature — Goblin Pirate
+213,Great Furnace,,0,Artifact Land
+214,Implement of Combustion,,1,Artifact
+215,Jaspera Sentinel,['G'],1,Creature — Elf Rogue
+216,Kenku Artificer,['U'],3,Creature — Bird Artificer
+217,Kuldotha Rebirth,['R'],1,Sorcery
+218,Lead the Stampede,['G'],3,Sorcery
+219,Llanowar Elves,['G'],1,Creature — Elf Druid
+220,Lose Focus,['U'],2,Instant
+221,Maestros Theater,,0,Land
+222,Mulldrifter,['U'],5,Creature — Elemental
+223,Murmuring Mystic,['U'],4,Creature — Human Wizard
+224,Orochi Leafcaller,['G'],1,Creature — Snake Shaman
+225,Overgrown Battlement,['G'],2,Creature — Wall
+226,Quirion Ranger,['G'],1,Creature — Elf Ranger
+227,Reaping the Graves,['B'],3,Instant
+228,Repository Skaab,['U'],4,Creature — Zombie
+229,Rustvale Bridge,,0,Artifact Land
+230,Saruli Caretaker,['G'],1,Creature — Dryad
+231,Seal of Fire,['R'],1,Enchantment
+232,Secret Door,['U'],1,Artifact Creature — Wall
+233,Shield-Wall Sentinel,,4,Artifact Creature — Golem
+234,Silverbluff Bridge,,0,Artifact Land
+235,Skred,['R'],1,Instant
+236,Snow-Covered Mountain,,0,Basic Snow Land — Mountain
+237,Snow-Covered Plains,,0,Basic Snow Land — Plains
+238,The Autonomous Furnace,,0,Land — Sphere
+239,Tolarian Terror,['U'],7,Creature — Serpent
+240,Tuktuk Rubblefort,['R'],3,Creature — Wall
+241,Union of the Third Path,['W'],3,Instant
+242,Valakut Invoker,['R'],3,Creature — Human Shaman
+243,Vivien's Grizzly,['G'],3,Creature — Bear Spirit
+244,Volatile Fjord,,0,Snow Land — Island Mountain
+245,Voldaren Epicure,['R'],1,Creature — Vampire
+246,Wall of Roots,['G'],2,Creature — Plant Wall
+247,Winding Way,['G'],2,Sorcery
+248,Aetherflux Reservoir,,4,Artifact
+249,Amalia Benavides Aguirre,"['B', 'W']",2,Legendary Creature — Vampire Scout
+250,Bitter Triumph,['B'],2,Instant
+251,Blooming Marsh,,0,Land
+252,Castle Locthwain,,0,Land
+253,Chord of Calling,['G'],3,Instant
+254,Clearwater Pathway,,0,Land
+255,Collected Company,['G'],4,Instant
+256,Consider,['U'],1,Instant
+257,Darkslick Shores,,0,Land
+258,"Dina, Soul Steeper","['B', 'G']",2,Legendary Creature — Dryad Druid
+259,Disinformation Campaign,"['B', 'U']",3,Enchantment
+260,Fabled Passage,,0,Land
+261,Geier Reach Sanitarium,,0,Legendary Land
+262,Gilded Goose,['G'],1,Creature — Bird
+263,Go for the Throat,['B'],2,Instant
+264,Godless Shrine,,0,Land — Plains Swamp
+265,Graveyard Trespasser,['B'],3,Creature — Human Werewolf
+266,Hall of Storm Giants,,0,Land
+267,Hive of the Eye Tyrant,,0,Land
+268,Jwari Disruption,['U'],2,Instant
+269,Lunarch Veteran,['W'],1,Creature — Human Cleric
+270,Mana Confluence,,0,Land
+271,Omen of the Sea,['U'],2,Enchantment
+272,Overgrown Tomb,,0,Land — Swamp Forest
+273,Path of Peril,['B'],3,Sorcery
+274,Plains,,0,Basic Land — Plains
+275,Power Word Kill,['B'],2,Instant
+276,Prosperous Innkeeper,['G'],2,Creature — Halfling Citizen
+277,Razorverge Thicket,,0,Land
+278,Reckoner Bankbuster,,2,Artifact — Vehicle
+279,Return to the Ranks,['W'],2,Sorcery
+280,Sentinel of the Nameless City,['G'],3,Creature — Merfolk Warrior Scout
+281,Shipwreck Marsh,,0,Land
+282,Skyclave Apparition,['W'],3,Creature — Kor Spirit
+283,Stubborn Denial,['U'],1,Instant
+284,"Tasigur, the Golden Fang",['B'],6,Legendary Creature — Human Shaman
+285,The Meathook Massacre,['B'],2,Legendary Enchantment
+286,Underground River,,0,Land
+287,Watery Grave,,0,Land — Island Swamp
+288,Wildgrowth Walker,['G'],2,Creature — Elemental
+289,Adarkar Wastes,,0,Land
+290,Deserted Beach,,0,Land
+291,"Eiganjo, Seat of the Empire",,0,Legendary Land
+292,Farewell,['W'],6,Sorcery
+293,Get Lost,['W'],2,Instant
+294,Horned Loch-Whale,['U'],6,Creature — Whale
+295,"Jace, the Perfected Mind",['U'],4,Legendary Planeswalker — Jace
+296,Memory Deluge,['U'],4,Instant
+297,Mirrex,,0,Land — Sphere
+298,Quick Study,['U'],3,Instant
+299,Restless Anchorage,None,0,Land
+300,Sunfall,['W'],5,Sorcery
+301,Temporary Lockdown,['W'],3,Enchantment
+302,The Wandering Emperor,['W'],4,Legendary Planeswalker
+303,Ancestral Recall,['U'],1,Instant
+304,Black Lotus,,0,Artifact
+305,Demonic Tutor,['B'],2,Sorcery
+306,Dig Through Time,['U'],8,Instant
+307,Flusterstorm,['U'],1,Instant
+308,Gitaxian Probe,['U'],1,Sorcery
+309,"Lavinia, Azorius Renegade","['U', 'W']",2,Legendary Creature — Human Soldier
+310,Manifold Key,,1,Artifact
+311,Mental Misstep,['U'],1,Instant
+312,Mox Emerald,,0,Artifact
+313,Mox Jet,,0,Artifact
+314,Mox Pearl,,0,Artifact
+315,Mox Ruby,,0,Artifact
+316,Mox Sapphire,,0,Artifact
+317,Nihil Spellbomb,,1,Artifact
+318,Snapcaster Mage,['U'],2,Creature — Human Wizard
+319,Sol Ring,,1,Artifact
+320,Spreading Seas,['U'],2,Enchantment — Aura
+321,Strip Mine,,0,Land
+322,Swords to Plowshares,['W'],1,Instant
+323,Time Vault,,2,Artifact
+324,Time Walk,['U'],2,Sorcery
+325,Treasure Cruise,['U'],8,Sorcery
+326,Tundra,,0,Land — Plains Island
+327,Acererak the Archlich,['B'],3,Legendary Creature — Zombie Wizard
+328,Aether Spellbomb,,1,Artifact
+329,Aether Vial,,1,Artifact
+330,Allosaurus Shepherd,['G'],1,Creature — Elf Shaman
+331,Aluren,['G'],4,Enchantment
+332,Ancient Tomb,,0,Land
+333,Archon of Emeria,['W'],3,Creature — Archon
+334,"Atraxa, Grand Unifier","['B', 'G', 'U', 'W']",7,Legendary Creature — Phyrexian Angel
+335,Back to Basics,['U'],3,Enchantment
+336,Badlands,,0,Land — Swamp Mountain
+337,Baleful Strix,"['B', 'U']",2,Artifact Creature — Bird
+338,Batterskull,,5,Artifact — Equipment
+339,Battle Cry Goblin,['R'],2,Creature — Goblin
+340,Bayou,,0,Land — Swamp Forest
+341,Beseech the Mirror,['B'],4,Sorcery
+342,Blood Moon,['R'],3,Enchantment
+343,Bojuka Bog,,0,Land
+344,Broadside Bombardiers,['R'],3,Creature — Goblin Pirate
+345,Burning Wish,['R'],2,Sorcery
+346,Cabal Therapy,['B'],1,Sorcery
+347,Cavern of Souls,,0,Land
+348,Caves of Chaos Adventurer,['R'],4,Creature — Human Barbarian
+349,Chalice of the Void,,0,Artifact
+350,Chrome Mox,,0,Artifact
+351,City of Traitors,,0,Land
+352,Cloudshredder Sliver,"['R', 'W']",2,Creature — Sliver
+353,Craterhoof Behemoth,['G'],8,Creature — Beast
+354,Crystalline Sliver,"['U', 'W']",2,Creature — Sliver
+355,Cursed Mirror,['R'],3,Artifact
+356,Dark Confidant,['B'],2,Creature — Human Wizard
+357,Dark Ritual,['B'],1,Instant
+358,Death's Shadow,['B'],1,Creature — Avatar
+359,Den of the Bugbear,,0,Land
+360,Dress Down,['U'],2,Enchantment
+361,Dryad Arbor,['G'],0,Land Creature — Forest Dryad
+362,Duress,['B'],1,Sorcery
+363,Elvish Visionary,['G'],2,Creature — Elf Shaman
+364,"Emry, Lurker of the Loch",['U'],3,Legendary Creature — Merfolk Wizard
+365,Endurance,['G'],3,Creature — Elemental Incarnation
+366,Fiend Artisan,"['B', 'G']",2,Creature — Nightmare
+367,Forth Eorlingas!,"['R', 'W']",2,Sorcery
+368,Fury,['R'],5,Creature — Elemental Incarnation
+369,Gaea's Cradle,,0,Legendary Land
+370,Gaea's Will,['G'],0,Sorcery
+371,Galerider Sliver,['U'],1,Creature — Sliver
+372,Goblin Chieftain,['R'],3,Creature — Goblin
+373,Goblin Rabblemaster,['R'],3,Creature — Goblin Warrior
+374,Goblin Trashmaster,['R'],4,Creature — Goblin Warrior
+375,Goblin Warchief,['R'],3,Creature — Goblin Warrior
+376,Greater Gargadon,['R'],10,Creature — Beast
+377,Green Sun's Zenith,['G'],1,Sorcery
+378,"Grist, the Hunger Tide","['B', 'G']",3,Legendary Planeswalker — Grist
+379,Heritage Druid,['G'],1,Creature — Elf Druid
+380,Hibernation Sliver,"['B', 'U']",2,Creature — Sliver
+381,Infernal Tutor,['B'],2,Sorcery
+382,Kaldra Compleat,,7,Legendary Artifact — Equipment
+383,Kappa Cannoneer,['U'],6,Artifact Creature — Turtle Warrior
+384,Karakas,,0,Legendary Land
+385,Legion Warboss,['R'],3,Creature — Goblin Soldier
+386,Legolas's Quick Reflexes,['G'],1,Instant
+387,"Leovold, Emissary of Trest","['B', 'G', 'U']",3,Legendary Creature — Elf Advisor
+388,Leyline Binding,['W'],6,Enchantment
+389,Life from the Loam,['G'],2,Sorcery
+390,Lion's Eye Diamond,,0,Artifact
+391,Living Wish,['G'],2,Sorcery
+392,Lotus Petal,,0,Artifact
+393,Mox Opal,,0,Legendary Artifact
+394,Muscle Sliver,['G'],2,Creature — Sliver
+395,"Muxus, Goblin Grandee",['R'],6,Legendary Creature — Goblin Noble
+396,Mystic Sanctuary,,0,Land — Island
+397,"Narset, Parter of Veils",['U'],3,Legendary Planeswalker — Narset
+398,Natural Order,['G'],4,Sorcery
+399,Once Upon a Time,['G'],2,Instant
+400,Opposition Agent,['B'],3,Creature — Human Rogue
+401,Plateau,,0,Land — Mountain Plains
+402,Predatory Sliver,['G'],2,Creature — Sliver
+403,Prismatic Ending,['W'],1,Sorcery
+404,Savannah,,0,Land — Forest Plains
+405,Sea Gate Restoration,['U'],7,Sorcery
+406,Seasoned Dungeoneer,['W'],4,Creature — Human Warrior
+407,Seat of the Synod,,0,Artifact Land
+408,Secluded Courtyard,,0,Land
+409,Shatterskull Smashing,['R'],2,Sorcery
+410,Sinew Sliver,['W'],2,Creature — Sliver
+411,Sliver Hive,,0,Land
+412,"Sokenzan, Crucible of Defiance",,0,Legendary Land
+413,Solitude,['W'],5,Creature — Elemental Incarnation
+414,Song of Creation,"['G', 'R', 'U']",4,Enchantment
+415,"Squee, Dubious Monarch",['R'],3,Legendary Creature — Goblin Noble
+416,Stoneforge Mystic,['W'],2,Creature — Kor Artificer
+417,Striking Sliver,['R'],1,Creature — Sliver
+418,"Syr Ginger, the Meal Ender",None,2,Legendary Artifact Creature — Food Knight
+419,"Teferi, Time Raveler","['U', 'W']",3,Legendary Planeswalker — Teferi
+420,Telekinetic Sliver,['U'],4,Creature — Sliver
+421,Tendrils of Agony,['B'],4,Sorcery
+422,Terminus,['W'],6,Sorcery
+423,Thought Monitor,['U'],7,Artifact Creature — Construct
+424,Thoughtcast,['U'],5,Sorcery
+425,Touch the Spirit Realm,['W'],3,Enchantment
+426,True-Name Nemesis,['U'],3,Creature — Merfolk Rogue
+427,Unclaimed Territory,,0,Land
+428,Unlicensed Hearse,,2,Artifact — Vehicle
+429,Up the Beanstalk,['G'],2,Enchantment
+430,Urza's Bauble,,0,Artifact
+431,Vault of Whispers,,0,Artifact Land
+432,Wirewood Symbiote,['G'],1,Creature — Insect
+433,Wishclaw Talisman,['B'],2,Artifact
+434,Xander's Lounge,,0,Land — Island Swamp Mountain
+435,_____ Goblin,['R'],3,Creature — Goblin Guest
+436,"Éowyn, Fearless Knight","['R', 'W']",4,Legendary Creature — Human Knight
+437,Archon of Cruelty,['B'],8,Creature — Archon
+438,Bitter Reunion,['R'],2,Enchantment
+439,Blood Artist,['B'],2,Creature — Vampire
+440,Castle Vantress,,0,Land
+441,Cathartic Reunion,['R'],2,Sorcery
+442,City of Brass,,0,Land
+443,Colossal Skyturtle,"['G', 'U']",7,Enchantment Creature — Turtle
+444,Conflagrate,['R'],1,Sorcery
+445,Creeping Chill,['B'],4,Sorcery
+446,Darkblast,['B'],1,Instant
+447,Defile,['B'],1,Instant
+448,Delighted Halfling,['G'],1,Creature — Halfling Citizen
+449,Dismember,['B'],3,Instant
+450,Dwarven Mine,,0,Land — Mountain
+451,Eldritch Evolution,['G'],3,Sorcery
+452,Golgari Thug,['B'],2,Creature — Human Warrior
+453,Hallowed Fountain,,0,Land — Plains Island
+454,"Hapatra, Vizier of Poisons","['B', 'G']",2,Legendary Creature — Human Cleric
+455,Haywire Mite,,1,Artifact Creature — Insect
+456,Ignoble Hierarch,['G'],1,Creature — Goblin Shaman
+457,Indomitable Creativity,['R'],3,Sorcery
+458,"Inti, Seneschal of the Sun",['R'],2,Legendary Creature — Human Knight
+459,Jetmir's Garden,,0,Land — Mountain Forest Plains
+460,Khalni Garden,,0,Land
+461,Lava Dart,['R'],1,Instant
+462,Magus of the Moon,['R'],3,Creature — Human Wizard
+463,"Minamo, School at Water's Edge",,0,Legendary Land
+464,Mutagenic Growth,['G'],1,Instant
+465,Mystic Gate,,0,Land
+466,Narcomoeba,['U'],2,Creature — Illusion
+467,Nishoba Brawler,['G'],2,Creature — Cat Warrior
+468,Nurturing Peatland,,0,Land
+469,Otherworldly Gaze,['U'],1,Instant
+470,Ox of Agonas,['R'],5,Creature — Ox
+471,Persist,['B'],2,Sorcery
+472,Prized Amalgam,"['B', 'U']",3,Creature — Zombie
+473,Questing Druid,['G'],2,Creature — Human Druid
+474,Raugrin Triome,,0,Land — Island Mountain Plains
+475,Relic of Progenitus,,1,Artifact
+476,Reprieve,['W'],2,Instant
+477,Savai Triome,,0,Land — Mountain Plains Swamp
+478,Scion of Draco,,12,Artifact Creature — Dragon
+479,Seasoned Pyromancer,['R'],3,Creature — Human Shaman
+480,Shadow Prophecy,['B'],3,Instant
+481,Silversmote Ghoul,['B'],3,Creature — Zombie Vampire
+482,Soul-Scar Mage,['R'],1,Creature — Human Wizard
+483,Stinkweed Imp,['B'],3,Creature — Imp
+484,Stone of Erech,,1,Legendary Artifact
+485,Strangleroot Geist,['G'],2,Creature — Spirit
+486,Strike It Rich,['R'],1,Sorcery
+487,Supreme Verdict,"['U', 'W']",4,Sorcery
+488,Territorial Kavu,"['G', 'R']",2,Creature — Kavu
+489,Thrilling Discovery,"['R', 'W']",2,Sorcery
+490,Tome Scour,['U'],1,Sorcery
+491,Tribal Flames,['R'],2,Sorcery
+492,Twilight Mire,,0,Land
+493,Underworld Breach,['R'],2,Enchantment
+494,Valakut Awakening,['R'],3,Instant
+495,Wild Nacatl,['G'],1,Creature — Cat Warrior
+496,Wrenn and Six,"['G', 'R']",2,Legendary Planeswalker — Wrenn
+497,"Yawgmoth, Thran Physician",['B'],4,Legendary Creature — Human Cleric
+498,Young Wolf,['G'],1,Creature — Wolf
+499,Zagoth Triome,,0,Land — Swamp Forest Island
+500,Zulaport Cutthroat,['B'],2,Creature — Human Rogue Ally
+501,Accumulated Knowledge,['U'],2,Instant
+502,Agony Warp,"['B', 'U']",2,Instant
+503,All That Glitters,['W'],2,Enchantment — Aura
+504,Alms of the Vein,['B'],3,Sorcery
+505,Ancient Den,,0,Artifact Land
+506,Arcane Denial,['U'],2,Instant
+507,Arms of Hadar,['B'],4,Sorcery
+508,Ashnod's Altar,,3,Artifact
+509,Avacyn's Pilgrim,['G'],1,Creature — Human Monk
+510,Avenging Hunter,['G'],5,Creature — Dragon Ranger
+511,Azorius Guildgate,,0,Land — Gate
+512,Basilisk Gate,,0,Land — Gate
+513,Battle Screech,['W'],4,Sorcery
+514,Behold the Multiverse,['U'],4,Instant
+515,Blood Fountain,['B'],1,Artifact
+516,Boarding Party,['R'],6,Creature — Human Pirate
+517,Brinebarrow Intruder,['U'],1,Creature — Human Rogue
+518,Campfire,,1,Artifact
+519,Candy Grapple,['B'],2,Instant
+520,Candy Trail,None,1,Artifact — Food Clue
+521,Cast Down,['B'],2,Instant
+522,Chainer's Edict,['B'],2,Sorcery
+523,Chromatic Star,,1,Artifact
+524,Citadel Gate,,0,Land — Gate
+525,Conjurer's Bauble,,1,Artifact
+526,Contaminated Aquifer,,0,Land — Island Swamp
+527,Crop Rotation,['G'],1,Instant
+528,Crypt Rats,['B'],3,Creature — Rat
+529,Crystal Grotto,,0,Land
+530,Darksteel Citadel,,0,Artifact Land
+531,Dawnbringer Cleric,['W'],2,Creature — Human Cleric
+532,Deadly Dispute,['B'],2,Instant
+533,Deep Analysis,['U'],4,Sorcery
+534,Desert,,0,Land — Desert
+535,Dimir Aqueduct,,0,Land
+536,Drossforge Bridge,,0,Artifact Land
+537,Drown in Sorrow,['B'],3,Sorcery
+538,Energy Refractor,,2,Artifact
+539,Faerie Miscreant,['U'],1,Creature — Faerie Rogue
+540,Faerie Seer,['U'],1,Creature — Faerie Wizard
+541,Faithless Looting,['R'],1,Sorcery
+542,Fanatical Offering,['B'],2,Instant
+543,Fiery Temper,['R'],3,Instant
+544,Filigree Familiar,,3,Artifact Creature — Fox
+545,Fog,['G'],1,Instant
+546,Frogmite,,4,Artifact Creature — Frog
+547,Gingerbrute,,1,Artifact Creature — Food Golem
+548,Glint Hawk,['W'],1,Creature — Bird
+549,Goblin Grenade,['R'],1,Sorcery
+550,Golem Foundry,,3,Artifact
+551,Growth Spiral,"['G', 'U']",2,Instant
+552,Guardian of the Guildpact,['W'],4,Creature — Spirit
+553,Gurmag Angler,['B'],7,Creature — Zombie Fish
+554,Haunted Mire,,0,Land — Swamp Forest
+555,Heap Gate,,0,Land — Gate
+556,Ichor Wellspring,,2,Artifact
+557,Idyllic Beachfront,,0,Land — Plains Island
+558,Izzet Charm,"['R', 'U']",2,Instant
+559,Journey to Nowhere,['W'],2,Enchantment
+560,Kitchen Imp,['B'],4,Creature — Imp
+561,Kor Skyfisher,['W'],2,Creature — Kor Soldier
+562,Lembas,,2,Artifact — Food
+563,Makeshift Munitions,['R'],2,Enchantment
+564,Metallic Rebuke,['U'],3,Instant
+565,Moment's Peace,['G'],2,Instant
+566,Moon-Circuit Hacker,['U'],2,Enchantment Creature — Human Ninja
+567,Myr Enforcer,,7,Artifact Creature — Myr
+568,Myr Retriever,,2,Artifact Creature — Myr
+569,Ninja of the Deep Hours,['U'],4,Creature — Human Ninja
+570,Of One Mind,['U'],3,Sorcery
+571,Ornithopter,,0,Artifact Creature — Thopter
+572,Polluted Mire,,0,Land
+573,Prismatic Strands,['W'],3,Instant
+574,Quandrix Campus,,0,Land
+575,Radiant Fountain,,0,Land
+576,Rakdos Carnarium,,0,Land
+577,Rally the Peasants,['W'],3,Instant
+578,Razortide Bridge,,0,Artifact Land
+579,Reckoner's Bargain,['B'],2,Instant
+580,Rimewood Falls,,0,Snow Land — Forest Island
+581,Rolling Thunder,['R'],2,Sorcery
+582,Rowan's Grim Search,['B'],3,Instant
+583,Sacred Cat,['W'],1,Creature — Cat
+584,Scrapwork Mutt,,2,Artifact Creature — Dog
+585,Sea Gate,,0,Land — Gate
+586,Self-Assembler,,5,Artifact Creature — Assembly-Worker
+587,Smoldering Crater,,0,Land
+588,Snap,['U'],2,Instant
+589,Snaremaster Sprite,['U'],1,Creature — Faerie Wizard
+590,Snow-Covered Swamp,,0,Basic Snow Land — Swamp
+591,Spare Supplies,,2,Artifact
+592,Spellstutter Sprite,['U'],2,Creature — Faerie Wizard
+593,Spinning Darkness,['B'],6,Instant
+594,Squadron Hawk,['W'],2,Creature — Bird
+595,Stream of Thought,['U'],1,Sorcery
+596,Suffocating Fumes,['B'],3,Instant
+597,Tangle,['G'],2,Instant
+598,The Modern Age,['U'],2,Enchantment — Saga
+599,Third Path Savant,['U'],3,Creature — Human Wizard
+600,Thorn of the Black Rose,['B'],4,Creature — Human Assassin
+601,Thornwood Falls,,0,Land
+602,Thraben Inspector,['W'],1,Creature — Human Soldier
+603,Tithing Blade,['B'],2,Artifact
+604,Urza's Mine,,0,Land — Urza's Mine
+605,Urza's Power Plant,,0,Land — Urza's Power-Plant
+606,Urza's Tower,,0,Land — Urza's Tower
+607,Vampire's Kiss,['B'],2,Sorcery
+608,Volcanic Spite,['R'],2,Instant
+609,Weather the Storm,['G'],2,Instant
+610,Wind-Scarred Crag,,0,Land
+611,Witch's Cottage,,0,Land — Swamp
+612,Wizard's Rockets,,1,Artifact
+613,Words of Wisdom,['U'],2,Instant
+614,Abrupt Decay,"['B', 'G']",2,Instant
+615,Ancestral Anger,['R'],1,Sorcery
+616,Archfiend of the Dross,['B'],4,Creature — Phyrexian Demon
+617,Arclight Phoenix,['R'],4,Creature — Phoenix
+618,Battlefield Forge,,0,Land
+619,Blightstep Pathway,,0,Land
+620,Bloodtithe Harvester,"['B', 'R']",2,Creature — Vampire
+621,Bring to Light,"['G', 'U']",5,Sorcery
+622,Cenote Scout,['G'],1,Creature — Merfolk Scout
+623,Darkbore Pathway,,0,Land
+624,Deafening Clarion,"['R', 'W']",3,Sorcery
+625,Defiant Strike,['W'],1,Instant
+626,Dragonskull Summit,,0,Land
+627,Dreadhorde Arcanist,['R'],2,Creature — Zombie Wizard
+628,Drowned Catacomb,,0,Land
+629,"Elesh Norn, Mother of Machines",['W'],5,Legendary Creature — Phyrexian Praetor
+630,Evolving Wilds,,0,Land
+631,Extinction Event,['B'],4,Sorcery
+632,Extraction Specialist,['W'],3,Creature — Human Rogue
+633,Favored Hoplite,['W'],1,Creature — Human Soldier
+634,Fiery Impulse,['R'],1,Instant
+635,Galvanic Iteration,"['R', 'U']",2,Instant
+636,Glacial Fortress,,0,Land
+637,Glissa Sunslayer,"['B', 'G']",3,Legendary Creature — Phyrexian Zombie Elf
+638,Gods Willing,['W'],1,Instant
+639,Haunted Ridge,,0,Land
+640,Heartless Act,['B'],2,Instant
+641,Hinterland Harbor,,0,Land
+642,Homestead Courage,['W'],1,Sorcery
+643,Illuminator Virtuoso,['W'],2,Creature — Human Rogue
+644,Indatha Triome,,0,Land — Plains Swamp Forest
+645,"Kellan, Daring Traveler",['W'],2,Legendary Creature — Human Faerie Scout
+646,"Kenrith, the Returned King",['W'],5,Legendary Creature — Human Noble
+647,Knight of Dusk's Shadow,['B'],2,Creature — Human Knight
+648,Lightning Axe,['R'],1,Instant
+649,Llanowar Wastes,,0,Land
+650,"Lord Skitter, Sewer King",['B'],3,Legendary Creature — Rat Noble
+651,Lotus Cobra,['G'],2,Creature — Snake
+652,Lovestruck Beast,['G'],3,Creature — Beast Noble
+653,Midnight Reaper,['B'],3,Creature — Zombie Knight
+654,Monstrous Rage,['R'],1,Instant
+655,Mosswood Dreadknight,['G'],2,Creature — Human Knight
+656,"Nahiri, the Harbinger","['R', 'W']",4,Legendary Planeswalker — Nahiri
+657,Needleverge Pathway,,0,Land
+658,"Nissa, Resurgent Animist",['G'],3,Legendary Creature — Elf Scout
+659,Niv-Mizzet Reborn,"['B', 'G', 'R', 'U', 'W']",5,Legendary Creature — Dragon Avatar
+660,"Niv-Mizzet, Supreme","['B', 'G', 'R', 'U', 'W']",5,Legendary Creature — Dragon Avatar
+661,"Omnath, Locus of Creation","['G', 'R', 'U', 'W']",4,Legendary Creature — Elemental
+662,Opt,['U'],1,Instant
+663,Picklock Prankster,['U'],2,Creature — Faerie Rogue
+664,Priest of Forgotten Gods,['B'],2,Creature — Human Cleric
+665,Reckless Rage,['R'],1,Instant
+666,Risen Reef,"['G', 'U']",3,Creature — Elemental
+667,Riverglide Pathway,,0,Land
+668,Rootbound Crag,,0,Land
+669,Sejiri Shelter,['W'],2,Instant
+670,Shadows' Verdict,['B'],5,Sorcery
+671,Sleight of Hand,['U'],1,Sorcery
+672,Smuggler's Copter,,2,Artifact — Vehicle
+673,Spara's Headquarters,,0,Land — Forest Plains Island
+674,Spikefield Hazard,['R'],1,Instant
+675,Stormcarved Coast,,0,Land
+676,Sulfurous Springs,,0,Land
+677,Sunpetal Grove,,0,Land
+678,Sylvan Caryatid,['G'],2,Creature — Plant
+679,"Teferi, Hero of Dominaria","['U', 'W']",5,Legendary Planeswalker — Teferi
+680,Temporal Trespass,['U'],11,Sorcery
+681,Tenth District Legionnaire,"['R', 'W']",2,Creature — Human Soldier
+682,Torch the Tower,['R'],1,Instant
+683,"Tyvar, Jubilant Brawler","['B', 'G']",3,Legendary Planeswalker — Tyvar
+684,Unmoored Ego,"['B', 'U']",3,Sorcery
+685,"Valki, God of Lies",['B'],2,Legendary Creature — God
+686,Vanishing Verse,"['B', 'W']",2,Instant
+687,Voice of Resurgence,"['G', 'W']",2,Creature — Elemental
+688,"Vraan, Executioner Thane",['B'],2,Legendary Creature — Phyrexian Vampire
+689,Welcoming Vampire,['W'],3,Creature — Vampire
+690,Westvale Abbey,,0,Land
+691,Woe Strider,['B'],3,Creature — Horror
+692,Ziatora's Proving Ground,,0,Land — Swamp Mountain Forest
+693,Blue Elemental Blast,['U'],1,Instant
+694,Brotherhood's End,['R'],3,Sorcery
+695,Chill,['U'],2,Enchantment
+696,Counterbalance,['U'],2,Enchantment
+697,"Emrakul, the Aeons Torn",,15,Legendary Creature — Eldrazi
+698,Force of Vigor,['G'],4,Instant
+699,Grafdigger's Cage,,1,Artifact
+700,Hydroblast,['U'],1,Instant
+701,Inevitable Betrayal,['U'],0,Sorcery
+702,Meltdown,['R'],1,Sorcery
+703,Null Rod,,2,Artifact
+704,Powder Keg,,2,Artifact
+705,Price of Progress,['R'],2,Instant
+706,Pyroblast,['R'],1,Instant
+707,Surgical Extraction,['B'],1,Instant
+708,Cast into the Fire,['R'],2,Instant
+709,Celestial Purge,['W'],2,Instant
+710,Cityscape Leveler,,8,Artifact Creature — Construct
+711,Cursed Totem,,2,Artifact
+712,Damping Sphere,,2,Artifact
+713,Defense Grid,,2,Artifact
+714,Deflecting Palm,"['R', 'W']",2,Instant
+715,Earthquake,['R'],1,Sorcery
+716,Engineered Explosives,,0,Artifact
+717,Ensnaring Bridge,,3,Artifact
+718,Ertai's Scorn,['U'],3,Instant
+719,Exquisite Firecraft,['R'],3,Sorcery
+720,Foundation Breaker,['G'],4,Creature — Elemental
+721,Hidetsugu Consumes All,"['B', 'R']",3,Enchantment — Saga
+722,Ingot Chewer,['R'],5,Creature — Elemental
+723,Legion's End,['B'],2,Sorcery
+724,Leyline of the Void,['B'],4,Enchantment
+725,Natural State,['G'],1,Instant
+726,Nature's Claim,['G'],1,Instant
+727,Path to Exile,['W'],1,Instant
+728,Sanctifier en-Vec,['W'],2,Creature — Human Cleric
+729,Searing Blood,['R'],2,Instant
+730,Silence,['W'],1,Instant
+731,Smash to Smithereens,['R'],2,Instant
+732,Soul-Guide Lantern,,1,Artifact
+733,Sundering Titan,,8,Artifact Creature — Golem
+734,Tamiyo's Safekeeping,['G'],1,Instant
+735,The Stone Brain,,2,Legendary Artifact
+736,"Thrun, Breaker of Silence",['G'],5,Legendary Creature — Troll Shaman
+737,Wear // Tear,['R'],3,Instant
+738,Circle of Protection: Blue,['W'],2,Enchantment
+739,End the Festivities,['R'],1,Sorcery
+740,Negate,['U'],2,Instant
+741,Raze the Effigy,['R'],1,Instant
+742,Red Elemental Blast,['R'],1,Instant
+743,Scattershot Archer,['G'],1,Creature — Elf Archer
+744,Tormod's Crypt,,0,Artifact
+745,Wrap in Vigor,['G'],2,Instant
+746,Dark Betrayal,['B'],1,Instant
+747,Deep-Cavern Bat,['B'],2,Creature — Bat
+748,Disdainful Stroke,['U'],2,Instant
+749,Go Blank,['B'],3,Sorcery
+750,"Reidane, God of the Worthy",['W'],3,Legendary Creature — God
+751,Scavenging Ooze,['G'],2,Creature — Ooze
+752,Test of Talents,['U'],2,Instant
+753,"Yorion, Sky Nomad","['U', 'W']",5,Legendary Creature — Bird Serpent
+754,Boon-Bringer Valkyrie,['W'],5,Creature — Angel Warrior
+755,Knockout Blow,['W'],3,Instant
+756,March of Otherworldly Light,['W'],1,Instant
+757,Metropolis Reformer,['W'],3,Creature — Angel Cleric
+758,Containment Priest,['W'],2,Creature — Human Cleric
+759,Dauntless Dismantler,['W'],2,Creature — Human Artificer
+760,Hurkyl's Recall,['U'],2,Instant
+761,Lurrus of the Dream-Den,"['B', 'W']",3,Legendary Creature — Cat Nightmare
+762,Mindbreak Trap,['U'],4,Instant — Trap
+763,Seal of Cleansing,['W'],2,Enchantment
+764,The Tabernacle at Pendrell Vale,,0,Legendary Land
+765,Carpet of Flowers,['G'],1,Enchantment
+766,Faerie Macabre,['B'],3,Creature — Faerie Rogue
+767,Feed the Swarm,['B'],2,Sorcery
+768,Grapeshot,['R'],2,Sorcery
+769,Harmonic Sliver,"['G', 'W']",3,Creature — Sliver
+770,Helm of Obedience,,4,Artifact
+771,Hullbreacher,['U'],3,Creature — Merfolk Pirate
+772,Hymn to Tourach,['B'],2,Sorcery
+773,"Klothys, God of Destiny","['G', 'R']",3,Legendary Enchantment Creature — God
+774,Loran of the Third Path,['W'],3,Legendary Creature — Human Artificer
+775,Nether Void,['B'],4,World Enchantment
+776,Plague Engineer,['B'],3,Creature — Phyrexian Carrier
+777,Pyrokinesis,['R'],6,Instant
+778,Spatial Contortion,,2,Instant
+779,Surge Node,,1,Artifact
+780,Torpor Orb,,2,Artifact
+781,Aether Gust,['U'],2,Instant
+782,Alpine Moon,['R'],1,Enchantment
+783,Ancient Grudge,['R'],2,Instant
+784,Assassin's Trophy,"['B', 'G']",2,Instant
+785,Commandeer,['U'],7,Instant
+786,Damping Matrix,,3,Artifact
+787,Destructive Revelry,"['G', 'R']",2,Instant
+788,Dromoka's Command,"['G', 'W']",2,Instant
+789,Fulminator Mage,"['B', 'R']",3,Creature — Elemental Shaman
+790,Hallowed Moonlight,['W'],2,Instant
+791,"Jegantha, the Wellspring","['G', 'R']",5,Legendary Creature — Elemental Elk
+792,"Kaheera, the Orphanguard","['G', 'W']",3,Legendary Creature — Cat Beast
+793,Leyline of Sanctity,['W'],4,Enchantment
+794,Liquimetal Coating,,2,Artifact
+795,Portable Hole,['W'],1,Artifact
+796,Reclamation Sage,['G'],3,Creature — Elf Shaman
+797,Rest in Peace,['W'],2,Enchantment
+798,Shenanigans,['R'],2,Sorcery
+799,Soulless Jailer,,2,Artifact Creature — Phyrexian Golem
+800,Tear Asunder,['G'],2,Instant
+801,The End,['G'],4,Legendary Enchantment Creature — Spider
+802,Turn the Earth,['G'],1,Instant
+803,Void Mirror,,2,Artifact
+804,Annul,['U'],1,Instant
+805,Blacksmith's Skill,['W'],1,Instant
+806,Crimson Acolyte,['W'],2,Creature — Human Cleric
+807,Deglamer,['G'],2,Instant
+808,Distress,['B'],2,Sorcery
+809,Dust to Dust,['W'],3,Sorcery
+810,Echoing Truth,['U'],2,Instant
+811,Electrickery,['R'],1,Instant
+812,Fangren Marauder,['G'],6,Creature — Beast
+813,Flaring Pain,['R'],2,Instant
+814,Gorilla Shaman,['R'],1,Creature — Ape Shaman
+815,Honorable Scout,['W'],1,Creature — Human Soldier Scout
+816,Keep Watch,['U'],3,Instant
+817,Krark-Clan Shaman,['R'],1,Creature — Goblin Shaman
+818,Leave No Trace,['W'],2,Instant
+819,Mystic Remora,['U'],1,Enchantment
+820,Obsidian Acolyte,['W'],2,Creature — Human Cleric
+821,Okiba-Gang Shinobi,['B'],5,Creature — Rat Ninja
+822,Pyrite Spellbomb,,1,Artifact
+823,Ramosian Rally,['W'],4,Instant
+824,Return to Nature,['G'],2,Instant
+825,Revoke Existence,['W'],2,Sorcery
+826,Scattershot,['R'],3,Instant
+827,Standard Bearer,['W'],2,Creature — Human Flagbearer
+828,Stormbound Geist,['U'],3,Creature — Spirit
+829,Troublemaker Ouphe,['G'],2,Creature — Ouphe
+830,Unexpected Fangs,['B'],2,Instant
+831,Wilt,['G'],2,Instant
+832,Abrade,['R'],2,Instant
+833,"Aclazotz, Deepest Betrayal",['B'],5,Legendary Creature — Bat God
+834,Anger of the Gods,['R'],3,Sorcery
+835,Cankerbloom,['G'],2,Creature — Phyrexian Fungus
+836,Crackling Drake,"['R', 'U']",4,Creature — Drake
+837,Dovin's Veto,"['U', 'W']",2,Instant
+838,Flowstone Infusion,['R'],1,Instant
+839,"Heliod, Sun-Crowned",['W'],3,Legendary Enchantment Creature — God
+840,Light of Hope,['W'],1,Instant
+841,Loran's Escape,['W'],1,Instant
+842,Narset's Reversal,['U'],2,Instant
+843,Notion Thief,"['B', 'U']",4,Creature — Human Rogue
+844,Radiant Flames,['R'],3,Sorcery
+845,Remorseful Cleric,['W'],2,Creature — Spirit Cleric
+846,Rending Volley,['R'],1,Instant
+847,"Saheeli, Sublime Artificer","['R', 'U']",3,Legendary Planeswalker — Saheeli
+848,Showdown of the Skalds,"['R', 'W']",4,Enchantment — Saga
