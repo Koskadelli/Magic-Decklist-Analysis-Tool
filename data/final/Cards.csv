@@ -1,0 +1,2310 @@
+CardID,Name,Colors,CMC,Type,Subtype,Set,Rarity
+1,Aether Spellbomb,,1,"[""'Artifact'""]",,MMA,Common
+2,Aether Vial,,1,"[""'Artifact'""]",,TD0,Uncommon
+3,Aluren,['G'],4,"[""'Enchantment'""]",,TPR,Rare
+4,Ancient Tomb,,0,"[""'Land'""]",,UMA,Rare
+5,Animate Dead,['B'],2,"[""'Enchantment'""]","[""'Aura'""]",PD3,Uncommon
+6,Architects of Will,"['B', 'U']",4,"[""'Artifact'"", ""'Creature'""]","[""'Human'"", ""'Wizard'""]",ARB,Common
+7,Archon of Cruelty,['B'],8,"[""'Creature'""]","[""'Archon'""]",MH2,Mythic
+8,"Atraxa, Grand Unifier","['B', 'G', 'U', 'W']",7,"[""'Legendary'"", ""'Creature'""]","[""'Phyrexian'"", ""'Angel'""]",ONE,Mythic
+9,Badlands,,0,"[""'Land'""]","[""'Swamp'"", ""'Mountain'""]",VMA,Rare
+10,Battle Cry Goblin,['R'],2,"[""'Creature'""]","[""'Goblin'""]",AFR,Uncommon
+11,Bayou,,0,"[""'Land'""]","[""'Swamp'"", ""'Forest'""]",VMA,Rare
+12,Blast Zone,,0,"[""'Land'""]",,WAR,Rare
+13,Bloodbraid Marauder,['R'],2,"[""'Creature'""]","[""'Human'"", ""'Berserker'""]",MH2,Rare
+14,Bloodstained Mire,,0,"[""'Land'""]",,KTK,Rare
+15,Bojuka Bog,,0,"[""'Land'""]",,WWK,Common
+16,"Boseiju, Who Endures",,0,"[""'Legendary'"", ""'Land'""]",,PRM,Rare
+17,Brainstorm,['U'],1,"[""'Instant'""]",,VMA,Common
+18,Brazen Borrower,['U'],3,"[""'Creature'""]","[""'Faerie'"", ""'Rogue'""]",ELD,Mythic
+19,Broadside Bombardiers,['R'],3,"[""'Creature'""]","[""'Goblin'"", ""'Pirate'""]",LCC,Rare
+20,Cavern Harpy,"['B', 'U']",2,"[""'Creature'""]","[""'Harpy'"", ""'Beast'""]",PS,Common
+21,Cavern of Souls,,0,"[""'Land'""]",,LCI,Mythic
+22,Caves of Chaos Adventurer,['R'],4,"[""'Creature'""]","[""'Human'"", ""'Barbarian'""]",CLB,Rare
+23,Chalice of the Void,,0,"[""'Artifact'""]",,MRD,Rare
+24,Chrome Mox,,0,"[""'Artifact'""]",,MRD,Rare
+25,City of Traitors,,0,"[""'Land'""]",,EX,Rare
+26,Colossal Skyturtle,"['G', 'U']",7,"[""'Enchantment'"", ""'Creature'""]","[""'Turtle'""]",NEO,Uncommon
+27,Consider,['U'],1,"[""'Instant'""]",,MID,Common
+28,Crashing Footfalls,['G'],0,"[""'Sorcery'""]",,MH1,Rare
+29,Crop Rotation,['G'],1,"[""'Instant'""]",,PRM,Common
+30,Crucible of Worlds,,3,"[""'Artifact'""]",,10E,Rare
+31,Dark Depths,,0,"[""'Legendary'"", ""'Snow'"", ""'Land'""]",,CSP,Rare
+32,Dark Ritual,['B'],1,"[""'Instant'""]",,VMA,Common
+33,Daze,['U'],2,"[""'Instant'""]",,NE,Common
+34,Delver of Secrets,['U'],1,"[""'Creature'""]","[""'Human'"", ""'Wizard'""]",ISD,Common
+35,Dragon's Rage Channeler,['R'],1,"[""'Creature'""]","[""'Human'"", ""'Shaman'""]",MH2,Uncommon
+36,Dress Down,['U'],2,"[""'Enchantment'""]",,MH2,Rare
+37,Elvish Spirit Guide,['G'],3,"[""'Creature'""]","[""'Elf'"", ""'Spirit'""]",DMR,Uncommon
+38,"Emry, Lurker of the Loch",['U'],3,"[""'Legendary'"", ""'Creature'""]","[""'Merfolk'"", ""'Wizard'""]",ELD,Rare
+39,Endurance,['G'],3,"[""'Creature'""]","[""'Elemental'"", ""'Incarnation'""]",PRM,Mythic
+40,Entomb,['B'],1,"[""'Instant'""]",,PD3,Rare
+41,Exhume,['B'],2,"[""'Sorcery'""]",,PD3,Common
+42,Expedition Map,,1,"[""'Artifact'""]",,LCC,Uncommon
+43,Exploration,['G'],1,"[""'Enchantment'""]",,DMR,Rare
+44,Fable of the Mirror-Breaker,['R'],3,"[""'Enchantment'""]","[""'Saga'""]",PRM,Rare
+45,Faithless Looting,['R'],1,"[""'Sorcery'""]",,CMM,Common
+46,Fatal Push,['B'],1,"[""'Instant'""]",,PRM,Uncommon
+47,Fire // Ice,['R'],4,"[""'Instant'""]",,MH2,Rare
+48,Flooded Strand,,0,"[""'Land'""]",,KTK,Rare
+49,Force of Negation,['U'],3,"[""'Instant'""]",,PRM,Rare
+50,Force of Will,['U'],5,"[""'Instant'""]",,VMA,Rare
+51,Forest,,0,"[""'Basic'"", ""'Land'""]","[""'Forest'""]",LCI,Common
+52,Fury,['R'],5,"[""'Creature'""]","[""'Elemental'"", ""'Incarnation'""]",PRM,Mythic
+53,Gempalm Incinerator,['R'],3,"[""'Creature'""]","[""'Goblin'""]",DMR,Uncommon
+54,Generous Ent,['G'],6,"[""'Creature'""]","[""'Treefolk'""]",LTR,Common
+55,Ghost Quarter,,0,"[""'Land'""]",,ISD,Uncommon
+56,Goblin Lackey,['R'],1,"[""'Creature'""]","[""'Goblin'""]",V09,Mythic
+57,Goblin Matron,['R'],3,"[""'Creature'""]","[""'Goblin'""]",DMR,Common
+58,Goblin Ringleader,['R'],4,"[""'Creature'""]","[""'Goblin'""]",M20,Uncommon
+59,Goblin Warchief,['R'],3,"[""'Creature'""]","[""'Goblin'"", ""'Warrior'""]",DAR,Uncommon
+60,Grief,['B'],4,"[""'Creature'""]","[""'Elemental'"", ""'Incarnation'""]",PRM,Mythic
+61,Griselbrand,['B'],8,"[""'Legendary'"", ""'Creature'""]","[""'Demon'""]",PRM,Mythic
+62,Horizon Canopy,,0,"[""'Land'""]",,FUT,Rare
+63,Impulse,['U'],2,"[""'Instant'""]",,DMR,Common
+64,Incubation // Incongruity,"['U', 'G']",4,"[""'Sorcery'""]",,RNA,Uncommon
+65,Island,,0,"[""'Basic'"", ""'Land'""]","[""'Island'""]",LCI,Common
+66,Kappa Cannoneer,['U'],6,"[""'Artifact'"", ""'Creature'""]","[""'Turtle'"", ""'Warrior'""]",PRM,Rare
+67,Karakas,,0,"[""'Legendary'"", ""'Land'""]",,TD0,Rare
+68,"Leovold, Emissary of Trest","['B', 'G', 'U']",3,"[""'Legendary'"", ""'Creature'""]","[""'Elf'"", ""'Advisor'""]",PZ2,Mythic
+69,Life from the Loam,['G'],2,"[""'Sorcery'""]",,MMA,Rare
+70,Lightning Bolt,['R'],1,"[""'Instant'""]",,M11,Common
+71,Living End,['B'],0,"[""'Sorcery'""]",,TSP,Rare
+72,Living Wish,['G'],2,"[""'Sorcery'""]",,A25,Rare
+73,Lotus Petal,,0,"[""'Artifact'""]",,TPR,Uncommon
+74,Lórien Revealed,['U'],5,"[""'Sorcery'""]",,LTR,Common
+75,Malevolent Hermit,['U'],2,"[""'Creature'""]","[""'Human'"", ""'Wizard'""]",MID,Rare
+76,Marsh Flats,,0,"[""'Land'""]",,MM3,Rare
+77,Maze of Ith,,0,"[""'Land'""]",,EMA,Rare
+78,Metallic Rebuke,['U'],3,"[""'Instant'""]",,AER,Common
+79,Minor Misstep,['U'],1,"[""'Instant'""]",,ONE,Uncommon
+80,"Minsc & Boo, Timeless Heroes","['G', 'R']",4,"[""'Legendary'"", ""'Planeswalker'""]","[""'Minsc'""]",CLB,Mythic
+81,Misdirection,['U'],5,"[""'Instant'""]",,PRM,Rare
+82,Mishra's Bauble,,0,"[""'Artifact'""]",,IMA,Uncommon
+83,Misty Rainforest,,0,"[""'Land'""]",,MH2,Rare
+84,Mogg War Marshal,['R'],2,"[""'Creature'""]","[""'Goblin'"", ""'Warrior'""]",DMR,Common
+85,Molten Collapse,"['B', 'R']",2,"[""'Sorcery'""]",,LCI,Rare
+86,Mountain,,0,"[""'Basic'"", ""'Land'""]","[""'Mountain'""]",LCI,Common
+87,Mox Diamond,,0,"[""'Artifact'""]",,TPR,Mythic
+88,Mox Opal,,0,"[""'Legendary'"", ""'Artifact'""]",,SOM,Mythic
+89,Munitions Expert,"['B', 'R']",2,"[""'Creature'""]","[""'Goblin'""]",MH1,Uncommon
+90,Murderous Cut,['B'],5,"[""'Instant'""]",,KTK,Uncommon
+91,Murktide Regent,['U'],7,"[""'Creature'""]","[""'Dragon'""]",MH2,Mythic
+92,"Muxus, Goblin Grandee",['R'],6,"[""'Legendary'"", ""'Creature'""]","[""'Goblin'"", ""'Noble'""]",JMP,Rare
+93,Mystic Sanctuary,,0,"[""'Land'""]","[""'Island'""]",ELD,Common
+94,Mystical Dispute,['U'],3,"[""'Instant'""]",,ELD,Uncommon
+95,Once Upon a Time,['G'],2,"[""'Instant'""]",,ELD,Rare
+96,Orcish Bowmasters,['B'],2,"[""'Creature'""]","[""'Orc'"", ""'Archer'""]",LTR,Rare
+97,"Otawara, Soaring City",,0,"[""'Legendary'"", ""'Land'""]",,PRM,Rare
+98,Paradigm Shift,['U'],2,"[""'Sorcery'""]",,WL,Rare
+99,Patchwork Automaton,,2,"[""'Artifact'"", ""'Creature'""]","[""'Construct'""]",NEO,Uncommon
+100,Pernicious Deed,"['B', 'G']",3,"[""'Enchantment'""]",,PRM,Rare
+101,Phyrexian Dreadnought,,1,"[""'Artifact'"", ""'Creature'""]","[""'Phyrexian'"", ""'Dreadnought'""]",PRM,Rare
+102,Pithing Needle,,1,"[""'Artifact'""]",,RTR,Rare
+103,Polluted Delta,,0,"[""'Land'""]",,KTK,Rare
+104,Ponder,['U'],1,"[""'Sorcery'""]",,M12,Common
+105,Preordain,['U'],1,"[""'Sorcery'""]",,M11,Common
+106,Prismatic Ending,['W'],1,"[""'Sorcery'""]",,MH2,Uncommon
+107,Prismatic Vista,,0,"[""'Land'""]",,MH1,Rare
+108,Questing Druid,['G'],2,"[""'Creature'""]","[""'Human'"", ""'Druid'""]",WOE,Rare
+109,Reanimate,['B'],1,"[""'Sorcery'""]",,VMA,Uncommon
+110,Riftstone Portal,,0,"[""'Land'""]",,JUD,Uncommon
+111,Rishadan Port,,0,"[""'Land'""]",,PRM,Rare
+112,"Sai, Master Thopterist",['U'],3,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Artificer'""]",M19,Rare
+113,Sauron's Ransom,"['B', 'U']",3,"[""'Instant'""]",,LTR,Rare
+114,Savannah,,0,"[""'Land'""]","[""'Forest'"", ""'Plains'""]",VMA,Rare
+115,Scalding Tarn,,0,"[""'Land'""]",,MH2,Rare
+116,Scrubland,,0,"[""'Land'""]","[""'Plains'"", ""'Swamp'""]",PRM,Rare
+117,Seat of the Synod,,0,"[""'Artifact'"", ""'Land'""]",,MRD,Common
+118,Serra's Emissary,['W'],7,"[""'Creature'""]","[""'Angel'""]",MH2,Mythic
+119,Shadowspear,,1,"[""'Legendary'"", ""'Artifact'""]","[""'Equipment'""]",THB,Rare
+120,Shardless Agent,"['G', 'U']",3,"[""'Artifact'"", ""'Creature'""]","[""'Human'"", ""'Rogue'""]",PRM,Uncommon
+121,Sheoldred's Edict,['B'],2,"[""'Instant'""]",,ONE,Uncommon
+122,Simian Spirit Guide,['R'],3,"[""'Creature'""]","[""'Ape'"", ""'Spirit'""]",PLC,Common
+123,Skirk Prospector,['R'],1,"[""'Creature'""]","[""'Goblin'""]",DMR,Common
+124,Sling-Gang Lieutenant,['B'],4,"[""'Creature'""]","[""'Goblin'""]",MH1,Uncommon
+125,Slip Out the Back,['U'],1,"[""'Instant'""]",,SNC,Uncommon
+126,Snow-Covered Forest,,0,"[""'Basic'"", ""'Snow'"", ""'Land'""]","[""'Forest'""]",KHM,Common
+127,Snow-Covered Island,,0,"[""'Basic'"", ""'Snow'"", ""'Land'""]","[""'Island'""]",KHM,Common
+128,Snow-Covered Swamp,,0,"[""'Basic'"", ""'Snow'"", ""'Land'""]","[""'Swamp'""]",KHM,Common
+129,Snuff Out,['B'],4,"[""'Instant'""]",,DDD,Common
+130,Soul-Guide Lantern,,1,"[""'Artifact'""]",,WOE,Uncommon
+131,Spell Pierce,['U'],1,"[""'Instant'""]",,2X2,Common
+132,Spell Snare,['U'],1,"[""'Instant'""]",,DIS,Uncommon
+133,Spellseeker,['U'],3,"[""'Creature'""]","[""'Human'"", ""'Wizard'""]",CMM,Mythic
+134,Sphere of Resistance,,2,"[""'Artifact'""]",,VMA,Rare
+135,Step Through,['U'],5,"[""'Sorcery'""]",,MH2,Common
+136,Stifle,['U'],1,"[""'Instant'""]",,SCG,Rare
+137,Stingscourger,['R'],2,"[""'Creature'""]","[""'Goblin'"", ""'Warrior'""]",TSR,Common
+138,Street Wraith,['B'],5,"[""'Creature'""]","[""'Wraith'""]",DMR,Common
+139,Strict Proctor,['W'],2,"[""'Creature'""]","[""'Spirit'"", ""'Cleric'""]",STX,Rare
+140,Swamp,,0,"[""'Basic'"", ""'Land'""]","[""'Swamp'""]",LCI,Common
+141,Swords to Plowshares,['W'],1,"[""'Instant'""]",,DMR,Uncommon
+142,Sylvan Library,['G'],2,"[""'Enchantment'""]",,PZ1,Rare
+143,Taiga,,0,"[""'Land'""]","[""'Mountain'"", ""'Forest'""]",VMA,Rare
+144,Thassa's Oracle,['U'],2,"[""'Creature'""]","[""'Merfolk'"", ""'Wizard'""]",THB,Rare
+145,The One Ring,,4,"[""'Legendary'"", ""'Artifact'""]",,LTR,Mythic
+146,The Tabernacle at Pendrell Vale,,0,"[""'Legendary'"", ""'Land'""]",,PRM,Rare
+147,Thespian's Stage,,0,"[""'Land'""]",,GTC,Rare
+148,Thought Lash,['U'],4,"[""'Enchantment'""]",,ME2,Rare
+149,Thought Monitor,['U'],7,"[""'Artifact'"", ""'Creature'""]","[""'Construct'""]",MH2,Rare
+150,Thoughtcast,['U'],5,"[""'Sorcery'""]",,MRD,Common
+151,Thoughtseize,['B'],1,"[""'Sorcery'""]",,THS,Rare
+152,Torpor Orb,,2,"[""'Artifact'""]",,NPH,Rare
+153,Trinisphere,,3,"[""'Artifact'""]",,DST,Rare
+154,Troll of Khazad-dûm,['B'],6,"[""'Creature'""]","[""'Troll'""]",LTR,Common
+155,Tropical Island,,0,"[""'Land'""]","[""'Forest'"", ""'Island'""]",PRM,Rare
+156,Tundra,,0,"[""'Land'""]","[""'Plains'"", ""'Island'""]",VMA,Rare
+157,Underground Sea,,0,"[""'Land'""]","[""'Island'"", ""'Swamp'""]",VMA,Rare
+158,Undermountain Adventurer,['G'],4,"[""'Creature'""]","[""'Giant'"", ""'Warrior'""]",CLB,Rare
+159,Unholy Heat,['R'],1,"[""'Instant'""]",,MH2,Common
+160,Unmask,['B'],4,"[""'Sorcery'""]",,MM,Rare
+161,Up the Beanstalk,['G'],2,"[""'Enchantment'""]",,WOE,Uncommon
+162,"Uro, Titan of Nature's Wrath","['G', 'U']",3,"[""'Legendary'"", ""'Creature'""]","[""'Elder'"", ""'Giant'""]",SLD,Mythic
+163,Urza's Bauble,,0,"[""'Artifact'""]",,MED,Uncommon
+164,Urza's Saga,,0,"[""'Enchantment'"", ""'Land'""]","[""'Urza's'"", ""'Saga'""]",MH2,Rare
+165,Verdant Catacombs,,0,"[""'Land'""]",,ZEN,Rare
+166,Violent Outburst,"['G', 'R']",3,"[""'Instant'""]",,ARB,Common
+167,Volcanic Island,,0,"[""'Land'""]","[""'Island'"", ""'Mountain'""]",PRM,Rare
+168,Wail of the Forgotten,"['B', 'U']",2,"[""'Sorcery'""]",,LCI,Rare
+169,Wasteland,,0,"[""'Land'""]",,TE,Uncommon
+170,Windswept Heath,,0,"[""'Land'""]",,KTK,Rare
+171,Witherbloom Command,"['B', 'G']",2,"[""'Sorcery'""]",,STX,Rare
+172,Wooded Foothills,,0,"[""'Land'""]",,KTK,Rare
+173,"Yavimaya, Cradle of Growth",,0,"[""'Legendary'"", ""'Land'""]",,MH2,Rare
+174,_____ Goblin,['R'],3,"[""'Creature'""]","[""'Goblin'"", ""'Guest'""]",UNF,Common
+175,Agatha's Soul Cauldron,,2,"[""'Legendary'"", ""'Artifact'""]",,WOE,Mythic
+176,Ancient Stirrings,['G'],1,"[""'Sorcery'""]",,PRM,Common
+177,Animation Module,,1,"[""'Artifact'""]",,KLD,Rare
+178,Arcbound Ravager,,2,"[""'Artifact'"", ""'Creature'""]","[""'Beast'""]",PRM,Rare
+179,Arid Mesa,,0,"[""'Land'""]",,ZEN,Rare
+180,Aspect of Hydra,['G'],1,"[""'Instant'""]",,BNG,Common
+181,Blackcleave Cliffs,,0,"[""'Land'""]",,ONE,Rare
+182,Blood Artist,['B'],2,"[""'Creature'""]","[""'Vampire'""]",2X2,Uncommon
+183,Blood Crypt,,0,"[""'Land'""]","[""'Swamp'"", ""'Mountain'""]",RTR,Rare
+184,Blooming Marsh,,0,"[""'Land'""]",,KLD,Rare
+185,Bonecrusher Giant,['R'],3,"[""'Creature'""]","[""'Giant'""]",ELD,Rare
+186,Breeding Pool,,0,"[""'Land'""]","[""'Forest'"", ""'Island'""]",GTC,Rare
+187,Castle Locthwain,,0,"[""'Land'""]",,ELD,Rare
+188,Castle Vantress,,0,"[""'Land'""]",,ELD,Rare
+189,Chord of Calling,['G'],3,"[""'Instant'""]",,RAV,Rare
+190,Counterspell,['U'],2,"[""'Instant'""]",,CMM,Common
+191,Cragcrown Pathway,,0,"[""'Land'""]",,ZNR,Rare
+192,Curator of Mysteries,['U'],4,"[""'Creature'""]","[""'Sphinx'""]",AKH,Rare
+193,Dauthi Voidwalker,['B'],2,"[""'Creature'""]","[""'Dauthi'"", ""'Rogue'""]",MH2,Rare
+194,Dead // Gone,['R'],4,"[""'Instant'""]",,PLC,Common
+195,Delighted Halfling,['G'],1,"[""'Creature'""]","[""'Halfling'"", ""'Citizen'""]",LTR,Rare
+196,Deputy of Detention,"['U', 'W']",3,"[""'Creature'""]","[""'Vedalken'"", ""'Wizard'""]",RNA,Rare
+197,Dismember,['B'],3,"[""'Instant'""]",,MM2,Uncommon
+198,Dryad Arbor,['G'],0,"[""'Land'"", ""'Creature'""]","[""'Forest'"", ""'Dryad'""]",FUT,Uncommon
+199,Dwarven Mine,,0,"[""'Land'""]","[""'Mountain'""]",ELD,Common
+200,Eagles of the North,['W'],6,"[""'Creature'""]","[""'Bird'"", ""'Soldier'""]",LTR,Common
+201,Echoing Deeps,,0,"[""'Land'""]","[""'Cave'""]",LCI,Rare
+202,Eldritch Evolution,['G'],3,"[""'Sorcery'""]",,EMN,Rare
+203,Ephemerate,['W'],1,"[""'Instant'""]",,MH1,Common
+204,Expressive Iteration,"['R', 'U']",2,"[""'Sorcery'""]",,STX,Uncommon
+205,Flame of Anor,"['R', 'U']",3,"[""'Instant'""]",,LTR,Rare
+206,Fulminator Mage,"['B', 'R']",3,"[""'Creature'""]","[""'Elemental'"", ""'Shaman'""]",SHM,Rare
+207,Gemstone Caverns,,0,"[""'Legendary'"", ""'Land'""]",,TSP,Rare
+208,Gilded Goose,['G'],1,"[""'Creature'""]","[""'Bird'""]",ELD,Rare
+209,"Grist, the Hunger Tide","['B', 'G']",3,"[""'Legendary'"", ""'Planeswalker'""]","[""'Grist'""]",PRM,Mythic
+210,Hall of Storm Giants,,0,"[""'Land'""]",,AFR,Rare
+211,Hallowed Fountain,,0,"[""'Land'""]","[""'Plains'"", ""'Island'""]",RTR,Rare
+212,Hangarback Walker,,0,"[""'Artifact'"", ""'Creature'""]","[""'Construct'""]",ORI,Rare
+213,"Hapatra, Vizier of Poisons","['B', 'G']",2,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Cleric'""]",AKH,Rare
+214,Hardened Scales,['G'],1,"[""'Enchantment'""]",,WOT,Rare
+215,Haywire Mite,,1,"[""'Artifact'"", ""'Creature'""]","[""'Insect'""]",BRO,Uncommon
+216,"Heliod, Sun-Crowned",['W'],3,"[""'Legendary'"", ""'Enchantment'"", ""'Creature'""]","[""'God'""]",THB,Mythic
+217,Idyllic Grange,,0,"[""'Land'""]","[""'Plains'""]",ELD,Common
+218,Ignoble Hierarch,['G'],1,"[""'Creature'""]","[""'Goblin'"", ""'Shaman'""]",MH2,Rare
+219,Indatha Triome,,0,"[""'Land'""]","[""'Plains'"", ""'Swamp'"", ""'Forest'""]",IKO,Rare
+220,Indomitable Creativity,['R'],3,"[""'Sorcery'""]",,AER,Mythic
+221,Inkmoth Nexus,,0,"[""'Land'""]",,MBS,Rare
+222,Inscription of Abundance,['G'],2,"[""'Instant'""]",,ZNR,Rare
+223,Jetmir's Garden,,0,"[""'Land'""]","[""'Mountain'"", ""'Forest'"", ""'Plains'""]",SNC,Rare
+224,Ketria Triome,,0,"[""'Land'""]","[""'Forest'"", ""'Island'"", ""'Mountain'""]",IKO,Rare
+225,Khalni Garden,,0,"[""'Land'""]",,WWK,Common
+226,Kolaghan's Command,"['B', 'R']",3,"[""'Instant'""]",,DTK,Rare
+227,"Kroxa, Titan of Death's Hunger","['B', 'R']",2,"[""'Legendary'"", ""'Creature'""]","[""'Elder'"", ""'Giant'""]",SLD,Mythic
+228,Lair of the Hydra,,0,"[""'Land'""]",,AFR,Rare
+229,Ledger Shredder,['U'],2,"[""'Creature'""]","[""'Bird'"", ""'Advisor'""]",PRM,Rare
+230,Legion's End,['B'],2,"[""'Sorcery'""]",,M20,Rare
+231,Leyline Binding,['W'],6,"[""'Enchantment'""]",,PRM,Rare
+232,Logic Knot,['U'],2,"[""'Instant'""]",,TSR,Common
+233,Magus of the Moon,['R'],3,"[""'Creature'""]","[""'Human'"", ""'Wizard'""]",TSR,Rare
+234,"Minamo, School at Water's Edge",,0,"[""'Legendary'"", ""'Land'""]",,CHK,Rare
+235,Mount Doom,,0,"[""'Legendary'"", ""'Land'""]",,LTR,Mythic
+236,Mutavault,,0,"[""'Land'""]",,M14,Rare
+237,Mystic Gate,,0,"[""'Land'""]",,SHM,Rare
+238,"Nissa, Resurgent Animist",['G'],3,"[""'Legendary'"", ""'Creature'""]","[""'Elf'"", ""'Scout'""]",MAT,Mythic
+239,Noble Hierarch,['G'],1,"[""'Creature'""]","[""'Human'"", ""'Druid'""]",CON,Rare
+240,Not Dead After All,['B'],1,"[""'Instant'""]",,WOE,Common
+241,Nurturing Peatland,,0,"[""'Land'""]",,MH1,Rare
+242,Old-Growth Troll,['G'],3,"[""'Creature'""]","[""'Troll'"", ""'Warrior'""]",KHM,Rare
+243,Oliphaunt,['R'],6,"[""'Creature'""]","[""'Elephant'""]",LTR,Common
+244,"Omnath, Locus of Creation","['G', 'R', 'U', 'W']",4,"[""'Legendary'"", ""'Creature'""]","[""'Elemental'""]",ZNR,Mythic
+245,Overgrown Tomb,,0,"[""'Land'""]","[""'Swamp'"", ""'Forest'""]",GRN,Rare
+246,Pendelhaven,,0,"[""'Legendary'"", ""'Land'""]",,TSB,Rare
+247,Plains,,0,"[""'Basic'"", ""'Land'""]","[""'Plains'""]",LCI,Common
+248,Questing Beast,['G'],4,"[""'Legendary'"", ""'Creature'""]","[""'Beast'""]",ELD,Mythic
+249,"Ragavan, Nimble Pilferer",['R'],1,"[""'Legendary'"", ""'Creature'""]","[""'Monkey'"", ""'Pirate'""]",PRM,Mythic
+250,Ranger-Captain of Eos,['W'],3,"[""'Creature'""]","[""'Human'"", ""'Soldier'"", ""'Ranger'""]",MH1,Mythic
+251,Raugrin Triome,,0,"[""'Land'""]","[""'Island'"", ""'Mountain'"", ""'Plains'""]",IKO,Rare
+252,Reprieve,['W'],2,"[""'Instant'""]",,LTR,Uncommon
+253,Rhonas the Indomitable,['G'],3,"[""'Legendary'"", ""'Creature'""]","[""'God'""]",AKH,Mythic
+254,Sacred Foundry,,0,"[""'Land'""]","[""'Mountain'"", ""'Plains'""]",GTC,Rare
+255,Savai Triome,,0,"[""'Land'""]","[""'Mountain'"", ""'Plains'"", ""'Swamp'""]",IKO,Rare
+256,Scavenging Ooze,['G'],2,"[""'Creature'""]","[""'Ooze'""]",M21,Rare
+257,"Sheoldred, the Apocalypse",['B'],4,"[""'Legendary'"", ""'Creature'""]","[""'Phyrexian'"", ""'Praetor'""]",DMU,Mythic
+258,Silence,['W'],1,"[""'Instant'""]",,M11,Rare
+259,Snow-Covered Plains,,0,"[""'Basic'"", ""'Snow'"", ""'Land'""]","[""'Plains'""]",KHM,Common
+260,Solitude,['W'],5,"[""'Creature'""]","[""'Elemental'"", ""'Incarnation'""]",PRM,Mythic
+261,Spirebluff Canal,,0,"[""'Land'""]",,KLD,Rare
+262,Springleaf Drum,,1,"[""'Artifact'""]",,BRR,Uncommon
+263,Steam Vents,,0,"[""'Land'""]","[""'Island'"", ""'Mountain'""]",RTR,Rare
+264,Steel Leaf Champion,['G'],3,"[""'Creature'""]","[""'Elf'"", ""'Knight'""]",DAR,Rare
+265,Stern Scolding,['U'],1,"[""'Instant'""]",,LTR,Uncommon
+266,Stomping Ground,,0,"[""'Land'""]","[""'Mountain'"", ""'Forest'""]",RNA,Rare
+267,Strangleroot Geist,['G'],2,"[""'Creature'""]","[""'Spirit'""]",PRM,Uncommon
+268,Striped Riverwinder,['U'],7,"[""'Creature'""]","[""'Serpent'""]",HOU,Common
+269,Subtlety,['U'],4,"[""'Creature'""]","[""'Elemental'"", ""'Incarnation'""]",MH2,Mythic
+270,Supreme Verdict,"['U', 'W']",4,"[""'Sorcery'""]",,RTR,Rare
+271,"Takenuma, Abandoned Mire",,0,"[""'Legendary'"", ""'Land'""]",,NEO,Rare
+272,"Teferi, Time Raveler","['U', 'W']",3,"[""'Legendary'"", ""'Planeswalker'""]","[""'Teferi'""]",RVR,Mythic
+273,Temple Garden,,0,"[""'Land'""]","[""'Forest'"", ""'Plains'""]",GRN,Rare
+274,Terminate,"['B', 'R']",2,"[""'Instant'""]",,PRM,Common
+275,The Ozolith,,1,"[""'Legendary'"", ""'Artifact'""]",,IKO,Rare
+276,Thraben Inspector,['W'],1,"[""'Creature'""]","[""'Human'"", ""'Soldier'""]",SOI,Common
+277,Tishana's Tidebinder,['U'],3,"[""'Creature'""]","[""'Merfolk'"", ""'Wizard'""]",LCI,Rare
+278,Transmogrify,['R'],4,"[""'Sorcery'""]",,M21,Rare
+279,Twilight Mire,,0,"[""'Land'""]",,EXP,Mythic
+280,Undying Evil,['B'],1,"[""'Instant'""]",,DKA,Common
+281,"Urborg, Tomb of Yawgmoth",,0,"[""'Legendary'"", ""'Land'""]",,PLC,Rare
+282,Vines of Vastwood,['G'],1,"[""'Instant'""]",,ZEN,Common
+283,Waker of Waves,['U'],7,"[""'Creature'""]","[""'Whale'""]",M21,Uncommon
+284,Walking Ballista,,0,"[""'Artifact'"", ""'Creature'""]","[""'Construct'""]",AER,Rare
+285,Wall of Omens,['W'],2,"[""'Creature'""]","[""'Wall'""]",2X2,Uncommon
+286,Wall of Roots,['G'],2,"[""'Creature'""]","[""'Plant'"", ""'Wall'""]",TSB,Rare
+287,Watery Grave,,0,"[""'Land'""]","[""'Island'"", ""'Swamp'""]",GRN,Rare
+288,Welding Jar,,0,"[""'Artifact'""]",,MRD,Common
+289,Wrenn and Six,"['G', 'R']",2,"[""'Legendary'"", ""'Planeswalker'""]","[""'Wrenn'""]",PRM,Mythic
+290,Xander's Lounge,,0,"[""'Land'""]","[""'Island'"", ""'Swamp'"", ""'Mountain'""]",SNC,Rare
+291,"Yawgmoth, Thran Physician",['B'],4,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Cleric'""]",DMR,Mythic
+292,Young Wolf,['G'],1,"[""'Creature'""]","[""'Wolf'""]",DKA,Common
+293,"Zabaz, the Glimmerwasp",,1,"[""'Legendary'"", ""'Artifact'"", ""'Creature'""]","[""'Insect'""]",MH2,Rare
+294,Zagoth Triome,,0,"[""'Land'""]","[""'Swamp'"", ""'Forest'"", ""'Island'""]",IKO,Rare
+295,Zulaport Cutthroat,['B'],2,"[""'Creature'""]","[""'Human'"", ""'Rogue'"", ""'Ally'""]",BFZ,Uncommon
+296,Abundant Growth,['G'],1,"[""'Enchantment'""]","[""'Aura'""]",AVR,Common
+297,Agony Warp,"['B', 'U']",2,"[""'Instant'""]",,2X2,Common
+298,All That Glitters,['W'],2,"[""'Enchantment'""]","[""'Aura'""]",ELD,Uncommon
+299,Ancestral Mask,['G'],3,"[""'Enchantment'""]","[""'Aura'""]",MM,Common
+300,Ancient Den,,0,"[""'Artifact'"", ""'Land'""]",,MRD,Common
+301,Armadillo Cloak,"['G', 'W']",3,"[""'Enchantment'""]","[""'Aura'""]",VMA,Uncommon
+302,Ash Barrens,,0,"[""'Land'""]",,PRM,Common
+303,Augur of Bolas,['U'],2,"[""'Creature'""]","[""'Merfolk'"", ""'Wizard'""]",WAR,Uncommon
+304,Aviary Mechanic,['W'],2,"[""'Creature'""]","[""'Dwarf'"", ""'Artificer'""]",KLD,Common
+305,Behold the Multiverse,['U'],4,"[""'Instant'""]",,KHM,Common
+306,Breath Weapon,['R'],3,"[""'Instant'""]",,CLB,Common
+307,Cartouche of Solidarity,['W'],1,"[""'Enchantment'""]","[""'Aura'"", ""'Cartouche'""]",AKH,Common
+308,Cast Down,['B'],2,"[""'Instant'""]",,DAR,Uncommon
+309,Chain Lightning,['R'],1,"[""'Sorcery'""]",,DMR,Common
+310,Chainer's Edict,['B'],2,"[""'Sorcery'""]",,VMA,Common
+311,Contaminated Aquifer,,0,"[""'Land'""]","[""'Island'"", ""'Swamp'""]",DMU,Common
+312,Dawnbringer Cleric,['W'],2,"[""'Creature'""]","[""'Human'"", ""'Cleric'""]",AFR,Common
+313,Desert,,0,"[""'Land'""]","[""'Desert'""]",PRM,Rare
+314,Diabolic Edict,['B'],2,"[""'Instant'""]",,MH1,Common
+315,Dimir Aqueduct,,0,"[""'Land'""]",,RAV,Common
+316,Dispel,['U'],1,"[""'Instant'""]",,BFZ,Common
+317,Dwarven Forge-Chanter,['R'],2,"[""'Creature'""]","[""'Dwarf'"", ""'Wizard'""]",BRO,Common
+318,Echoing Decay,['B'],2,"[""'Instant'""]",,DST,Common
+319,End the Festivities,['R'],1,"[""'Sorcery'""]",,VOW,Common
+320,Ethereal Armor,['W'],1,"[""'Enchantment'""]","[""'Aura'""]",RTR,Common
+321,Eureka Moment,"['G', 'U']",4,"[""'Instant'""]",,STX,Common
+322,Experimental Synthesizer,['R'],1,"[""'Artifact'""]",,NEO,Common
+323,Faerie Seer,['U'],1,"[""'Creature'""]","[""'Faerie'"", ""'Wizard'""]",MH1,Common
+324,Fireblast,['R'],6,"[""'Instant'""]",,VMA,Uncommon
+325,Forgotten Cave,,0,"[""'Land'""]",,VMA,Common
+326,Galvanic Blast,['R'],1,"[""'Instant'""]",,SOM,Common
+327,Gladecover Scout,['G'],1,"[""'Creature'""]","[""'Elf'"", ""'Scout'""]",M14,Common
+328,Glint Hawk,['W'],1,"[""'Creature'""]","[""'Bird'""]",SOM,Common
+329,Goblin Blast-Runner,['R'],1,"[""'Creature'""]","[""'Goblin'""]",BRO,Common
+330,Goblin Bushwhacker,['R'],1,"[""'Creature'""]","[""'Goblin'"", ""'Warrior'""]",ZEN,Common
+331,Goblin Tomb Raider,['R'],1,"[""'Creature'""]","[""'Goblin'"", ""'Pirate'""]",LCI,Common
+332,Great Furnace,,0,"[""'Artifact'"", ""'Land'""]",,MRD,Common
+333,Growth Spiral,"['G', 'U']",2,"[""'Instant'""]",,RNA,Common
+334,Gurmag Angler,['B'],7,"[""'Creature'""]","[""'Zombie'"", ""'Fish'""]",FRF,Common
+335,Ichor Wellspring,,2,"[""'Artifact'""]",,BRR,Uncommon
+336,Implement of Combustion,,1,"[""'Artifact'""]",,AER,Common
+337,Journey to Nowhere,['W'],2,"[""'Enchantment'""]",,ZEN,Common
+338,Kessig Flamebreather,['R'],2,"[""'Creature'""]","[""'Human'"", ""'Shaman'""]",VOW,Common
+339,Kor Skyfisher,['W'],2,"[""'Creature'""]","[""'Kor'"", ""'Soldier'""]",PRM,Common
+340,Kuldotha Rebirth,['R'],1,"[""'Sorcery'""]",,SOM,Common
+341,Lava Dart,['R'],1,"[""'Instant'""]",,MH1,Common
+342,Lembas,,2,"[""'Artifact'""]","[""'Food'""]",LTR,Common
+343,Maestros Theater,,0,"[""'Land'""]",,SNC,Common
+344,Makeshift Munitions,['R'],2,"[""'Enchantment'""]",,CMR,Common
+345,Molten Tributary,,0,"[""'Land'""]","[""'Island'"", ""'Mountain'""]",DMU,Common
+346,Moment's Peace,['G'],2,"[""'Instant'""]",,OD,Common
+347,Murmuring Mystic,['U'],4,"[""'Creature'""]","[""'Human'"", ""'Wizard'""]",GRN,Uncommon
+348,Mystical Teachings,['U'],4,"[""'Instant'""]",,MM3,Common
+349,Ninja of the Deep Hours,['U'],4,"[""'Creature'""]","[""'Human'"", ""'Ninja'""]",BOK,Common
+350,Pieces of the Puzzle,['U'],3,"[""'Sorcery'""]",,SOI,Common
+351,Rancor,['G'],1,"[""'Enchantment'""]","[""'Aura'""]",2X2,Uncommon
+352,Reckless Impulse,['R'],2,"[""'Sorcery'""]",,VOW,Common
+353,Relic of Progenitus,,1,"[""'Artifact'""]",,ALA,Common
+354,Rugged Highlands,,0,"[""'Land'""]",,MOM,Common
+355,Seal of Fire,['R'],1,"[""'Enchantment'""]",,DIS,Common
+356,Searing Blaze,['R'],2,"[""'Instant'""]",,WWK,Common
+357,Secluded Steppe,,0,"[""'Land'""]",,VMA,Common
+358,Silhana Ledgewalker,['G'],2,"[""'Creature'""]","[""'Elf'"", ""'Rogue'""]",RVR,Common
+359,Simic Growth Chamber,,0,"[""'Land'""]",,DIS,Common
+360,Slippery Bogle,"['G', 'U']",1,"[""'Creature'""]","[""'Beast'""]",EVE,Common
+361,Spellstutter Sprite,['U'],2,"[""'Creature'""]","[""'Faerie'"", ""'Wizard'""]",LRW,Common
+362,Stream of Thought,['U'],1,"[""'Sorcery'""]",,MH1,Common
+363,Suffocating Fumes,['B'],3,"[""'Instant'""]",,IKO,Common
+364,Swiftwater Cliffs,,0,"[""'Land'""]",,MOM,Common
+365,Tangle,['G'],2,"[""'Instant'""]",,VMA,Common
+366,Tangled Islet,,0,"[""'Land'""]","[""'Forest'"", ""'Island'""]",DMU,Common
+367,Thorn of the Black Rose,['B'],4,"[""'Creature'""]","[""'Human'"", ""'Assassin'""]",CMR,Common
+368,Thornwood Falls,,0,"[""'Land'""]",,MOM,Common
+369,Tolarian Terror,['U'],7,"[""'Creature'""]","[""'Serpent'""]",DMU,Common
+370,Unexpected Fangs,['B'],2,"[""'Instant'""]",,IKO,Common
+371,Utopia Sprawl,['G'],1,"[""'Enchantment'""]","[""'Aura'""]",WOT,Uncommon
+372,Voldaren Epicure,['R'],1,"[""'Creature'""]","[""'Vampire'""]",VOW,Common
+373,Weather the Storm,['G'],2,"[""'Instant'""]",,MH1,Common
+374,Wind-Scarred Crag,,0,"[""'Land'""]",,MOM,Common
+375,Wrenn's Resolve,['R'],2,"[""'Sorcery'""]",,MOM,Common
+376,Absorb,"['U', 'W']",3,"[""'Instant'""]",,RNA,Rare
+377,Agent of Treachery,['U'],7,"[""'Creature'""]","[""'Human'"", ""'Rogue'""]",M20,Rare
+378,Ancestral Anger,['R'],1,"[""'Sorcery'""]",,VOW,Common
+379,Archfiend of the Dross,['B'],4,"[""'Creature'""]","[""'Phyrexian'"", ""'Demon'""]",ONE,Rare
+380,Archon of Sun's Grace,['W'],4,"[""'Creature'""]","[""'Archon'""]",THB,Rare
+381,Arclight Phoenix,['R'],4,"[""'Creature'""]","[""'Phoenix'""]",RVR,Rare
+382,Ascendant Spirit,['U'],1,"[""'Snow'"", ""'Creature'""]","[""'Spirit'""]",KHM,Rare
+383,Bala Ged Recovery,['G'],3,"[""'Sorcery'""]",,ZNR,Uncommon
+384,Battlefield Forge,,0,"[""'Land'""]",,9ED,Rare
+385,Bitter Triumph,['B'],2,"[""'Instant'""]",,LCI,Uncommon
+386,Blightstep Pathway,,0,"[""'Land'""]",,KHM,Rare
+387,Bloodtithe Harvester,"['B', 'R']",2,"[""'Creature'""]","[""'Vampire'""]",VOW,Uncommon
+388,Castle Ardenvale,,0,"[""'Land'""]",,ELD,Rare
+389,Castle Embereth,,0,"[""'Land'""]",,ELD,Rare
+390,Chained to the Rocks,['W'],1,"[""'Enchantment'""]","[""'Aura'""]",THS,Rare
+391,"Chandra, Dressed to Kill",['R'],3,"[""'Legendary'"", ""'Planeswalker'""]","[""'Chandra'""]",VOW,Mythic
+392,"Chandra, Hope's Beacon",['R'],6,"[""'Legendary'"", ""'Planeswalker'""]","[""'Chandra'""]",MOM,Mythic
+393,Change the Equation,['U'],2,"[""'Instant'""]",,MOM,Uncommon
+394,Conspiracy Theorist,['R'],2,"[""'Creature'""]","[""'Human'"", ""'Shaman'""]",STX,Rare
+395,Curious Obsession,['U'],1,"[""'Enchantment'""]","[""'Aura'""]",RIX,Uncommon
+396,Dark Petition,['B'],5,"[""'Sorcery'""]",,ORI,Rare
+397,Defiant Strike,['W'],1,"[""'Instant'""]",,M21,Common
+398,Den of the Bugbear,,0,"[""'Land'""]",,AFR,Rare
+399,Deserted Beach,,0,"[""'Land'""]",,DBL,Rare
+400,Dovin's Veto,"['U', 'W']",2,"[""'Instant'""]",,WAR,Uncommon
+401,Dreadhorde Arcanist,['R'],2,"[""'Creature'""]","[""'Zombie'"", ""'Wizard'""]",WAR,Rare
+402,Duress,['B'],1,"[""'Sorcery'""]",,DMR,Common
+403,"Eiganjo, Seat of the Empire",,0,"[""'Legendary'"", ""'Land'""]",,PRM,Rare
+404,"Elesh Norn, Mother of Machines",['W'],5,"[""'Legendary'"", ""'Creature'""]","[""'Phyrexian'"", ""'Praetor'""]",ONE,Mythic
+405,Emergent Ultimatum,"['B', 'G', 'U']",7,"[""'Sorcery'""]",,IKO,Rare
+406,Enigmatic Incarnation,"['G', 'U']",4,"[""'Enchantment'""]",,THB,Rare
+407,Faceless Haven,,0,"[""'Snow'"", ""'Land'""]",,KHM,Rare
+408,Farewell,['W'],6,"[""'Sorcery'""]",,NEO,Rare
+409,Favored Hoplite,['W'],1,"[""'Creature'""]","[""'Human'"", ""'Soldier'""]",THS,Uncommon
+410,Field of Ruin,,0,"[""'Land'""]",,MID,Uncommon
+411,Fiery Impulse,['R'],1,"[""'Instant'""]",,ORI,Common
+412,Fires of Invention,['R'],4,"[""'Enchantment'""]",,ELD,Rare
+413,Furnace Punisher,['R'],3,"[""'Creature'""]","[""'Phyrexian'"", ""'Warrior'""]",ONE,Uncommon
+414,Galvanic Iteration,"['R', 'U']",2,"[""'Instant'""]",,MID,Rare
+415,Geistlight Snare,['U'],3,"[""'Instant'""]",,VOW,Uncommon
+416,Get Lost,['W'],2,"[""'Instant'""]",,LCI,Rare
+417,Glacial Fortress,,0,"[""'Land'""]",,XLN,Rare
+418,Glasspool Mimic,['U'],3,"[""'Creature'""]","[""'Shapeshifter'"", ""'Rogue'""]",ZNR,Rare
+419,Go Blank,['B'],3,"[""'Sorcery'""]",,STX,Uncommon
+420,Go for the Throat,['B'],2,"[""'Instant'""]",,BRO,Uncommon
+421,Gods Willing,['W'],1,"[""'Instant'""]",,2X2,Common
+422,Graveyard Trespasser,['B'],3,"[""'Creature'""]","[""'Human'"", ""'Werewolf'""]",MID,Rare
+423,Hallowed Moonlight,['W'],2,"[""'Instant'""]",,ORI,Rare
+424,Hanged Executioner,['W'],3,"[""'Creature'""]","[""'Spirit'""]",M20,Rare
+425,Haunted Ridge,,0,"[""'Land'""]",,MID,Rare
+426,Hengegate Pathway,,0,"[""'Land'""]",,KHM,Rare
+427,Hidden Strings,['U'],2,"[""'Sorcery'""]",,DGM,Common
+428,Hive of the Eye Tyrant,,0,"[""'Land'""]",,AFR,Rare
+429,Homestead Courage,['W'],1,"[""'Sorcery'""]",,MID,Common
+430,Icon of Ancestry,,3,"[""'Artifact'""]",,M20,Rare
+431,Illuminator Virtuoso,['W'],2,"[""'Creature'""]","[""'Human'"", ""'Rogue'""]",SNC,Uncommon
+432,Inspiring Vantage,,0,"[""'Land'""]",,KLD,Rare
+433,"Inti, Seneschal of the Sun",['R'],2,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Knight'""]",LCI,Rare
+434,Irrigated Farmland,,0,"[""'Land'""]","[""'Plains'"", ""'Island'""]",AKH,Rare
+435,Izzet Charm,"['R', 'U']",2,"[""'Instant'""]",,2X2,Common
+436,Jwari Disruption,['U'],2,"[""'Instant'""]",,ZNR,Uncommon
+437,"Kenrith, the Returned King",['W'],5,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Noble'""]",ELD,Mythic
+438,Knight of Autumn,"['G', 'W']",3,"[""'Creature'""]","[""'Dryad'"", ""'Knight'""]",GRN,Rare
+439,Kumano Faces Kakkazan,['R'],1,"[""'Enchantment'""]","[""'Saga'""]",NEO,Uncommon
+440,Kutzil's Flanker,['W'],3,"[""'Creature'""]","[""'Cat'"", ""'Warrior'""]",LCI,Rare
+441,"Lier, Disciple of the Drowned",['U'],5,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Wizard'""]",MID,Mythic
+442,Light Up the Stage,['R'],3,"[""'Sorcery'""]",,RNA,Uncommon
+443,Lightning Axe,['R'],1,"[""'Instant'""]",,2XM,Common
+444,Liliana of the Veil,['B'],3,"[""'Legendary'"", ""'Planeswalker'""]","[""'Liliana'""]",PRM,Mythic
+445,Lotus Field,,0,"[""'Land'""]",,M20,Rare
+446,Make Disappear,['U'],2,"[""'Instant'""]",,SNC,Common
+447,Mana Confluence,,0,"[""'Land'""]",,JOU,Rare
+448,March of Otherworldly Light,['W'],1,"[""'Instant'""]",,NEO,Rare
+449,Mausoleum Wanderer,['U'],1,"[""'Creature'""]","[""'Spirit'""]",EMN,Rare
+450,Memory Deluge,['U'],4,"[""'Instant'""]",,MID,Rare
+451,Monastery Swiftspear,['R'],1,"[""'Creature'""]","[""'Human'"", ""'Monk'""]",BRO,Uncommon
+452,Monstrous Rage,['R'],1,"[""'Instant'""]",,WOE,Uncommon
+453,Needleverge Pathway,,0,"[""'Land'""]",,ZNR,Rare
+454,Nylea's Presence,['G'],2,"[""'Enchantment'""]","[""'Aura'""]",THS,Common
+455,Omen of the Sea,['U'],2,"[""'Enchantment'""]",,THB,Common
+456,Omniscience,['U'],10,"[""'Enchantment'""]",,M19,Mythic
+457,Opt,['U'],1,"[""'Instant'""]",,M21,Common
+458,Path to the World Tree,['G'],2,"[""'Enchantment'""]",,KHM,Uncommon
+459,Phoenix Chick,['R'],1,"[""'Creature'""]","[""'Phoenix'""]",DMU,Uncommon
+460,Picklock Prankster,['U'],2,"[""'Creature'""]","[""'Faerie'"", ""'Rogue'""]",WOE,Uncommon
+461,Play with Fire,['R'],1,"[""'Instant'""]",,MID,Uncommon
+462,Pore Over the Pages,['U'],5,"[""'Sorcery'""]",,SOI,Uncommon
+463,Portable Hole,['W'],1,"[""'Artifact'""]",,AFR,Uncommon
+464,Power Word Kill,['B'],2,"[""'Instant'""]",,AFR,Uncommon
+465,Prismari Command,"['R', 'U']",3,"[""'Instant'""]",,STX,Rare
+466,Quick Study,['U'],3,"[""'Instant'""]",,WOE,Common
+467,Rampaging Ferocidon,['R'],3,"[""'Creature'""]","[""'Dinosaur'""]",XLN,Rare
+468,Ramunap Ruins,,0,"[""'Land'""]","[""'Desert'""]",HOU,Uncommon
+469,Rattlechains,['U'],2,"[""'Creature'""]","[""'Spirit'""]",SOI,Rare
+470,Reckless Rage,['R'],1,"[""'Instant'""]",,RIX,Uncommon
+471,Reckoner Bankbuster,,2,"[""'Artifact'""]","[""'Vehicle'""]",NEO,Rare
+472,Restless Anchorage,,0,"[""'Land'""]",,LCI,Rare
+473,Riverglide Pathway,,0,"[""'Land'""]",,ZNR,Rare
+474,Rootbound Crag,,0,"[""'Land'""]",,XLN,Rare
+475,Sea Gate Restoration,['U'],7,"[""'Sorcery'""]",,ZNR,Mythic
+476,Seachrome Coast,,0,"[""'Land'""]",,ONE,Rare
+477,Sejiri Shelter,['W'],2,"[""'Instant'""]",,ZNR,Uncommon
+478,Shacklegeist,['U'],2,"[""'Creature'""]","[""'Spirit'""]",M21,Rare
+479,Shark Typhoon,['U'],6,"[""'Enchantment'""]",,IKO,Rare
+480,Shore Up,['U'],1,"[""'Instant'""]",,DMU,Common
+481,Skyclave Apparition,['W'],3,"[""'Creature'""]","[""'Kor'"", ""'Spirit'""]",PRM,Rare
+482,Sleight of Hand,['U'],1,"[""'Sorcery'""]",,WOE,Common
+483,"Sokenzan, Crucible of Defiance",,0,"[""'Legendary'"", ""'Land'""]",,NEO,Rare
+484,Soul-Scar Mage,['R'],1,"[""'Creature'""]","[""'Human'"", ""'Wizard'""]",AKH,Rare
+485,Spara's Headquarters,,0,"[""'Land'""]","[""'Forest'"", ""'Plains'"", ""'Island'""]",SNC,Rare
+486,Spectral Sailor,['U'],1,"[""'Creature'""]","[""'Spirit'"", ""'Pirate'""]",M20,Uncommon
+487,Spikefield Hazard,['R'],1,"[""'Instant'""]",,ZNR,Uncommon
+488,Stormcarved Coast,,0,"[""'Land'""]",,VOW,Rare
+489,Sulfurous Springs,,0,"[""'Land'""]",,9ED,Rare
+490,Sunfall,['W'],5,"[""'Sorcery'""]",,MOM,Rare
+491,Sunken Citadel,,0,"[""'Land'""]","[""'Cave'""]",LCI,Rare
+492,Supreme Phantom,['U'],2,"[""'Creature'""]","[""'Spirit'""]",M19,Rare
+493,Sylvan Scrying,['G'],2,"[""'Sorcery'""]",,BFZ,Uncommon
+494,"Teferi, Hero of Dominaria","['U', 'W']",5,"[""'Legendary'"", ""'Planeswalker'""]","[""'Teferi'""]",SLD,Mythic
+495,Temporal Trespass,['U'],11,"[""'Sorcery'""]",,FRF,Mythic
+496,Temporary Lockdown,['W'],3,"[""'Enchantment'""]",,DMU,Rare
+497,Tenth District Legionnaire,"['R', 'W']",2,"[""'Creature'""]","[""'Human'"", ""'Soldier'""]",2X2,Common
+498,The Wandering Emperor,['W'],4,"[""'Legendary'"", ""'Planeswalker'""]",,PRM,Mythic
+499,"Tolsimir, Friend to Wolves","['G', 'W']",5,"[""'Legendary'"", ""'Creature'""]","[""'Elf'"", ""'Scout'""]",WAR,Rare
+500,Treasure Cruise,['U'],8,"[""'Sorcery'""]",,KTK,Common
+501,Vizier of Tumbling Sands,['U'],3,"[""'Creature'""]","[""'Human'"", ""'Cleric'""]",AKH,Uncommon
+502,"Aclazotz, Deepest Betrayal",['B'],5,"[""'Legendary'"", ""'Creature'""]","[""'Bat'"", ""'God'""]",LCI,Mythic
+503,Adarkar Wastes,,0,"[""'Land'""]",,DMU,Rare
+504,Ambitious Farmhand,['W'],2,"[""'Creature'""]","[""'Human'"", ""'Peasant'""]",MID,Uncommon
+505,Annex Sentry,['W'],3,"[""'Artifact'"", ""'Creature'""]","[""'Phyrexian'"", ""'Cleric'""]",ONE,Uncommon
+506,Anoint with Affliction,['B'],2,"[""'Instant'""]",,ONE,Common
+507,Big Score,['R'],4,"[""'Instant'""]",,SNC,Common
+508,Bloodthirsty Adversary,['R'],2,"[""'Creature'""]","[""'Vampire'""]",MID,Mythic
+509,Breach the Multiverse,['B'],7,"[""'Sorcery'""]",,MOM,Rare
+510,Bring the Ending,['U'],2,"[""'Instant'""]",,ONE,Common
+511,Brotherhood's End,['R'],3,"[""'Sorcery'""]",,PRM,Rare
+512,Burn Down the House,['R'],5,"[""'Sorcery'""]",,MID,Rare
+513,Charge of the Mites,['W'],3,"[""'Instant'""]",,ONE,Common
+514,Charming Scoundrel,['R'],2,"[""'Creature'""]","[""'Human'"", ""'Rogue'""]",WOE,Rare
+515,Crawling Chorus,['W'],1,"[""'Creature'""]","[""'Phyrexian'"", ""'Horror'""]",ONE,Common
+516,Cut Down,['B'],1,"[""'Instant'""]",,DMU,Uncommon
+517,Deathcap Glade,,0,"[""'Land'""]",,VOW,Rare
+518,Deep-Cavern Bat,['B'],2,"[""'Creature'""]","[""'Bat'""]",LCI,Uncommon
+519,"Etali, Primal Conqueror",['R'],7,"[""'Legendary'"", ""'Creature'""]","[""'Elder'"", ""'Dinosaur'""]",MOM,Rare
+520,Fading Hope,['U'],1,"[""'Instant'""]",,MID,Uncommon
+521,"Feldon, Ronom Excavator",['R'],2,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Artificer'""]",BRO,Rare
+522,Gix's Command,['B'],5,"[""'Sorcery'""]",,BRO,Rare
+523,"Gix, Yawgmoth Praetor",['B'],3,"[""'Legendary'"", ""'Creature'""]","[""'Phyrexian'"", ""'Praetor'""]",BRO,Mythic
+524,Glissa Sunslayer,"['B', 'G']",3,"[""'Legendary'"", ""'Creature'""]","[""'Phyrexian'"", ""'Zombie'"", ""'Elf'""]",ONE,Rare
+525,"Goddric, Cloaked Reveler",['R'],3,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Noble'""]",WOE,Rare
+526,Jawbone Duelist,['W'],2,"[""'Creature'""]","[""'Phyrexian'"", ""'Soldier'""]",ONE,Uncommon
+527,Lay Down Arms,['W'],1,"[""'Sorcery'""]",,BRO,Uncommon
+528,Lightning Strike,['R'],2,"[""'Instant'""]",,DMU,Common
+529,Llanowar Wastes,,0,"[""'Land'""]",,BRO,Rare
+530,March of Swirling Mist,['U'],1,"[""'Instant'""]",,NEO,Rare
+531,Mirrex,,0,"[""'Land'""]","[""'Sphere'""]",ONE,Rare
+532,Mishra's Foundry,,0,"[""'Land'""]",,BRO,Rare
+533,Mosswood Dreadknight,['G'],2,"[""'Creature'""]","[""'Human'"", ""'Knight'""]",WOE,Rare
+534,"Nissa, Ascended Animist",['G'],7,"[""'Legendary'"", ""'Planeswalker'""]","[""'Nissa'""]",ONE,Mythic
+535,Obscura Storefront,,0,"[""'Land'""]",,SNC,Common
+536,Ossification,['W'],2,"[""'Enchantment'""]","[""'Aura'""]",ONE,Uncommon
+537,Preacher of the Schism,['B'],3,"[""'Creature'""]","[""'Vampire'"", ""'Cleric'""]",LCI,Rare
+538,Raffine's Tower,,0,"[""'Land'""]","[""'Plains'"", ""'Island'"", ""'Swamp'""]",SNC,Rare
+539,Razorverge Thicket,,0,"[""'Land'""]",,ONE,Rare
+540,Restless Cottage,,0,"[""'Land'""]",,WOE,Rare
+541,Restless Vents,,0,"[""'Land'""]",,LCI,Rare
+542,Sanctuary Warden,['W'],6,"[""'Creature'""]","[""'Angel'"", ""'Soldier'""]",SNC,Mythic
+543,Sentinel of the Nameless City,['G'],3,"[""'Creature'""]","[""'Merfolk'"", ""'Warrior'"", ""'Scout'""]",LCI,Rare
+544,Serra Paragon,['W'],4,"[""'Creature'""]","[""'Angel'""]",PRM,Mythic
+545,Serum Snare,['U'],2,"[""'Instant'""]",,ONE,Uncommon
+546,Skrelv's Hive,['W'],2,"[""'Enchantment'""]",,ONE,Rare
+547,"Skrelv, Defector Mite",['W'],1,"[""'Legendary'"", ""'Artifact'"", ""'Creature'""]","[""'Phyrexian'"", ""'Mite'""]",ONE,Rare
+548,Sorin the Mirthless,['B'],4,"[""'Legendary'"", ""'Planeswalker'""]","[""'Sorin'""]",VOW,Mythic
+549,"Squee, Dubious Monarch",['R'],3,"[""'Legendary'"", ""'Creature'""]","[""'Goblin'"", ""'Noble'""]",DMU,Rare
+550,The Celestus,,3,"[""'Legendary'"", ""'Artifact'""]",,MID,Rare
+551,The Eternal Wanderer,['W'],6,"[""'Legendary'"", ""'Planeswalker'""]",,ONE,Rare
+552,The Irencrag,,2,"[""'Legendary'"", ""'Artifact'""]",,WOE,Rare
+553,The Restoration of Eiganjo,['W'],3,"[""'Enchantment'""]","[""'Saga'""]",NEO,Rare
+554,The Seedcore,,0,"[""'Land'""]","[""'Sphere'""]",ONE,Rare
+555,Thundering Raiju,['R'],4,"[""'Creature'""]","[""'Spirit'""]",NEO,Rare
+556,Trumpeting Carnosaur,['R'],6,"[""'Creature'""]","[""'Dinosaur'""]",LCI,Rare
+557,Venerated Rotpriest,['G'],1,"[""'Creature'""]","[""'Phyrexian'"", ""'Druid'""]",ONE,Rare
+558,Virtue of Persistence,['B'],7,"[""'Enchantment'""]",,WOE,Mythic
+559,Wedding Announcement,['W'],3,"[""'Enchantment'""]",,VOW,Rare
+560,Witchstalker Frenzy,['R'],4,"[""'Instant'""]",,WOE,Uncommon
+561,Yavimaya Coast,,0,"[""'Land'""]",,ORI,Rare
+562,Ancestral Recall,['U'],1,"[""'Instant'""]",,VMA,Mythic
+563,Black Lotus,,0,"[""'Artifact'""]",,VMA,Mythic
+564,Coveted Jewel,,6,"[""'Artifact'""]",,PZ2,Rare
+565,Grim Monolith,,2,"[""'Artifact'""]",,PRM,Rare
+566,"Karn, the Great Creator",,4,"[""'Legendary'"", ""'Planeswalker'""]","[""'Karn'""]",PRM,Rare
+567,Mana Crypt,,0,"[""'Artifact'""]",,SPG,Mythic
+568,Mana Vault,,1,"[""'Artifact'""]",,UMA,Mythic
+569,Manifold Key,,1,"[""'Artifact'""]",,M20,Uncommon
+570,Mishra's Workshop,,0,"[""'Land'""]",,VMA,Mythic
+571,Mox Emerald,,0,"[""'Artifact'""]",,VMA,Mythic
+572,Mox Jet,,0,"[""'Artifact'""]",,VMA,Mythic
+573,Mox Pearl,,0,"[""'Artifact'""]",,VMA,Mythic
+574,Mox Ruby,,0,"[""'Artifact'""]",,VMA,Mythic
+575,Mox Sapphire,,0,"[""'Artifact'""]",,VMA,Mythic
+576,Mystic Forge,,4,"[""'Artifact'""]",,M20,Rare
+577,Paradoxical Outcome,['U'],4,"[""'Instant'""]",,KLD,Rare
+578,Phyrexian Metamorph,['U'],4,"[""'Artifact'"", ""'Creature'""]","[""'Phyrexian'"", ""'Shapeshifter'""]",NPH,Rare
+579,Sol Ring,,1,"[""'Artifact'""]",,CMM,Uncommon
+580,Time Vault,,2,"[""'Artifact'""]",,VMA,Mythic
+581,Time Walk,['U'],2,"[""'Sorcery'""]",,VMA,Mythic
+582,Tinker,['U'],3,"[""'Sorcery'""]",,V09,Mythic
+583,Tolarian Academy,,0,"[""'Legendary'"", ""'Land'""]",,VMA,Mythic
+584,Batterskull,,5,"[""'Artifact'""]","[""'Equipment'""]",NPH,Mythic
+585,Bridge from Below,['B'],3,"[""'Enchantment'""]",,FUT,Rare
+586,Cabal Therapy,['B'],1,"[""'Sorcery'""]",,EMA,Uncommon
+587,Careful Study,['U'],1,"[""'Sorcery'""]",,OD,Common
+588,Cephalid Coliseum,,0,"[""'Land'""]",,V12,Mythic
+589,Cephalid Illusionist,['U'],2,"[""'Creature'""]","[""'Cephalid'"", ""'Wizard'""]",TOR,Uncommon
+590,Copy Artifact,['U'],2,"[""'Enchantment'""]",,ME4,Rare
+591,Dauntless Dismantler,['W'],2,"[""'Creature'""]","[""'Human'"", ""'Artificer'""]",LCI,Uncommon
+592,Dread Return,['B'],4,"[""'Sorcery'""]",,CMM,Common
+593,Elvish Reclaimer,['G'],1,"[""'Creature'""]","[""'Elf'"", ""'Warrior'""]",M20,Rare
+594,"Emrakul, the Aeons Torn",,15,"[""'Legendary'"", ""'Creature'""]","[""'Eldrazi'""]",PRM,Mythic
+595,Extraction Specialist,['W'],3,"[""'Creature'""]","[""'Human'"", ""'Rogue'""]",SNC,Rare
+596,Flagstones of Trokair,,0,"[""'Legendary'"", ""'Land'""]",,TSP,Rare
+597,Flickerwisp,['W'],3,"[""'Creature'""]","[""'Elemental'""]",2X2,Uncommon
+598,Gaddock Teeg,"['G', 'W']",2,"[""'Legendary'"", ""'Creature'""]","[""'Kithkin'"", ""'Advisor'""]",LRW,Rare
+599,Glassdust Hulk,"['U', 'W']",5,"[""'Artifact'"", ""'Creature'""]","[""'Golem'""]",ARB,Common
+600,Goblin Rabblemaster,['R'],3,"[""'Creature'""]","[""'Goblin'"", ""'Warrior'""]",M15,Rare
+601,Golgari Grave-Troll,['G'],5,"[""'Creature'""]","[""'Troll'"", ""'Skeleton'""]",RAV,Rare
+602,Golgari Thug,['B'],2,"[""'Creature'""]","[""'Human'"", ""'Warrior'""]",RVR,Uncommon
+603,Green Sun's Zenith,['G'],1,"[""'Sorcery'""]",,MBS,Rare
+604,"Hogaak, Arisen Necropolis","['B', 'G']",7,"[""'Legendary'"", ""'Creature'""]","[""'Avatar'""]",MH1,Rare
+605,Ichorid,['B'],4,"[""'Creature'""]","[""'Horror'""]",VMA,Rare
+606,Kaldra Compleat,,7,"[""'Legendary'"", ""'Artifact'""]","[""'Equipment'""]",MH2,Mythic
+607,Knight of the Reliquary,"['G', 'W']",3,"[""'Creature'""]","[""'Human'"", ""'Knight'""]",CON,Rare
+608,Land Grant,['G'],2,"[""'Sorcery'""]",,MM,Common
+609,Legolas's Quick Reflexes,['G'],1,"[""'Instant'""]",,LTC,Rare
+610,Loran of the Third Path,['W'],3,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Artificer'""]",BRO,Rare
+611,Mother of Runes,['W'],1,"[""'Creature'""]","[""'Human'"", ""'Cleric'""]",PRM,Uncommon
+612,Narcomoeba,['U'],2,"[""'Creature'""]","[""'Illusion'""]",GRN,Rare
+613,Nomads en-Kor,['W'],1,"[""'Creature'""]","[""'Kor'"", ""'Nomad'"", ""'Soldier'""]",TPR,Common
+614,Orim's Chant,['W'],1,"[""'Instant'""]",,PRM,Rare
+615,Otherworldly Gaze,['U'],1,"[""'Instant'""]",,MID,Common
+616,Outland Liberator,['G'],2,"[""'Creature'""]","[""'Human'"", ""'Werewolf'""]",MID,Uncommon
+617,Pact of Negation,['U'],0,"[""'Instant'""]",,FUT,Rare
+618,Paradox Engine,,5,"[""'Legendary'"", ""'Artifact'""]",,AER,Mythic
+619,Ramunap Excavator,['G'],3,"[""'Creature'""]","[""'Naga'"", ""'Cleric'""]",PRM,Rare
+620,Recruiter of the Guard,['W'],3,"[""'Creature'""]","[""'Human'"", ""'Soldier'""]",PZ2,Rare
+621,Rise // Fall,"['U', 'B']",4,"[""'Sorcery'""]",,DIS,Uncommon
+622,Sanctum Prelate,['W'],3,"[""'Creature'""]","[""'Human'"", ""'Cleric'""]",MH2,Mythic
+623,Sejiri Steppe,,0,"[""'Land'""]",,WWK,Common
+624,Shatterskull Smashing,['R'],2,"[""'Sorcery'""]",,ZNR,Mythic
+625,Show and Tell,['U'],3,"[""'Sorcery'""]",,PRM,Rare
+626,Shuko,,1,"[""'Artifact'""]","[""'Equipment'""]",BOK,Uncommon
+627,Snow-Covered Mountain,,0,"[""'Basic'"", ""'Snow'"", ""'Land'""]","[""'Mountain'""]",KHM,Common
+628,Stinkweed Imp,['B'],3,"[""'Creature'""]","[""'Imp'""]",RAV,Common
+629,Stoneforge Mystic,['W'],2,"[""'Creature'""]","[""'Kor'"", ""'Artificer'""]",WWK,Rare
+630,Sylvan Safekeeper,['G'],1,"[""'Creature'""]","[""'Human'"", ""'Wizard'""]",JUD,Rare
+631,"Syr Ginger, the Meal Ender",,2,"[""'Legendary'"", ""'Artifact'"", ""'Creature'""]","[""'Food'"", ""'Knight'""]",WOE,Rare
+632,Tarmogoyf,['G'],2,"[""'Creature'""]","[""'Lhurgoyf'""]",MM2,Mythic
+633,"Thalia, Guardian of Thraben",['W'],2,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Soldier'""]",PRM,Rare
+634,Timeless Dragon,['W'],5,"[""'Creature'""]","[""'Dragon'""]",MH2,Rare
+635,Transmute Artifact,['U'],2,"[""'Sorcery'""]",,ME4,Rare
+636,Umezawa's Jitte,,2,"[""'Legendary'"", ""'Artifact'""]","[""'Equipment'""]",BOK,Rare
+637,"Adeline, Resplendent Cathar",['W'],3,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Knight'""]",MID,Rare
+638,Amulet of Vigor,,1,"[""'Artifact'""]",,SL2,Rare
+639,Arboreal Grazer,['G'],1,"[""'Creature'""]","[""'Beast'""]",RVR,Common
+640,Archive Trap,['U'],5,"[""'Instant'""]","[""'Trap'""]",ZEN,Rare
+641,Archmage's Charm,['U'],3,"[""'Instant'""]",,MH1,Rare
+642,Ardent Plea,"['U', 'W']",3,"[""'Enchantment'""]",,ARB,Uncommon
+643,Asmoranomardicadaistinaculdacar,"['B', 'R']",0,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Wizard'""]",MH2,Rare
+644,"Azusa, Lost but Seeking",['G'],3,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Monk'""]",CHK,Rare
+645,Blood Moon,['R'],3,"[""'Enchantment'""]",,8ED,Rare
+646,Boros Garrison,,0,"[""'Land'""]",,RAV,Common
+647,Champion of the Parish,['W'],1,"[""'Creature'""]","[""'Human'"", ""'Soldier'""]",ISD,Rare
+648,Chromatic Sphere,,1,"[""'Artifact'""]",,MRD,Common
+649,Cranial Plating,,2,"[""'Artifact'""]","[""'Equipment'""]",5DN,Common
+650,Crumbling Vestige,,0,"[""'Land'""]",,PRM,Common
+651,Cultivator Colossus,['G'],7,"[""'Creature'""]","[""'Plant'"", ""'Beast'""]",VOW,Mythic
+652,Darkbore Pathway,,0,"[""'Land'""]",,KHM,Rare
+653,Darksteel Citadel,,0,"[""'Artifact'"", ""'Land'""]",,M15,Uncommon
+654,Death's Shadow,['B'],1,"[""'Creature'""]","[""'Avatar'""]",WWK,Rare
+655,Drown in the Loch,"['B', 'U']",2,"[""'Instant'""]",,ELD,Uncommon
+656,Dryad of the Ilysian Grove,['G'],3,"[""'Enchantment'"", ""'Creature'""]","[""'Nymph'"", ""'Dryad'""]",THB,Rare
+657,Esper Sentinel,['W'],1,"[""'Artifact'"", ""'Creature'""]","[""'Human'"", ""'Soldier'""]",MH2,Rare
+658,Fiery Islet,,0,"[""'Land'""]",,MH1,Rare
+659,Forging the Anchor,['U'],3,"[""'Sorcery'""]",,BRO,Uncommon
+660,Fractured Sanity,['U'],3,"[""'Sorcery'""]",,MH2,Rare
+661,Frogmite,,4,"[""'Artifact'"", ""'Creature'""]","[""'Frog'""]",MMA,Common
+662,Gingerbrute,,1,"[""'Artifact'"", ""'Creature'""]","[""'Food'"", ""'Golem'""]",WOE,Common
+663,Gruul Turf,,0,"[""'Land'""]",,GPT,Common
+664,Hedron Crab,['U'],1,"[""'Creature'""]","[""'Crab'""]",ZEN,Uncommon
+665,Inquisition of Kozilek,['B'],1,"[""'Sorcery'""]",,2X2,Uncommon
+666,"Jace, the Perfected Mind",['U'],4,"[""'Legendary'"", ""'Planeswalker'""]","[""'Jace'""]",ONE,Mythic
+667,Littjara Mirrorlake,,0,"[""'Land'""]",,KHM,Uncommon
+668,Meddling Mage,"['U', 'W']",2,"[""'Creature'""]","[""'Human'"", ""'Wizard'""]",PRM,Rare
+669,Memnite,,0,"[""'Artifact'"", ""'Creature'""]","[""'Construct'""]",SOM,Uncommon
+670,"Mikokoro, Center of the Sea",,0,"[""'Legendary'"", ""'Land'""]",,SOK,Rare
+671,Mishra's Research Desk,,1,"[""'Artifact'""]",,BRO,Uncommon
+672,Mistvault Bridge,,0,"[""'Artifact'"", ""'Land'""]",,MH2,Common
+673,Nettlecyst,,3,"[""'Artifact'""]","[""'Equipment'""]",MH2,Rare
+674,Nihil Spellbomb,,1,"[""'Artifact'""]",,SOM,Common
+675,Nishoba Brawler,['G'],2,"[""'Creature'""]","[""'Cat'"", ""'Warrior'""]",DMU,Uncommon
+676,Oblivion Stone,,3,"[""'Artifact'""]",,MRD,Rare
+677,"Oboro, Palace in the Clouds",,0,"[""'Legendary'"", ""'Land'""]",,SOK,Rare
+678,Ornithopter,,0,"[""'Artifact'"", ""'Creature'""]","[""'Thopter'""]",DMR,Common
+679,Ovalchase Daredevil,['B'],4,"[""'Creature'""]","[""'Human'"", ""'Pilot'""]",KLD,Uncommon
+680,Primeval Titan,['G'],6,"[""'Creature'""]","[""'Giant'""]",M12,Mythic
+681,Reflector Mage,"['U', 'W']",3,"[""'Creature'""]","[""'Human'"", ""'Wizard'""]",OGW,Uncommon
+682,Ruin Crab,['U'],1,"[""'Creature'""]","[""'Crab'""]",ZNR,Uncommon
+683,Scion of Draco,,12,"[""'Artifact'"", ""'Creature'""]","[""'Dragon'""]",MH2,Mythic
+684,Secluded Courtyard,,0,"[""'Land'""]",,NEO,Uncommon
+685,Selesnya Sanctuary,,0,"[""'Land'""]",,RAV,Common
+686,Shelldock Isle,,0,"[""'Land'""]",,LRW,Rare
+687,Silent Clearing,,0,"[""'Land'""]",,MH1,Rare
+688,Slayers' Stronghold,,0,"[""'Land'""]",,AVR,Rare
+689,Snapcaster Mage,['U'],2,"[""'Creature'""]","[""'Human'"", ""'Wizard'""]",ISD,Rare
+690,Sojourner's Companion,,7,"[""'Artifact'"", ""'Creature'""]","[""'Salamander'""]",MH2,Common
+691,Strike It Rich,['R'],1,"[""'Sorcery'""]",,MH2,Uncommon
+692,Stubborn Denial,['U'],1,"[""'Instant'""]",,KTK,Uncommon
+693,Sulfur Falls,,0,"[""'Land'""]",,ISD,Rare
+694,Summoner's Pact,['G'],0,"[""'Instant'""]",,FUT,Rare
+695,Surgical Extraction,['B'],1,"[""'Instant'""]",,NPH,Rare
+696,Talisman of Resilience,,2,"[""'Artifact'""]",,MH1,Uncommon
+697,Tanglepool Bridge,,0,"[""'Artifact'"", ""'Land'""]",,MH2,Common
+698,Tasha's Hideous Laughter,['U'],3,"[""'Sorcery'""]",,AFR,Rare
+699,Territorial Kavu,"['G', 'R']",2,"[""'Creature'""]","[""'Kavu'""]",MH2,Rare
+700,Thalia's Lieutenant,['W'],2,"[""'Creature'""]","[""'Human'"", ""'Soldier'""]",SOI,Rare
+701,The Mightstone and Weakstone,,5,"[""'Legendary'"", ""'Artifact'""]","[""'Powerstone'""]",BRO,Rare
+702,The Mycosynth Gardens,,0,"[""'Land'""]","[""'Sphere'""]",ONE,Rare
+703,The Underworld Cookbook,,1,"[""'Artifact'""]",,MH2,Uncommon
+704,Tolaria West,,0,"[""'Land'""]",,FUT,Uncommon
+705,Treasure Vault,,0,"[""'Artifact'"", ""'Land'""]",,AFR,Rare
+706,Tribal Flames,['R'],2,"[""'Sorcery'""]",,MM2,Common
+707,"Ulamog, the Ceaseless Hunger",,10,"[""'Legendary'"", ""'Creature'""]","[""'Eldrazi'""]",BFZ,Mythic
+708,Unclaimed Territory,,0,"[""'Land'""]",,XLN,Uncommon
+709,Urza's Mine,,0,"[""'Land'""]","[""'Urza's'"", ""'Mine'""]",PRM,Common
+710,Urza's Power Plant,,0,"[""'Land'""]","[""'Urza's'"", ""'Power-Plant'""]",ME4,Common
+711,Urza's Tower,,0,"[""'Land'""]","[""'Urza's'"", ""'Tower'""]",PRM,Common
+712,"Valakut, the Molten Pinnacle",,0,"[""'Land'""]",,ZEN,Rare
+713,"Venser, Shaper Savant",['U'],4,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Wizard'""]",FUT,Rare
+714,Vesuva,,0,"[""'Land'""]",,TSP,Rare
+715,Visions of Beyond,['U'],1,"[""'Instant'""]",,M12,Rare
+716,Warping Wail,,2,"[""'Instant'""]",,OGW,Uncommon
+717,Wild Nacatl,['G'],1,"[""'Creature'""]","[""'Cat'"", ""'Warrior'""]",ALA,Common
+718,Wurmcoil Engine,,6,"[""'Artifact'"", ""'Creature'""]","[""'Phyrexian'"", ""'Wurm'""]",PRM,Mythic
+719,Acorn Harvest,['G'],4,"[""'Sorcery'""]",,TOR,Common
+720,Archaeomancer,['U'],4,"[""'Creature'""]","[""'Human'"", ""'Wizard'""]",UMA,Common
+721,Ardent Recruit,['W'],1,"[""'Creature'""]","[""'Human'"", ""'Soldier'""]",MBS,Common
+722,Arms of Hadar,['B'],4,"[""'Sorcery'""]",,CLB,Common
+723,Auriok Sunchaser,['W'],2,"[""'Creature'""]","[""'Human'"", ""'Soldier'""]",SOM,Common
+724,Azorius Chancery,,0,"[""'Land'""]",,DIS,Common
+725,Azorius Guildgate,,0,"[""'Land'""]","[""'Gate'""]",RNA,Common
+726,Basilisk Gate,,0,"[""'Land'""]","[""'Gate'""]",CLB,Common
+727,Birchlore Rangers,['G'],1,"[""'Creature'""]","[""'Elf'"", ""'Druid'"", ""'Ranger'""]",ONS,Common
+728,Blanchwood Prowler,['G'],2,"[""'Creature'""]","[""'Elemental'""]",BRO,Common
+729,Brokers Hideout,,0,"[""'Land'""]",,SNC,Common
+730,Candy Trail,,1,"[""'Artifact'""]","[""'Food'"", ""'Clue'""]",WOE,Common
+731,Chromatic Star,,1,"[""'Artifact'""]",,TSP,Common
+732,Citadel Gate,,0,"[""'Land'""]","[""'Gate'""]",CLB,Common
+733,Cleansing Wildfire,['R'],2,"[""'Sorcery'""]",,ZNR,Common
+734,Cliffgate,,0,"[""'Land'""]","[""'Gate'""]",CLB,Common
+735,Crimson Fleet Commodore,['R'],4,"[""'Creature'""]","[""'Ogre'"", ""'Pirate'""]",CMM,Common
+736,Cryptic Serpent,['U'],7,"[""'Creature'""]","[""'Serpent'""]",AKH,Uncommon
+737,Dark-Dweller Oracle,['R'],2,"[""'Creature'""]","[""'Goblin'"", ""'Shaman'""]",2X2,Common
+738,Deadly Dispute,['B'],2,"[""'Instant'""]",,AFR,Common
+739,Deep Analysis,['U'],4,"[""'Sorcery'""]",,DMR,Common
+740,Destroy Evil,['W'],2,"[""'Instant'""]",,DMU,Common
+741,Distant Melody,['U'],4,"[""'Sorcery'""]",,H09,Common
+742,Dragon Wings,['U'],2,"[""'Enchantment'""]","[""'Aura'""]",SCG,Common
+743,Drossforge Bridge,,0,"[""'Artifact'"", ""'Land'""]",,MH2,Common
+744,Elvish Branchbender,['G'],3,"[""'Creature'""]","[""'Elf'"", ""'Druid'""]",LRW,Common
+745,Elvish Mystic,['G'],1,"[""'Creature'""]","[""'Elf'"", ""'Druid'""]",M15,Common
+746,Elvish Vanguard,['G'],2,"[""'Creature'""]","[""'Elf'"", ""'Warrior'""]",EMA,Common
+747,Fanatical Offering,['B'],2,"[""'Instant'""]",,LCI,Common
+748,Fiery Cannonade,['R'],3,"[""'Instant'""]",,CMR,Common
+749,First Day of Class,['R'],2,"[""'Instant'""]",,STX,Common
+750,Force Spike,['U'],1,"[""'Instant'""]",,ME3,Common
+751,Fyndhorn Elves,['G'],1,"[""'Creature'""]","[""'Elf'"", ""'Druid'""]",CMR,Common
+752,Geothermal Bog,,0,"[""'Land'""]","[""'Swamp'"", ""'Mountain'""]",DMU,Common
+753,Ghostly Flicker,['U'],3,"[""'Instant'""]",,MM3,Common
+754,Glacial Floodplain,,0,"[""'Snow'"", ""'Land'""]","[""'Plains'"", ""'Island'""]",KHM,Common
+755,Gnaw to the Bone,['G'],3,"[""'Instant'""]",,ISD,Common
+756,God-Pharaoh's Faithful,['W'],1,"[""'Creature'""]","[""'Human'"", ""'Wizard'""]",HOU,Common
+757,Guardian of the Guildpact,['W'],4,"[""'Creature'""]","[""'Spirit'""]",DIS,Common
+758,Haunted Mire,,0,"[""'Land'""]","[""'Swamp'"", ""'Forest'""]",DMU,Common
+759,Heap Gate,,0,"[""'Land'""]","[""'Gate'""]",CLB,Common
+760,Hopeless Nightmare,['B'],1,"[""'Enchantment'""]",,WOE,Common
+761,Ice Tunnel,,0,"[""'Snow'"", ""'Land'""]","[""'Island'"", ""'Swamp'""]",KHM,Common
+762,Jaspera Sentinel,['G'],1,"[""'Creature'""]","[""'Elf'"", ""'Rogue'""]",KHM,Common
+763,Kenku Artificer,['U'],3,"[""'Creature'""]","[""'Bird'"", ""'Artificer'""]",CLB,Common
+764,Krark-Clan Shaman,['R'],1,"[""'Creature'""]","[""'Goblin'"", ""'Shaman'""]",MRD,Common
+765,Lead the Stampede,['G'],3,"[""'Sorcery'""]",,IKO,Uncommon
+766,Llanowar Elves,['G'],1,"[""'Creature'""]","[""'Elf'"", ""'Druid'""]",PRM,Common
+767,Lose Focus,['U'],2,"[""'Instant'""]",,MH2,Common
+768,Lotleth Giant,['B'],7,"[""'Creature'""]","[""'Zombie'"", ""'Giant'""]",GRN,Uncommon
+769,Masked Vandal,['G'],2,"[""'Creature'""]","[""'Shapeshifter'""]",KHM,Common
+770,Meeting of Minds,['U'],4,"[""'Instant'""]",,MOM,Common
+771,Mental Note,['U'],1,"[""'Instant'""]",,JUD,Common
+772,Mephitic Draught,['B'],2,"[""'Artifact'""]",,LCI,Common
+773,Mesmeric Fiend,['B'],2,"[""'Creature'""]","[""'Nightmare'"", ""'Horror'""]",VMA,Common
+774,Mire Triton,['B'],2,"[""'Creature'""]","[""'Zombie'"", ""'Merfolk'""]",THB,Uncommon
+775,Moon-Circuit Hacker,['U'],2,"[""'Enchantment'"", ""'Creature'""]","[""'Human'"", ""'Ninja'""]",NEO,Common
+776,Mortuary Mire,,0,"[""'Land'""]",,BFZ,Common
+777,Mulldrifter,['U'],5,"[""'Creature'""]","[""'Elemental'""]",MM2,Uncommon
+778,Myr Enforcer,,7,"[""'Artifact'"", ""'Creature'""]","[""'Myr'""]",MMA,Common
+779,Negate,['U'],2,"[""'Instant'""]",,MOM,Common
+780,Of One Mind,['U'],3,"[""'Sorcery'""]",,IKO,Common
+781,Omen of the Dead,['B'],1,"[""'Enchantment'""]",,THB,Common
+782,Orzhov Basilica,,0,"[""'Land'""]",,2X2,Uncommon
+783,Priest of Titania,['G'],2,"[""'Creature'""]","[""'Elf'"", ""'Druid'""]",PRM,Common
+784,Prismatic Strands,['W'],3,"[""'Instant'""]",,JUD,Common
+785,Prohibit,['U'],2,"[""'Instant'""]",,MH1,Common
+786,Putrid Goblin,['B'],2,"[""'Creature'""]","[""'Zombie'"", ""'Goblin'""]",MH1,Common
+787,Quirion Ranger,['G'],1,"[""'Creature'""]","[""'Elf'"", ""'Ranger'""]",PRM,Common
+788,Rakdos Carnarium,,0,"[""'Land'""]",,2X2,Uncommon
+789,Razortide Bridge,,0,"[""'Artifact'"", ""'Land'""]",,MH2,Common
+790,Rustvale Bridge,,0,"[""'Artifact'"", ""'Land'""]",,MH2,Common
+791,Sacred Cat,['W'],1,"[""'Creature'""]","[""'Cat'""]",AKH,Common
+792,Saiba Cryptomancer,['U'],2,"[""'Creature'""]","[""'Moonfolk'"", ""'Ninja'""]",MOM,Common
+793,Satyr Wayfinder,['G'],2,"[""'Creature'""]","[""'Satyr'""]",M15,Common
+794,Scrapwork Mutt,,2,"[""'Artifact'"", ""'Creature'""]","[""'Dog'""]",BRO,Common
+795,Sea Gate,,0,"[""'Land'""]","[""'Gate'""]",CLB,Common
+796,Sea Gate Oracle,['U'],3,"[""'Creature'""]","[""'Human'"", ""'Wizard'""]",MM3,Common
+797,Silverbluff Bridge,,0,"[""'Artifact'"", ""'Land'""]",,MH2,Common
+798,Skred,['R'],1,"[""'Instant'""]",,CSP,Common
+799,Snap,['U'],2,"[""'Instant'""]",,DMR,Common
+800,Snowfield Sinkhole,,0,"[""'Snow'"", ""'Land'""]","[""'Plains'"", ""'Swamp'""]",KHM,Common
+801,Squadron Hawk,['W'],2,"[""'Creature'""]","[""'Bird'""]",A25,Common
+802,Sunscape Familiar,['W'],2,"[""'Creature'""]","[""'Wall'""]",PS,Common
+803,The Modern Age,['U'],2,"[""'Enchantment'""]","[""'Saga'""]",NEO,Common
+804,Thought Scour,['U'],1,"[""'Instant'""]",,DKA,Common
+805,Timberwatch Elf,['G'],3,"[""'Creature'""]","[""'Elf'""]",LGN,Common
+806,Tithing Blade,['B'],2,"[""'Artifact'""]",,LCI,Common
+807,Unearth,['B'],1,"[""'Sorcery'""]",,2X2,Common
+808,Union of the Third Path,['W'],3,"[""'Instant'""]",,BRO,Common
+809,Vault of Whispers,,0,"[""'Artifact'"", ""'Land'""]",,MRD,Common
+810,Vineshaper Prodigy,['G'],2,"[""'Creature'""]","[""'Elf'"", ""'Druid'""]",DMU,Common
+811,Volatile Fjord,,0,"[""'Snow'"", ""'Land'""]","[""'Island'"", ""'Mountain'""]",KHM,Common
+812,Winding Way,['G'],2,"[""'Sorcery'""]",,MH1,Common
+813,Wooded Ridgeline,,0,"[""'Land'""]","[""'Mountain'"", ""'Forest'""]",DMU,Common
+814,Abrupt Decay,"['B', 'G']",2,"[""'Instant'""]",,RTR,Rare
+815,Aetherflux Reservoir,,4,"[""'Artifact'""]",,KLD,Rare
+816,Amalia Benavides Aguirre,"['B', 'W']",2,"[""'Legendary'"", ""'Creature'""]","[""'Vampire'"", ""'Scout'""]",LCI,Rare
+817,Bring to Light,"['G', 'U']",5,"[""'Sorcery'""]",,BFZ,Rare
+818,Cenote Scout,['G'],1,"[""'Creature'""]","[""'Merfolk'"", ""'Scout'""]",LCI,Uncommon
+819,Chart a Course,['U'],2,"[""'Sorcery'""]",,LCI,Uncommon
+820,Cling to Dust,['B'],1,"[""'Instant'""]",,THB,Uncommon
+821,Collected Company,['G'],4,"[""'Instant'""]",,SL2,Rare
+822,Combat Courier,,1,"[""'Artifact'"", ""'Creature'""]","[""'Construct'""]",BRO,Common
+823,Deafening Clarion,"['R', 'W']",3,"[""'Sorcery'""]",,GRN,Rare
+824,"Dina, Soul Steeper","['B', 'G']",2,"[""'Legendary'"", ""'Creature'""]","[""'Dryad'"", ""'Druid'""]",MUL,Uncommon
+825,Dragonskull Summit,,0,"[""'Land'""]",,XLN,Rare
+826,Drowned Catacomb,,0,"[""'Land'""]",,M13,Rare
+827,Ensoul Artifact,['U'],2,"[""'Enchantment'""]","[""'Aura'""]",M15,Uncommon
+828,Extinction Event,['B'],4,"[""'Sorcery'""]",,IKO,Rare
+829,Fabled Passage,,0,"[""'Land'""]",,ELD,Rare
+830,Gleeful Demolition,['R'],1,"[""'Sorcery'""]",,ONE,Uncommon
+831,Godless Shrine,,0,"[""'Land'""]","[""'Plains'"", ""'Swamp'""]",GTC,Rare
+832,Hinterland Harbor,,0,"[""'Land'""]",,ISD,Rare
+833,Invoke Despair,['B'],5,"[""'Sorcery'""]",,NEO,Rare
+834,"Kellan, Daring Traveler",['W'],2,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Faerie'"", ""'Scout'""]",LCI,Rare
+835,Lunarch Veteran,['W'],1,"[""'Creature'""]","[""'Human'"", ""'Cleric'""]",MID,Common
+836,"Nahiri, the Harbinger","['R', 'W']",4,"[""'Legendary'"", ""'Planeswalker'""]","[""'Nahiri'""]",SOI,Mythic
+837,Niv-Mizzet Reborn,"['B', 'G', 'R', 'U', 'W']",5,"[""'Legendary'"", ""'Creature'""]","[""'Dragon'"", ""'Avatar'""]",WAR,Mythic
+838,"Niv-Mizzet, Supreme","['B', 'G', 'R', 'U', 'W']",5,"[""'Legendary'"", ""'Creature'""]","[""'Dragon'"", ""'Avatar'""]",MAT,Rare
+839,Prosperous Innkeeper,['G'],2,"[""'Creature'""]","[""'Halfling'"", ""'Citizen'""]",AFR,Uncommon
+840,Quakebringer,['R'],5,"[""'Creature'""]","[""'Giant'"", ""'Berserker'""]",KHM,Mythic
+841,Reckless Bushwhacker,['R'],3,"[""'Creature'""]","[""'Goblin'"", ""'Warrior'"", ""'Ally'""]",OGW,Uncommon
+842,Return to the Ranks,['W'],2,"[""'Sorcery'""]",,M15,Rare
+843,Selfless Savior,['W'],1,"[""'Creature'""]","[""'Dog'""]",M21,Uncommon
+844,Shadows' Verdict,['B'],5,"[""'Sorcery'""]",,ZNR,Rare
+845,Shivan Reef,,0,"[""'Land'""]",,ORI,Rare
+846,Shrapnel Blast,['R'],2,"[""'Instant'""]",,M15,Uncommon
+847,Smuggler's Copter,,2,"[""'Artifact'""]","[""'Vehicle'""]",KLD,Rare
+848,Spyglass Siren,['U'],1,"[""'Creature'""]","[""'Siren'"", ""'Pirate'""]",LCI,Uncommon
+849,Sunpetal Grove,,0,"[""'Land'""]",,M13,Rare
+850,Sylvan Caryatid,['G'],2,"[""'Creature'""]","[""'Plant'""]",THS,Rare
+851,Tenacious Underdog,['B'],2,"[""'Creature'""]","[""'Human'"", ""'Warrior'""]",SNC,Rare
+852,The End,['G'],4,"[""'Legendary'"", ""'Enchantment'"", ""'Creature'""]","[""'Spider'""]",WOE,Rare
+853,Torch the Tower,['R'],1,"[""'Instant'""]",,WOE,Common
+854,Unmoored Ego,"['B', 'U']",3,"[""'Sorcery'""]",,GRN,Rare
+855,"Valki, God of Lies",['B'],2,"[""'Legendary'"", ""'Creature'""]","[""'God'""]",KHM,Mythic
+856,Vanishing Verse,"['B', 'W']",2,"[""'Instant'""]",,STX,Rare
+857,Voice of Resurgence,"['G', 'W']",2,"[""'Creature'""]","[""'Elemental'""]",DGM,Mythic
+858,Welcoming Vampire,['W'],3,"[""'Creature'""]","[""'Vampire'""]",VOW,Rare
+859,Wildgrowth Walker,['G'],2,"[""'Creature'""]","[""'Elemental'""]",XLN,Uncommon
+860,Ziatora's Proving Ground,,0,"[""'Land'""]","[""'Swamp'"", ""'Mountain'"", ""'Forest'""]",SNC,Rare
+861,Archangel of Wrath,['W'],4,"[""'Creature'""]","[""'Angel'""]",DMU,Rare
+862,"Ashnod, Flesh Mechanist",['B'],1,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Artificer'""]",BRO,Rare
+863,Audacity,['G'],1,"[""'Enchantment'""]","[""'Aura'""]",BRO,Uncommon
+864,Bartolomé del Presidio,"['B', 'W']",2,"[""'Legendary'"", ""'Creature'""]","[""'Vampire'"", ""'Knight'""]",LCI,Uncommon
+865,Black Sun's Twilight,['B'],1,"[""'Instant'""]",,ONE,Rare
+866,Cacophony Scamp,['R'],1,"[""'Creature'""]","[""'Phyrexian'"", ""'Goblin'"", ""'Warrior'""]",ONE,Uncommon
+867,Caves of Koilos,,0,"[""'Land'""]",,9ED,Rare
+868,Chrome Host Seedshark,['U'],3,"[""'Creature'""]","[""'Phyrexian'"", ""'Shark'""]",MOM,Rare
+869,Copperline Gorge,,0,"[""'Land'""]",,SOM,Rare
+870,Courier's Briefcase,['G'],2,"[""'Artifact'""]","[""'Treasure'""]",SNC,Uncommon
+871,Darkslick Shores,,0,"[""'Land'""]",,ONE,Rare
+872,"Dennick, Pious Apprentice","['U', 'W']",2,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Soldier'""]",MID,Rare
+873,Depopulate,['W'],4,"[""'Sorcery'""]",,SNC,Rare
+874,Dig Up,['G'],1,"[""'Sorcery'""]",,VOW,Rare
+875,Dreamroot Cascade,,0,"[""'Land'""]",,VOW,Rare
+876,"Elas il-Kor, Sadistic Pilgrim","['B', 'W']",2,"[""'Legendary'"", ""'Creature'""]","[""'Phyrexian'"", ""'Kor'"", ""'Cleric'""]",DMU,Uncommon
+877,Ertai Resurrected,"['B', 'U']",4,"[""'Legendary'"", ""'Creature'""]","[""'Phyrexian'"", ""'Human'"", ""'Wizard'""]",DMU,Rare
+878,Experimental Augury,['U'],2,"[""'Instant'""]",,ONE,Common
+879,Faerie Mastermind,['U'],2,"[""'Creature'""]","[""'Faerie'"", ""'Rogue'""]",MOM,Rare
+880,Fallaji Archaeologist,['U'],2,"[""'Creature'""]","[""'Human'"", ""'Scout'""]",BRO,Common
+881,Geological Appraiser,['R'],4,"[""'Creature'""]","[""'Human'"", ""'Artificer'""]",LCI,Uncommon
+882,Giant Growth,['G'],1,"[""'Instant'""]",,BRO,Common
+883,Herd Migration,['G'],7,"[""'Sorcery'""]",,DMU,Rare
+884,Horned Loch-Whale,['U'],6,"[""'Creature'""]","[""'Whale'""]",WOE,Rare
+885,Imodane's Recruiter,['R'],3,"[""'Creature'""]","[""'Human'"", ""'Knight'""]",WOE,Uncommon
+886,Invasion of Segovia,['U'],3,"[""'Battle'""]","[""'Siege'""]",MOM,Rare
+887,Invasion of Zendikar,['G'],4,"[""'Battle'""]","[""'Siege'""]",MOM,Uncommon
+888,Kami of Whispered Hopes,['G'],3,"[""'Creature'""]","[""'Spirit'""]",MOM,Uncommon
+889,Karplusan Forest,,0,"[""'Land'""]",,9ED,Rare
+890,Knight-Errant of Eos,['W'],5,"[""'Creature'""]","[""'Human'"", ""'Knight'""]",MOM,Rare
+891,Likeness Looter,"['B', 'U']",2,"[""'Creature'""]","[""'Faerie'"", ""'Shapeshifter'""]",WOE,Rare
+892,"Lord Skitter, Sewer King",['B'],3,"[""'Legendary'"", ""'Creature'""]","[""'Rat'"", ""'Noble'""]",WOE,Rare
+893,"Ludevic, Necrogenius","['B', 'U']",2,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Wizard'""]",MID,Rare
+894,"Malcolm, Alluring Scoundrel",['U'],2,"[""'Legendary'"", ""'Creature'""]","[""'Siren'"", ""'Pirate'""]",LCI,Rare
+895,Mirran Banesplitter,['R'],1,"[""'Artifact'""]","[""'Equipment'""]",MOM,Common
+896,Nahiri's Warcrafting,['R'],3,"[""'Sorcery'""]",,MOM,Rare
+897,"Ozolith, the Shattered Spire",['G'],2,"[""'Legendary'"", ""'Artifact'""]",,MOM,Rare
+898,Phyrexian Obliterator,['B'],4,"[""'Creature'""]","[""'Phyrexian'"", ""'Horror'""]",ONE,Mythic
+899,Picnic Ruiner,['R'],2,"[""'Creature'""]","[""'Goblin'"", ""'Rogue'""]",WOE,Uncommon
+900,Pile On,['B'],4,"[""'Instant'""]",,MOM,Rare
+901,Plaza of Heroes,,0,"[""'Land'""]",,DMU,Rare
+902,Protect the Negotiators,['U'],2,"[""'Instant'""]",,DMU,Uncommon
+903,Raging Battle Mouse,['R'],2,"[""'Creature'""]","[""'Mouse'""]",WOE,Rare
+904,Realm-Scorcher Hellkite,['R'],6,"[""'Creature'""]","[""'Dragon'""]",WOE,Mythic
+905,Regal Bunnicorn,['W'],2,"[""'Creature'""]","[""'Rabbit'"", ""'Unicorn'""]",WOE,Rare
+906,Relic of Legends,,3,"[""'Artifact'""]",,DMU,Uncommon
+907,Resolute Reinforcements,['W'],2,"[""'Creature'""]","[""'Human'"", ""'Soldier'""]",DMU,Uncommon
+908,Restless Reef,,0,"[""'Land'""]",,LCI,Rare
+909,Restless Vinestalk,,0,"[""'Land'""]",,WOE,Rare
+910,Rockfall Vale,,0,"[""'Land'""]",,MID,Rare
+911,"Rona, Herald of Invasion",['U'],2,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Wizard'""]",MOM,Rare
+912,Royal Treatment,['G'],1,"[""'Instant'""]",,WOE,Uncommon
+913,Seed of Hope,['G'],1,"[""'Instant'""]",,MOM,Common
+914,Shattered Sanctum,,0,"[""'Land'""]",,VOW,Rare
+915,Shipwreck Marsh,,0,"[""'Land'""]",,MID,Rare
+916,Slaughter Singer,"['G', 'W']",2,"[""'Creature'""]","[""'Phyrexian'"", ""'Cleric'""]",ONE,Uncommon
+917,Sleep-Cursed Faerie,['U'],1,"[""'Creature'""]","[""'Faerie'"", ""'Wizard'""]",WOE,Rare
+918,"Slogurk, the Overslime","['G', 'U']",3,"[""'Legendary'"", ""'Creature'""]","[""'Ooze'""]",MID,Rare
+919,Subterranean Schooner,['U'],2,"[""'Artifact'""]","[""'Vehicle'""]",LCI,Rare
+920,Tail Swipe,['G'],1,"[""'Instant'""]",,DMU,Uncommon
+921,Teething Wurmlet,['G'],1,"[""'Creature'""]","[""'Wurm'""]",BRO,Rare
+922,The Cruelty of Gix,['B'],5,"[""'Enchantment'""]","[""'Saga'""]",DMU,Rare
+923,The Goose Mother,"['G', 'U']",2,"[""'Legendary'"", ""'Creature'""]","[""'Bird'"", ""'Hydra'""]",WOE,Rare
+924,Thran Portal,,0,"[""'Land'""]","[""'Gate'""]",DMU,Rare
+925,"Titania, Voice of Gaea",['G'],3,"[""'Legendary'"", ""'Creature'""]","[""'Elemental'""]",BRO,Mythic
+926,Topiary Stomper,['G'],3,"[""'Creature'""]","[""'Plant'"", ""'Dinosaur'""]",SNC,Rare
+927,"Tyvar, Jubilant Brawler","['B', 'G']",3,"[""'Legendary'"", ""'Planeswalker'""]","[""'Tyvar'""]",ONE,Rare
+928,Underground River,,0,"[""'Land'""]",,BRO,Rare
+929,Virtue of Loyalty,['W'],5,"[""'Enchantment'""]",,WOE,Mythic
+930,Voltage Surge,['R'],1,"[""'Instant'""]",,NEO,Common
+931,Werefox Bodyguard,['W'],3,"[""'Creature'""]","[""'Elf'"", ""'Fox'"", ""'Knight'""]",WOE,Rare
+932,Yavimaya Iconoclast,['G'],2,"[""'Creature'""]","[""'Elf'""]",DMU,Uncommon
+933,Yotian Frontliner,,1,"[""'Artifact'"", ""'Creature'""]","[""'Soldier'""]",BRO,Uncommon
+934,Anointed Peacekeeper,['W'],3,"[""'Creature'""]","[""'Human'"", ""'Cleric'""]",DMU,Rare
+935,Archon of Emeria,['W'],3,"[""'Creature'""]","[""'Archon'""]",ZNR,Rare
+936,Bolas's Citadel,['B'],6,"[""'Legendary'"", ""'Artifact'""]",,PRM,Rare
+937,Chancellor of the Annex,['W'],7,"[""'Creature'""]","[""'Phyrexian'"", ""'Angel'""]",NPH,Rare
+938,Conspicuous Snoop,['R'],2,"[""'Creature'""]","[""'Goblin'"", ""'Rogue'""]",M21,Rare
+939,Demonic Tutor,['B'],2,"[""'Sorcery'""]",,DDC,Uncommon
+940,Dig Through Time,['U'],8,"[""'Instant'""]",,KTK,Rare
+941,Dockside Extortionist,['R'],2,"[""'Creature'""]","[""'Goblin'"", ""'Pirate'""]",PRM,Mythic
+942,Emeria's Call,['W'],7,"[""'Sorcery'""]",,ZNR,Mythic
+943,Flash,['U'],2,"[""'Instant'""]",,A25,Rare
+944,Flusterstorm,['U'],1,"[""'Instant'""]",,MH1,Rare
+945,Forbidden Orchard,,0,"[""'Land'""]",,CHK,Rare
+946,Gitaxian Probe,['U'],1,"[""'Sorcery'""]",,PRM,Common
+947,Goblin Recruiter,['R'],2,"[""'Creature'""]","[""'Goblin'""]",VI,Uncommon
+948,Goblin Trashmaster,['R'],4,"[""'Creature'""]","[""'Goblin'"", ""'Warrior'""]",M19,Rare
+949,"Golos, Tireless Pilgrim",,5,"[""'Legendary'"", ""'Artifact'"", ""'Creature'""]","[""'Scout'""]",M20,Rare
+950,Impulsive Pilferer,['R'],1,"[""'Creature'""]","[""'Goblin'"", ""'Pirate'""]",CMM,Common
+951,Inventors' Fair,,0,"[""'Legendary'"", ""'Land'""]",,KLD,Rare
+952,"Kiki-Jiki, Mirror Breaker",['R'],5,"[""'Legendary'"", ""'Creature'""]","[""'Goblin'"", ""'Shaman'""]",CHK,Rare
+953,Lodestone Golem,,4,"[""'Artifact'"", ""'Creature'""]","[""'Golem'""]",WWK,Rare
+954,Mental Misstep,['U'],1,"[""'Instant'""]",,NPH,Uncommon
+955,Merchant Scroll,['U'],2,"[""'Sorcery'""]",,8ED,Uncommon
+956,Mindbreak Trap,['U'],4,"[""'Instant'""]","[""'Trap'""]",ZEN,Mythic
+957,Mogg Fanatic,['R'],1,"[""'Creature'""]","[""'Goblin'""]",EMA,Common
+958,Mystical Tutor,['U'],1,"[""'Instant'""]",,DMR,Rare
+959,Null Rod,,2,"[""'Artifact'""]",,VMA,Rare
+960,Oath of Druids,['G'],2,"[""'Enchantment'""]",,VMA,Mythic
+961,"Oko, Thief of Crowns","['G', 'U']",3,"[""'Legendary'"", ""'Planeswalker'""]","[""'Oko'""]",ELD,Mythic
+962,Phyrexian Revoker,,2,"[""'Artifact'"", ""'Creature'""]","[""'Phyrexian'"", ""'Horror'""]",M15,Rare
+963,Pyrite Spellbomb,,1,"[""'Artifact'""]",,2XM,Common
+964,Seasoned Dungeoneer,['W'],4,"[""'Creature'""]","[""'Human'"", ""'Warrior'""]",CLB,Rare
+965,Sensei's Divining Top,,1,"[""'Artifact'""]",,CHK,Uncommon
+966,Spreading Seas,['U'],2,"[""'Enchantment'""]","[""'Aura'""]",ZEN,Common
+967,Strip Mine,,0,"[""'Land'""]",,V09,Mythic
+968,Thorn of Amethyst,,2,"[""'Artifact'""]",,LRW,Rare
+969,Timetwister,['U'],3,"[""'Sorcery'""]",,VMA,Mythic
+970,Torch Courier,['R'],1,"[""'Creature'""]","[""'Goblin'""]",GRN,Common
+971,Vampiric Tutor,['B'],1,"[""'Instant'""]",,PRM,Rare
+972,White Plume Adventurer,['W'],3,"[""'Creature'""]","[""'Orc'"", ""'Cleric'""]",CLB,Rare
+973,Ad Nauseam,['B'],5,"[""'Instant'""]",,ALA,Rare
+974,Burning Wish,['R'],2,"[""'Sorcery'""]",,VMA,Rare
+975,Collective Brutality,['B'],2,"[""'Sorcery'""]",,EMN,Rare
+976,Collector Ouphe,['G'],2,"[""'Creature'""]","[""'Ouphe'""]",MH1,Rare
+977,Ethersworn Canonist,['W'],2,"[""'Artifact'"", ""'Creature'""]","[""'Human'"", ""'Cleric'""]",ALA,Rare
+978,Forth Eorlingas!,"['R', 'W']",2,"[""'Sorcery'""]",,LTC,Rare
+979,Grindstone,,1,"[""'Artifact'""]",,MS2,Mythic
+980,Hope of Ghirapur,,1,"[""'Legendary'"", ""'Artifact'"", ""'Creature'""]","[""'Thopter'""]",AER,Rare
+981,Hymn to Tourach,['B'],2,"[""'Sorcery'""]",,VMA,Uncommon
+982,Infernal Tutor,['B'],2,"[""'Sorcery'""]",,DIS,Rare
+983,Ingenious Smith,['W'],2,"[""'Creature'""]","[""'Human'"", ""'Artificer'""]",AFR,Uncommon
+984,Lion's Eye Diamond,,0,"[""'Artifact'""]",,VMA,Mythic
+985,Opposition Agent,['B'],3,"[""'Creature'""]","[""'Human'"", ""'Rogue'""]",CMR,Rare
+986,Oswald Fiddlebender,['W'],2,"[""'Legendary'"", ""'Creature'""]","[""'Gnome'"", ""'Artificer'""]",AFR,Rare
+987,Painter's Servant,,2,"[""'Artifact'"", ""'Creature'""]","[""'Scarecrow'""]",SHM,Rare
+988,Portent,['U'],1,"[""'Sorcery'""]",,ME2,Common
+989,Price of Progress,['R'],2,"[""'Instant'""]",,PD2,Uncommon
+990,Relic of Sauron,,4,"[""'Artifact'""]",,LTC,Rare
+991,Retreat to Coralhelm,['U'],3,"[""'Enchantment'""]",,BFZ,Uncommon
+992,Retrofitter Foundry,,1,"[""'Artifact'""]",,PZ2,Rare
+993,Saprazzan Skerry,,0,"[""'Land'""]",,MM,Common
+994,Shallow Grave,['B'],2,"[""'Instant'""]",,MI,Rare
+995,Stalactite Stalker,['B'],1,"[""'Creature'""]","[""'Goblin'"", ""'Rogue'""]",LCI,Rare
+996,Tainted Indulgence,"['B', 'U']",2,"[""'Instant'""]",,SNC,Uncommon
+997,Tendrils of Agony,['B'],4,"[""'Sorcery'""]",,VMA,Uncommon
+998,Terminus,['W'],6,"[""'Sorcery'""]",,AVR,Rare
+999,Touch the Spirit Realm,['W'],3,"[""'Enchantment'""]",,NEO,Uncommon
+1000,Vapor Snag,['U'],1,"[""'Instant'""]",,MM2,Common
+1001,Wishclaw Talisman,['B'],2,"[""'Artifact'""]",,ELD,Rare
+1002,"Baral, Chief of Compliance",['U'],2,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Wizard'""]",AER,Rare
+1003,Bitter Reunion,['R'],2,"[""'Enchantment'""]",,BRO,Common
+1004,Cabal Coffers,,0,"[""'Land'""]",,MH2,Mythic
+1005,Charming Prince,['W'],2,"[""'Creature'""]","[""'Human'"", ""'Noble'""]",ELD,Rare
+1006,City of Brass,,0,"[""'Land'""]",,8ED,Rare
+1007,Coalition Relic,,3,"[""'Artifact'""]",,TSR,Rare
+1008,Damnation,['B'],4,"[""'Sorcery'""]",,SL2,Rare
+1009,Demolition Field,,0,"[""'Land'""]",,BRO,Uncommon
+1010,Desperate Ritual,['R'],2,"[""'Instant'""]","[""'Arcane'""]",CHK,Common
+1011,"Emeria, the Sky Ruin",,0,"[""'Land'""]",,ZEN,Rare
+1012,Gifts Ungiven,['U'],4,"[""'Instant'""]",,CHK,Rare
+1013,Goblin Electromancer,"['R', 'U']",2,"[""'Creature'""]","[""'Goblin'"", ""'Wizard'""]",RVR,Common
+1014,Goryo's Vengeance,['B'],2,"[""'Instant'""]","[""'Arcane'""]",BOK,Rare
+1015,Grapeshot,['R'],2,"[""'Sorcery'""]",,DMR,Common
+1016,Karn Liberated,,7,"[""'Legendary'"", ""'Planeswalker'""]","[""'Karn'""]",NPH,Mythic
+1017,Leyline of the Void,['B'],4,"[""'Enchantment'""]",,M11,Rare
+1018,Manamorphose,"['G', 'R']",2,"[""'Instant'""]",,2XM,Uncommon
+1019,March of Wretched Sorrow,['B'],1,"[""'Instant'""]",,NEO,Rare
+1020,Mutagenic Growth,['G'],1,"[""'Instant'""]",,NPH,Common
+1021,On Thin Ice,['W'],1,"[""'Snow'"", ""'Enchantment'""]","[""'Aura'""]",MH1,Rare
+1022,Past in Flames,['R'],4,"[""'Sorcery'""]",,ISD,Mythic
+1023,Path to Exile,['W'],1,"[""'Instant'""]",,PRM,Uncommon
+1024,Persist,['B'],2,"[""'Sorcery'""]",,MH2,Rare
+1025,Phantasmal Image,['U'],2,"[""'Creature'""]","[""'Illusion'""]",M12,Rare
+1026,Profane Tutor,['B'],0,"[""'Sorcery'""]",,MH2,Rare
+1027,Pyretic Ritual,['R'],2,"[""'Instant'""]",,M11,Common
+1028,Remand,['U'],2,"[""'Instant'""]",,PRM,Uncommon
+1029,Serum Visions,['U'],1,"[""'Sorcery'""]",,5DN,Common
+1030,Sun Titan,['W'],6,"[""'Creature'""]","[""'Giant'""]",M12,Mythic
+1031,"Sunhome, Fortress of the Legion",,0,"[""'Land'""]",,RAV,Uncommon
+1032,Sunken Ruins,,0,"[""'Land'""]",,SHM,Rare
+1033,"Ugin, the Spirit Dragon",,8,"[""'Legendary'"", ""'Planeswalker'""]","[""'Ugin'""]",PRM,Mythic
+1034,Underworld Breach,['R'],2,"[""'Enchantment'""]",,THB,Rare
+1035,Urabrask,['R'],5,"[""'Legendary'"", ""'Creature'""]","[""'Phyrexian'"", ""'Praetor'""]",MOM,Mythic
+1036,Wish,['R'],3,"[""'Sorcery'""]",,AFR,Rare
+1037,Alms of the Vein,['B'],3,"[""'Sorcery'""]",,SOI,Common
+1038,Avacyn's Pilgrim,['G'],1,"[""'Creature'""]","[""'Human'"", ""'Monk'""]",MM3,Common
+1039,Axebane Guardian,['G'],3,"[""'Creature'""]","[""'Human'"", ""'Druid'""]",RTR,Common
+1040,Azure Fleet Admiral,['U'],4,"[""'Creature'""]","[""'Human'"", ""'Pirate'""]",CMR,Common
+1041,Battle Screech,['W'],4,"[""'Sorcery'""]",,VMA,Common
+1042,Blood Fountain,['B'],1,"[""'Artifact'""]",,VOW,Common
+1043,Crashing Drawbridge,,2,"[""'Artifact'"", ""'Creature'""]","[""'Wall'""]",ELD,Common
+1044,Drift of Phantasms,['U'],3,"[""'Creature'""]","[""'Spirit'""]",RVR,Common
+1045,Fiery Temper,['R'],3,"[""'Instant'""]",,UMA,Common
+1046,Freed from the Real,['U'],3,"[""'Enchantment'""]","[""'Aura'""]",A25,Uncommon
+1047,Galvanic Alchemist,['U'],3,"[""'Creature'""]","[""'Human'"", ""'Wizard'""]",AVR,Common
+1048,Guardians' Pledge,['W'],3,"[""'Instant'""]",,M12,Common
+1049,Idyllic Beachfront,,0,"[""'Land'""]","[""'Plains'"", ""'Island'""]",DMU,Common
+1050,Kitchen Imp,['B'],4,"[""'Creature'""]","[""'Imp'""]",MH2,Common
+1051,Manor Gate,,0,"[""'Land'""]","[""'Gate'""]",CLB,Common
+1052,Militia Bugler,['W'],3,"[""'Creature'""]","[""'Human'"", ""'Soldier'""]",2X2,Common
+1053,Open the Gates,['G'],1,"[""'Sorcery'""]",,RVR,Common
+1054,Orochi Leafcaller,['G'],1,"[""'Creature'""]","[""'Snake'"", ""'Shaman'""]",CHK,Common
+1055,Overgrown Battlement,['G'],2,"[""'Creature'""]","[""'Wall'""]",ROE,Common
+1056,Pulse of Murasa,['G'],3,"[""'Instant'""]",,UMA,Common
+1057,Raffine's Informant,['W'],2,"[""'Creature'""]","[""'Human'"", ""'Wizard'""]",SNC,Common
+1058,Reaping the Graves,['B'],3,"[""'Instant'""]",,SCG,Common
+1059,Reckoner's Bargain,['B'],2,"[""'Instant'""]",,NEO,Common
+1060,Saruli Caretaker,['G'],1,"[""'Creature'""]","[""'Dryad'""]",RNA,Common
+1061,Saruli Gatekeepers,['G'],4,"[""'Creature'""]","[""'Elf'"", ""'Warrior'""]",DGM,Common
+1062,Shield-Wall Sentinel,,4,"[""'Artifact'"", ""'Creature'""]","[""'Golem'""]",DMU,Common
+1063,Somber Hoverguard,['U'],6,"[""'Creature'""]","[""'Drone'""]",MM2,Common
+1064,The Autonomous Furnace,,0,"[""'Land'""]","[""'Sphere'""]",ONE,Common
+1065,Tuktuk Rubblefort,['R'],3,"[""'Creature'""]","[""'Wall'""]",ZNR,Common
+1066,Valakut Invoker,['R'],3,"[""'Creature'""]","[""'Human'"", ""'Shaman'""]",CMR,Common
+1067,Vampire's Kiss,['B'],2,"[""'Sorcery'""]",,VOW,Common
+1068,Beseech the Mirror,['B'],4,"[""'Sorcery'""]",,WOE,Mythic
+1069,Bishop of Wings,['W'],2,"[""'Creature'""]","[""'Human'"", ""'Cleric'""]",M20,Rare
+1070,Branchloft Pathway,,0,"[""'Land'""]",,ZNR,Rare
+1071,Brushland,,0,"[""'Land'""]",,9ED,Rare
+1072,Canyon Slough,,0,"[""'Land'""]","[""'Swamp'"", ""'Mountain'""]",AKH,Rare
+1073,Concealed Courtyard,,0,"[""'Land'""]",,KLD,Rare
+1074,Esika's Chariot,['G'],4,"[""'Legendary'"", ""'Artifact'""]","[""'Vehicle'""]",KHM,Rare
+1075,"Giada, Font of Hope",['W'],2,"[""'Legendary'"", ""'Creature'""]","[""'Angel'""]",SNC,Rare
+1076,Gingerbread Cabin,,0,"[""'Land'""]","[""'Forest'""]",ELD,Common
+1077,"Greasefang, Okiba Boss","['B', 'W']",3,"[""'Legendary'"", ""'Creature'""]","[""'Rat'"", ""'Pilot'""]",NEO,Rare
+1078,Grisly Salvage,"['B', 'G']",2,"[""'Instant'""]",,RTR,Common
+1079,"Heliod, the Radiant Dawn",['W'],4,"[""'Legendary'"", ""'Enchantment'"", ""'Creature'""]","[""'God'""]",MOM,Rare
+1080,Hidden Necropolis,,0,"[""'Land'""]","[""'Cave'""]",LCI,Common
+1081,Inspiring Overseer,['W'],3,"[""'Creature'""]","[""'Angel'"", ""'Cleric'""]",SNC,Common
+1082,Kayla's Reconstruction,['W'],3,"[""'Sorcery'""]",,BRO,Rare
+1083,Mastermind's Acquisition,['B'],4,"[""'Sorcery'""]",,RIX,Rare
+1084,Parhelion II,['W'],8,"[""'Legendary'"", ""'Artifact'""]","[""'Vehicle'""]",WAR,Rare
+1085,Resplendent Angel,['W'],3,"[""'Creature'""]","[""'Angel'""]",LCI,Mythic
+1086,Righteous Valkyrie,['W'],3,"[""'Creature'""]","[""'Angel'"", ""'Cleric'""]",KHM,Rare
+1087,Scapeshift,['G'],4,"[""'Sorcery'""]",,MOR,Rare
+1088,"Skysovereign, Consul Flagship",,5,"[""'Legendary'"", ""'Artifact'""]","[""'Vehicle'""]",KLD,Mythic
+1089,Spelunking,['G'],3,"[""'Enchantment'""]",,LCI,Uncommon
+1090,Splendid Reclamation,['G'],4,"[""'Sorcery'""]",,VOW,Rare
+1091,Temple of Malady,,0,"[""'Land'""]",,M21,Rare
+1092,The Meathook Massacre,['B'],2,"[""'Legendary'"", ""'Enchantment'""]",,MID,Mythic
+1093,Titan of Industry,['G'],7,"[""'Creature'""]","[""'Elemental'""]",SNC,Mythic
+1094,Traverse the Ulvenwald,['G'],1,"[""'Sorcery'""]",,SOI,Rare
+1095,Vessel of Nascency,['G'],1,"[""'Enchantment'""]",,A25,Common
+1096,Bloated Contaminator,['G'],3,"[""'Creature'""]","[""'Phyrexian'"", ""'Beast'""]",ONE,Rare
+1097,Commune with Spirits,['G'],1,"[""'Sorcery'""]",,NEO,Common
+1098,Generous Visitor,['G'],1,"[""'Creature'""]","[""'Spirit'""]",NEO,Uncommon
+1099,Hallowed Haunting,['W'],4,"[""'Enchantment'""]",,VOW,Mythic
+1100,Haughty Djinn,['U'],3,"[""'Creature'""]","[""'Djinn'""]",DMU,Rare
+1101,Helping Hand,['W'],1,"[""'Sorcery'""]",,LCI,Uncommon
+1102,Henrika Domnathi,['B'],4,"[""'Legendary'"", ""'Creature'""]","[""'Vampire'""]",VOW,Mythic
+1103,Jukai Naturalist,"['G', 'W']",2,"[""'Enchantment'"", ""'Creature'""]","[""'Human'"", ""'Monk'""]",NEO,Uncommon
+1104,Kaito Shizuki,"['B', 'U']",3,"[""'Legendary'"", ""'Planeswalker'""]","[""'Kaito'""]",NEO,Mythic
+1105,"Katilda, Dawnhart Martyr",['W'],3,"[""'Legendary'"", ""'Creature'""]","[""'Spirit'"", ""'Warlock'""]",VOW,Rare
+1106,Monastery Mentor,['W'],3,"[""'Creature'""]","[""'Human'"", ""'Monk'""]",FRF,Mythic
+1107,"Raffine, Scheming Seer","['B', 'U', 'W']",3,"[""'Legendary'"", ""'Creature'""]","[""'Sphinx'"", ""'Demon'""]",SNC,Mythic
+1108,Recommission,['W'],2,"[""'Sorcery'""]",,BRO,Common
+1109,Rite of Harmony,"['G', 'W']",2,"[""'Instant'""]",,MID,Rare
+1110,Spirited Companion,['W'],2,"[""'Enchantment'"", ""'Creature'""]","[""'Dog'""]",NEO,Common
+1111,Teachings of the Kirin,['G'],2,"[""'Enchantment'""]","[""'Saga'""]",NEO,Rare
+1112,Tyvar's Stand,['G'],1,"[""'Instant'""]",,ONE,Uncommon
+1113,"Vohar, Vodalian Desecrator","['B', 'U']",2,"[""'Legendary'"", ""'Creature'""]","[""'Phyrexian'"", ""'Merfolk'"", ""'Wizard'""]",DMU,Uncommon
+1114,Agadeem's Awakening,['B'],3,"[""'Sorcery'""]",,ZNR,Mythic
+1115,Balustrade Spy,['B'],4,"[""'Creature'""]","[""'Vampire'"", ""'Rogue'""]",RVR,Common
+1116,Brutal Cathar,['W'],3,"[""'Creature'""]","[""'Human'"", ""'Soldier'"", ""'Werewolf'""]",MID,Rare
+1117,"Narset, Parter of Veils",['U'],3,"[""'Legendary'"", ""'Planeswalker'""]","[""'Narset'""]",WAR,Uncommon
+1118,Undercity Informer,['B'],3,"[""'Creature'""]","[""'Human'"", ""'Rogue'""]",GTC,Uncommon
+1119,Birds of Paradise,['G'],1,"[""'Creature'""]","[""'Bird'""]",M12,Rare
+1120,"Boseiju, Who Shelters All",,0,"[""'Legendary'"", ""'Land'""]",,CHK,Rare
+1121,Cabal Ritual,['B'],2,"[""'Instant'""]",,VMA,Uncommon
+1122,Cunning Wish,['U'],3,"[""'Instant'""]",,JUD,Rare
+1123,"Dovin, Hand of Control","['U', 'W']",3,"[""'Legendary'"", ""'Planeswalker'""]","[""'Dovin'""]",WAR,Uncommon
+1124,"Ezuri, Claw of Progress","['G', 'U']",4,"[""'Legendary'"", ""'Creature'""]","[""'Phyrexian'"", ""'Elf'"", ""'Warrior'""]",MUL,Mythic
+1125,Gaea's Will,['G'],0,"[""'Sorcery'""]",,MH2,Rare
+1126,Galvanic Relay,['R'],3,"[""'Sorcery'""]",,MH2,Common
+1127,Ice-Fang Coatl,"['G', 'U']",2,"[""'Snow'"", ""'Creature'""]","[""'Snake'""]",MH1,Rare
+1128,Intuition,['U'],3,"[""'Instant'""]",,TPR,Rare
+1129,Neoform,"['G', 'U']",2,"[""'Sorcery'""]",,WAR,Uncommon
+1130,Palantír of Orthanc,,3,"[""'Legendary'"", ""'Artifact'""]",,LTR,Mythic
+1131,Plateau,,0,"[""'Land'""]","[""'Mountain'"", ""'Plains'""]",PRM,Rare
+1132,Saw in Half,['B'],3,"[""'Instant'""]",,UNF,Rare
+1133,Song of Creation,"['G', 'R', 'U']",4,"[""'Enchantment'""]",,IKO,Rare
+1134,"Starscream, Power Hungry",['B'],4,"[""'Legendary'"", ""'Artifact'"", ""'Creature'""]","[""'Robot'""]",BOT,Mythic
+1135,Veil of Summer,['G'],1,"[""'Instant'""]",,M20,Uncommon
+1136,Assassin's Trophy,"['B', 'G']",2,"[""'Instant'""]",,GRN,Rare
+1137,Augur of Autumn,['G'],3,"[""'Creature'""]","[""'Human'"", ""'Druid'""]",MID,Rare
+1138,Boros Charm,"['R', 'W']",2,"[""'Instant'""]",,GTC,Uncommon
+1139,Colossus Hammer,,1,"[""'Artifact'""]","[""'Equipment'""]",LCC,Uncommon
+1140,Day's Undoing,['U'],3,"[""'Sorcery'""]",,ORI,Mythic
+1141,Eidolon of the Great Revel,['R'],2,"[""'Enchantment'"", ""'Creature'""]","[""'Spirit'""]",JOU,Rare
+1142,Forge Anew,['W'],3,"[""'Enchantment'""]",,LTR,Rare
+1143,Geier Reach Sanitarium,,0,"[""'Legendary'"", ""'Land'""]",,EMN,Rare
+1144,Goblin Guide,['R'],1,"[""'Creature'""]","[""'Goblin'"", ""'Scout'""]",TD0,Rare
+1145,Golgari Rot Farm,,0,"[""'Land'""]",,RAV,Common
+1146,Lava Spike,['R'],1,"[""'Sorcery'""]","[""'Arcane'""]",MMA,Common
+1147,Lightning Helix,"['R', 'W']",2,"[""'Instant'""]",,PRM,Uncommon
+1148,Maelstrom Pulse,"['B', 'G']",3,"[""'Sorcery'""]",,ARB,Rare
+1149,Malakir Rebirth,['B'],1,"[""'Instant'""]",,ZNR,Uncommon
+1150,Puresteel Paladin,['W'],2,"[""'Creature'""]","[""'Human'"", ""'Knight'""]",NPH,Rare
+1151,Rift Bolt,['R'],3,"[""'Sorcery'""]",,2X2,Common
+1152,Seasoned Pyromancer,['R'],3,"[""'Creature'""]","[""'Human'"", ""'Shaman'""]",MH1,Mythic
+1153,Shadow Prophecy,['B'],3,"[""'Instant'""]",,DMU,Common
+1154,Sigarda's Aid,['W'],1,"[""'Enchantment'""]",,EMN,Rare
+1155,Skewer the Critics,['R'],3,"[""'Sorcery'""]",,RVR,Common
+1156,Steelshaper's Gift,['W'],1,"[""'Sorcery'""]",,5DN,Uncommon
+1157,Sunbaked Canyon,,0,"[""'Land'""]",,MH1,Rare
+1158,Surge of Salvation,['W'],1,"[""'Instant'""]",,MOM,Uncommon
+1159,Accumulated Knowledge,['U'],2,"[""'Instant'""]",,PRM,Common
+1160,Arcane Denial,['U'],2,"[""'Instant'""]",,A25,Common
+1161,Fog,['G'],1,"[""'Instant'""]",,EMA,Common
+1162,Quandrix Campus,,0,"[""'Land'""]",,STX,Common
+1163,Radiant Fountain,,0,"[""'Land'""]",,M21,Common
+1164,Rally the Peasants,['W'],3,"[""'Instant'""]",,EMA,Common
+1165,Repository Skaab,['U'],4,"[""'Creature'""]","[""'Zombie'""]",VOW,Common
+1166,Rimewood Falls,,0,"[""'Snow'"", ""'Land'""]","[""'Forest'"", ""'Island'""]",KHM,Common
+1167,Secret Door,['U'],1,"[""'Artifact'"", ""'Creature'""]","[""'Wall'""]",AFR,Common
+1168,Spare Supplies,,2,"[""'Artifact'""]",,ZNR,Common
+1169,Terramorphic Expanse,,0,"[""'Land'""]",,ONE,Common
+1170,Third Path Savant,['U'],3,"[""'Creature'""]","[""'Human'"", ""'Wizard'""]",BRO,Common
+1171,Thrilling Discovery,"['R', 'W']",2,"[""'Sorcery'""]",,STX,Common
+1172,Vivien's Grizzly,['G'],3,"[""'Creature'""]","[""'Bear'"", ""'Spirit'""]",WAR,Common
+1173,Words of Wisdom,['U'],2,"[""'Instant'""]",,OD,Common
+1174,Censor,['U'],2,"[""'Instant'""]",,AKH,Uncommon
+1175,Clearwater Pathway,,0,"[""'Land'""]",,ZNR,Rare
+1176,Disinformation Campaign,"['B', 'U']",3,"[""'Enchantment'""]",,GRN,Uncommon
+1177,Ghitu Lavarunner,['R'],1,"[""'Creature'""]","[""'Human'"", ""'Wizard'""]",DAR,Common
+1178,Path of Peril,['B'],3,"[""'Sorcery'""]",,VOW,Rare
+1179,Rewind,['U'],4,"[""'Instant'""]",,MM3,Common
+1180,"Tasigur, the Golden Fang",['B'],6,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Shaman'""]",FRF,Rare
+1181,Wizard's Lightning,['R'],3,"[""'Instant'""]",,DAR,Uncommon
+1182,"Argoth, Sanctum of Nature",,0,"[""'Land'""]",,BRO,Rare
+1183,Bonehoard Dracosaur,['R'],5,"[""'Creature'""]","[""'Dinosaur'"", ""'Dragon'""]",LCI,Mythic
+1184,Distorted Curiosity,['U'],3,"[""'Sorcery'""]",,ONE,Uncommon
+1185,"Edgar, Charmed Groom","['B', 'W']",4,"[""'Legendary'"", ""'Creature'""]","[""'Vampire'"", ""'Noble'""]",VOW,Rare
+1186,Extract the Truth,['B'],2,"[""'Sorcery'""]",,SNC,Common
+1187,Fortified Beachhead,,0,"[""'Land'""]",,BRO,Rare
+1188,"Harbin, Vanguard Aviator","['U', 'W']",2,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Soldier'""]",BRO,Rare
+1189,Recruitment Officer,['W'],1,"[""'Creature'""]","[""'Human'"", ""'Soldier'""]",BRO,Uncommon
+1190,Restless Fortress,,0,"[""'Land'""]",,WOE,Rare
+1191,Shivan Devastator,['R'],1,"[""'Creature'""]","[""'Dragon'"", ""'Hydra'""]",DMU,Mythic
+1192,Sundown Pass,,0,"[""'Land'""]",,VOW,Rare
+1193,Zephyr Sentinel,['U'],2,"[""'Creature'""]","[""'Human'"", ""'Soldier'""]",BRO,Uncommon
+1194,Hullbreacher,['U'],3,"[""'Creature'""]","[""'Merfolk'"", ""'Pirate'""]",PRM,Rare
+1195,Hurkyl's Recall,['U'],2,"[""'Instant'""]",,MM2,Rare
+1196,"Lavinia, Azorius Renegade","['U', 'W']",2,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Soldier'""]",RNA,Rare
+1197,Necropotence,['B'],3,"[""'Enchantment'""]",,WOT,Mythic
+1198,Yawgmoth's Will,['B'],3,"[""'Sorcery'""]",,VMA,Mythic
+1199,Defile,['B'],1,"[""'Instant'""]",,MH1,Common
+1200,"Emrakul, the Promised End",,13,"[""'Legendary'"", ""'Creature'""]","[""'Eldrazi'""]",EMN,Mythic
+1201,Giver of Runes,['W'],1,"[""'Creature'""]","[""'Kor'"", ""'Cleric'""]",MH1,Rare
+1202,"Kozilek, Butcher of Truth",,10,"[""'Legendary'"", ""'Creature'""]","[""'Eldrazi'""]",ROE,Mythic
+1203,Perilous Vault,,4,"[""'Artifact'""]",,M15,Mythic
+1204,Radagast the Brown,['G'],4,"[""'Legendary'"", ""'Creature'""]","[""'Avatar'"", ""'Wizard'""]",LTR,Mythic
+1205,Soulless Jailer,,2,"[""'Artifact'"", ""'Creature'""]","[""'Phyrexian'"", ""'Golem'""]",ONE,Rare
+1206,Stone of Erech,,1,"[""'Legendary'"", ""'Artifact'""]",,LTR,Uncommon
+1207,The Reality Chip,['U'],2,"[""'Legendary'"", ""'Artifact'"", ""'Creature'""]","[""'Equipment'"", ""'Jellyfish'""]",NEO,Rare
+1208,"Ugin, the Ineffable",,6,"[""'Legendary'"", ""'Planeswalker'""]","[""'Ugin'""]",WAR,Rare
+1209,Valakut Awakening,['R'],3,"[""'Instant'""]",,ZNR,Rare
+1210,Annihilating Glare,['B'],1,"[""'Sorcery'""]",,ONE,Common
+1211,Blade of the Oni,['B'],2,"[""'Artifact'"", ""'Creature'""]","[""'Equipment'"", ""'Demon'""]",NEO,Mythic
+1212,Invasion of Amonkhet,"['B', 'U']",3,"[""'Battle'""]","[""'Siege'""]",MOM,Uncommon
+1213,"Ojer Axonil, Deepest Might",['R'],4,"[""'Legendary'"", ""'Creature'""]","[""'God'""]",LCI,Mythic
+1214,Oni-Cult Anvil,"['B', 'R']",2,"[""'Artifact'""]",,NEO,Uncommon
+1215,Sunshot Militia,['R'],2,"[""'Creature'""]","[""'Human'"", ""'Soldier'""]",LCI,Common
+1216,"Vraan, Executioner Thane",['B'],2,"[""'Legendary'"", ""'Creature'""]","[""'Phyrexian'"", ""'Vampire'""]",ONE,Rare
+1217,Bazaar of Baghdad,,0,"[""'Land'""]",,VMA,Mythic
+1218,Creeping Chill,['B'],4,"[""'Sorcery'""]",,GRN,Uncommon
+1219,Dark Confidant,['B'],2,"[""'Creature'""]","[""'Human'"", ""'Wizard'""]",RAV,Rare
+1220,Grafdigger's Cage,,1,"[""'Artifact'""]",,M20,Rare
+1221,Hollow One,,5,"[""'Artifact'"", ""'Creature'""]","[""'Golem'""]",HOU,Rare
+1222,"Jace, Vryn's Prodigy",['U'],2,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Wizard'""]",ORI,Mythic
+1223,Noxious Revival,['G'],1,"[""'Instant'""]",,NPH,Uncommon
+1224,Prized Amalgam,"['B', 'U']",3,"[""'Creature'""]","[""'Zombie'""]",SOI,Rare
+1225,Serum Powder,,3,"[""'Artifact'""]",,DST,Rare
+1226,Shambling Shell,"['B', 'G']",3,"[""'Creature'""]","[""'Plant'"", ""'Zombie'""]",RAV,Common
+1227,Silversmote Ghoul,['B'],3,"[""'Creature'""]","[""'Zombie'"", ""'Vampire'""]",M21,Uncommon
+1228,Avenging Hunter,['G'],5,"[""'Creature'""]","[""'Dragon'"", ""'Ranger'""]",CLB,Common
+1229,Bone Picker,['B'],4,"[""'Creature'""]","[""'Bird'""]",2XM,Common
+1230,Bump in the Night,['B'],1,"[""'Sorcery'""]",,ISD,Common
+1231,Campfire,,1,"[""'Artifact'""]",,CMM,Common
+1232,Carrion Feeder,['B'],1,"[""'Creature'""]","[""'Zombie'""]",PRM,Common
+1233,Corrupted Conviction,['B'],1,"[""'Instant'""]",,MOM,Common
+1234,Crypt Rats,['B'],3,"[""'Creature'""]","[""'Rat'""]",VI,Common
+1235,Culling the Weak,['B'],1,"[""'Instant'""]",,EX,Common
+1236,Gixian Infiltrator,['B'],2,"[""'Creature'""]","[""'Phyrexian'"", ""'Human'""]",BRO,Common
+1237,Goblin Grenade,['R'],1,"[""'Sorcery'""]",,M12,Uncommon
+1238,Goldmire Bridge,,0,"[""'Artifact'"", ""'Land'""]",,MH2,Common
+1239,Greedy Freebooter,['B'],1,"[""'Creature'""]","[""'Human'"", ""'Pirate'""]",LCI,Common
+1240,Nested Shambler,['B'],1,"[""'Creature'""]","[""'Zombie'""]",MH2,Common
+1241,Okiba Reckoner Raid,['B'],1,"[""'Enchantment'""]","[""'Saga'""]",NEO,Common
+1242,Serrated Scorpion,['B'],1,"[""'Creature'""]","[""'Scorpion'""]",IKO,Common
+1243,Shambling Ghast,['B'],1,"[""'Creature'""]","[""'Zombie'""]",AFR,Common
+1244,Sign in Blood,['B'],2,"[""'Sorcery'""]",,MM2,Common
+1245,Soul Reap,['B'],2,"[""'Sorcery'""]",,EVE,Common
+1246,Sovereign's Bite,['B'],2,"[""'Sorcery'""]",,M19,Common
+1247,Spinning Darkness,['B'],6,"[""'Instant'""]",,WL,Common
+1248,Supernatural Stamina,['B'],1,"[""'Instant'""]",,CMM,Common
+1249,Tragic Slip,['B'],1,"[""'Instant'""]",,CMM,Common
+1250,Tyrant's Choice,['B'],2,"[""'Sorcery'""]",,VMA,Common
+1251,Village Rites,['B'],1,"[""'Instant'""]",,KHM,Common
+1252,Witch's Cottage,,0,"[""'Land'""]","[""'Swamp'""]",ELD,Common
+1253,Atarka's Command,"['G', 'R']",2,"[""'Instant'""]",,DTK,Rare
+1254,Barkchannel Pathway,,0,"[""'Land'""]",,KHM,Rare
+1255,Beanstalk Giant,['G'],7,"[""'Creature'""]","[""'Giant'""]",ELD,Uncommon
+1256,Burning-Tree Emissary,"['G', 'R']",2,"[""'Creature'""]","[""'Human'"", ""'Shaman'""]",2X2,Common
+1257,Clever Impersonator,['U'],4,"[""'Creature'""]","[""'Shapeshifter'""]",KTK,Mythic
+1258,Dreadbore,"['B', 'R']",2,"[""'Sorcery'""]",,RTR,Rare
+1259,Escape to the Wilds,"['G', 'R']",5,"[""'Sorcery'""]",,ELD,Rare
+1260,Giant Killer,['W'],1,"[""'Creature'""]","[""'Human'"", ""'Peasant'""]",ELD,Rare
+1261,Greater Tanuki,['G'],6,"[""'Enchantment'"", ""'Creature'""]","[""'Dog'""]",NEO,Common
+1262,"Gyruda, Doom of Depths","['B', 'U']",6,"[""'Legendary'"", ""'Creature'""]","[""'Demon'"", ""'Kraken'""]",IKO,Rare
+1263,Hostage Taker,"['B', 'U']",4,"[""'Creature'""]","[""'Human'"", ""'Pirate'""]",PRM,Rare
+1264,Legion Loyalist,['R'],1,"[""'Creature'""]","[""'Goblin'"", ""'Soldier'""]",GTC,Rare
+1265,Magma Opus,"['R', 'U']",8,"[""'Instant'""]",,STX,Mythic
+1266,Quintorius Kand,"['R', 'W']",5,"[""'Legendary'"", ""'Planeswalker'""]","[""'Quintorius'""]",LCI,Mythic
+1267,Shefet Dunes,,0,"[""'Land'""]","[""'Desert'""]",HOU,Uncommon
+1268,Spark Double,['U'],4,"[""'Creature'""]","[""'Illusion'""]",WAR,Rare
+1269,Temple of Abandon,,0,"[""'Land'""]",,THB,Rare
+1270,Temple of Mystery,,0,"[""'Land'""]",,M21,Rare
+1271,Venerated Loxodon,['W'],5,"[""'Creature'""]","[""'Elephant'"", ""'Cleric'""]",GRN,Rare
+1272,"Vraska, Golgari Queen","['B', 'G']",4,"[""'Legendary'"", ""'Planeswalker'""]","[""'Vraska'""]",GRN,Mythic
+1273,Warden of the Inner Sky,['W'],1,"[""'Creature'""]","[""'Human'"", ""'Soldier'""]",LCI,Rare
+1274,Zurgo Bellstriker,['R'],1,"[""'Legendary'"", ""'Creature'""]","[""'Orc'"", ""'Warrior'""]",DTK,Rare
+1275,Confounding Riddle,['U'],3,"[""'Instant'""]",,LCI,Uncommon
+1276,Hidetsugu and Kairi,"['B', 'U']",5,"[""'Legendary'"", ""'Creature'""]","[""'Ogre'"", ""'Demon'"", ""'Dragon'""]",MOM,Rare
+1277,Siphon Insight,"['B', 'U']",2,"[""'Instant'""]",,MID,Rare
+1278,Basking Rootwalla,['G'],1,"[""'Creature'""]","[""'Lizard'""]",VMA,Common
+1279,Blazing Rootwalla,['R'],1,"[""'Creature'""]","[""'Lizard'""]",MH2,Uncommon
+1280,Bloodghast,['B'],2,"[""'Creature'""]","[""'Vampire'"", ""'Spirit'""]",ZEN,Rare
+1281,"Boromir, Warden of the Tower",['W'],3,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Soldier'""]",LTR,Rare
+1282,Containment Priest,['W'],2,"[""'Creature'""]","[""'Human'"", ""'Cleric'""]",M21,Rare
+1283,Deathrite Shaman,"['B', 'G']",1,"[""'Creature'""]","[""'Elf'"", ""'Shaman'""]",RTR,Rare
+1284,Force of Vigor,['G'],4,"[""'Instant'""]",,PRM,Rare
+1285,Leonin Arbiter,['W'],2,"[""'Creature'""]","[""'Cat'"", ""'Cleric'""]",SOM,Rare
+1286,Pyroblast,['R'],1,"[""'Instant'""]",,EMA,Uncommon
+1287,Samwise the Stouthearted,['W'],2,"[""'Legendary'"", ""'Creature'""]","[""'Halfling'"", ""'Peasant'""]",LTR,Uncommon
+1288,"Tezzeret, Agent of Bolas","['B', 'U']",4,"[""'Legendary'"", ""'Planeswalker'""]","[""'Tezzeret'""]",MBS,Mythic
+1289,Vengevine,['G'],4,"[""'Creature'""]","[""'Elemental'""]",PRM,Mythic
+1290,Baleful Strix,"['B', 'U']",2,"[""'Artifact'"", ""'Creature'""]","[""'Bird'""]",VMA,Rare
+1291,Cloudpost,,0,"[""'Land'""]","[""'Locus'""]",MRD,Common
+1292,Crystal Vein,,0,"[""'Land'""]",,PD3,Uncommon
+1293,Dack Fayden,"['R', 'U']",3,"[""'Legendary'"", ""'Planeswalker'""]","[""'Dack'""]",VMA,Mythic
+1294,Doomsday,['B'],3,"[""'Sorcery'""]",,PRM,Rare
+1295,Dream's Grip,['U'],1,"[""'Instant'""]",,MRD,Common
+1296,Edge of Autumn,['G'],2,"[""'Sorcery'""]",,TSR,Common
+1297,Eye of Ugin,,0,"[""'Legendary'"", ""'Land'""]",,MM2,Rare
+1298,Glacial Chasm,,0,"[""'Land'""]",,V12,Mythic
+1299,Glimmerpost,,0,"[""'Land'""]","[""'Locus'""]",SOM,Common
+1300,Goblin Chieftain,['R'],3,"[""'Creature'""]","[""'Goblin'""]",M12,Rare
+1301,Palace Jailer,['W'],4,"[""'Creature'""]","[""'Human'"", ""'Soldier'""]",CMM,Uncommon
+1302,Personal Tutor,['U'],1,"[""'Sorcery'""]",,CMM,Rare
+1303,Plague Engineer,['B'],3,"[""'Creature'""]","[""'Phyrexian'"", ""'Carrier'""]",MH1,Rare
+1304,Sakashima the Impostor,['U'],4,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Rogue'""]",SOK,Rare
+1305,Sneak Attack,['R'],4,"[""'Enchantment'""]",,WOT,Mythic
+1306,Staff of the Storyteller,['W'],2,"[""'Artifact'""]",,ONC,Rare
+1307,True-Name Nemesis,['U'],3,"[""'Creature'""]","[""'Merfolk'"", ""'Rogue'""]",PRM,Rare
+1308,"Urza, Lord High Artificer",['U'],4,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Artificer'""]",MH1,Mythic
+1309,Farseek,['G'],2,"[""'Sorcery'""]",,M13,Common
+1310,Gaea's Might,['G'],1,"[""'Instant'""]",,DMU,Common
+1311,Pyromancer Ascension,['R'],2,"[""'Enchantment'""]",,ZEN,Rare
+1312,Spike Feeder,['G'],3,"[""'Creature'""]","[""'Spike'""]",TSB,Rare
+1313,Barbed Batterfist,['R'],2,"[""'Artifact'""]","[""'Equipment'""]",ONE,Common
+1314,Barren Moor,,0,"[""'Land'""]",,VMA,Common
+1315,Boarding Party,['R'],6,"[""'Creature'""]","[""'Human'"", ""'Pirate'""]",CMR,Common
+1316,Cauldron Familiar,['B'],1,"[""'Creature'""]","[""'Cat'""]",ELD,Uncommon
+1317,Evincar's Justice,['B'],4,"[""'Sorcery'""]",,TPR,Uncommon
+1318,Firebolt,['R'],1,"[""'Sorcery'""]",,EMA,Common
+1319,Gearseeker Serpent,['U'],7,"[""'Creature'""]","[""'Serpent'""]",KLD,Common
+1320,Goliath Paladin,['W'],5,"[""'Creature'""]","[""'Giant'"", ""'Knight'""]",CLB,Common
+1321,Guildsworn Prowler,['B'],2,"[""'Creature'""]","[""'Tiefling'"", ""'Rogue'"", ""'Assassin'""]",CLB,Common
+1322,Ill-Gotten Inheritance,['B'],4,"[""'Enchantment'""]",,RVR,Common
+1323,Krenko's Command,['R'],2,"[""'Sorcery'""]",,RVR,Common
+1324,Mogg Raider,['R'],1,"[""'Creature'""]","[""'Goblin'""]",TE,Common
+1325,Nettle Sentinel,['G'],1,"[""'Creature'""]","[""'Elf'"", ""'Warrior'""]",EVE,Common
+1326,Palace Sentinels,['W'],4,"[""'Creature'""]","[""'Human'"", ""'Soldier'""]",CMM,Common
+1327,Pristine Talisman,,3,"[""'Artifact'""]",,PRM,Common
+1328,Rolling Thunder,['R'],2,"[""'Sorcery'""]",,BFZ,Uncommon
+1329,Self-Assembler,,5,"[""'Artifact'"", ""'Creature'""]","[""'Assembly-Worker'""]",A25,Common
+1330,Smoldering Crater,,0,"[""'Land'""]",,DMR,Common
+1331,Urborg Repossession,['B'],1,"[""'Sorcery'""]",,DMU,Common
+1332,Volcanic Spite,['R'],2,"[""'Instant'""]",,MOM,Common
+1333,Bedeck // Bedazzle,"['B', 'R']",8,"[""'Instant'""]",,RNA,Rare
+1334,Bile Blight,['B'],2,"[""'Instant'""]",,PRM,Uncommon
+1335,Claim the Firstborn,['R'],1,"[""'Sorcery'""]",,STA,Uncommon
+1336,Commit // Memory,['U'],10,"[""'Instant'""]",,AKH,Rare
+1337,Connive // Concoct,"['U', 'B']",9,"[""'Sorcery'""]",,GRN,Rare
+1338,Consign // Oblivion,['U'],7,"[""'Instant'""]",,HOU,Uncommon
+1339,Creative Outburst,"['R', 'U']",7,"[""'Instant'""]",,STX,Uncommon
+1340,Elemental Masterpiece,"['R', 'U']",7,"[""'Sorcery'""]",,STX,Common
+1341,Hazoret the Fervent,['R'],4,"[""'Legendary'"", ""'Creature'""]","[""'God'""]",AKH,Mythic
+1342,"Kalitas, Traitor of Ghet",['B'],4,"[""'Legendary'"", ""'Creature'""]","[""'Vampire'"", ""'Warrior'""]",OGW,Mythic
+1343,"Kari Zev, Skyship Raider",['R'],2,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Pirate'""]",AER,Rare
+1344,"Klothys, God of Destiny","['G', 'R']",3,"[""'Legendary'"", ""'Enchantment'"", ""'Creature'""]","[""'God'""]",THB,Mythic
+1345,Lovestruck Beast,['G'],3,"[""'Creature'""]","[""'Beast'"", ""'Noble'""]",ELD,Rare
+1346,Mayhem Devil,"['B', 'R']",3,"[""'Creature'""]","[""'Devil'""]",WAR,Uncommon
+1347,Release to the Wind,['U'],3,"[""'Instant'""]",,RIX,Rare
+1348,Robber of the Rich,['R'],2,"[""'Creature'""]","[""'Human'"", ""'Archer'"", ""'Rogue'""]",ELD,Mythic
+1349,Selfless Glyphweaver,['W'],3,"[""'Creature'""]","[""'Human'"", ""'Cleric'""]",STX,Rare
+1350,Silundi Vision,['U'],3,"[""'Instant'""]",,ZNR,Uncommon
+1351,Temple of Deceit,,0,"[""'Land'""]",,THB,Rare
+1352,Temple of Triumph,,0,"[""'Land'""]",,M21,Rare
+1353,Torrential Gearhulk,['U'],6,"[""'Artifact'"", ""'Creature'""]","[""'Construct'""]",KLD,Mythic
+1354,Unlucky Witness,['R'],1,"[""'Creature'""]","[""'Human'"", ""'Citizen'""]",SNC,Uncommon
+1355,Witch's Oven,,1,"[""'Artifact'""]",,ELD,Uncommon
+1356,Embereth Veteran,['R'],1,"[""'Creature'""]","[""'Human'"", ""'Knight'""]",WOE,Uncommon
+1357,Invasion of Gobakhan,['W'],2,"[""'Battle'""]","[""'Siege'""]",MOM,Rare
+1358,Invasion of Tarkir,['R'],2,"[""'Battle'""]","[""'Siege'""]",MOM,Mythic
+1359,Obliterating Bolt,['R'],2,"[""'Sorcery'""]",,BRO,Uncommon
+1360,Redcap Gutter-Dweller,['R'],4,"[""'Creature'""]","[""'Goblin'"", ""'Warrior'""]",WOE,Rare
+1361,Spectral Adversary,['U'],2,"[""'Creature'""]","[""'Spirit'""]",MID,Mythic
+1362,Chief of the Foundry,,3,"[""'Artifact'"", ""'Creature'""]","[""'Construct'""]",2XM,Uncommon
+1363,Foundry Inspector,,3,"[""'Artifact'"", ""'Creature'""]","[""'Construct'""]",CMM,Common
+1364,Lupine Prototype,,2,"[""'Artifact'"", ""'Creature'""]","[""'Wolf'"", ""'Construct'""]",EMN,Rare
+1365,Master of Death,"['B', 'U']",3,"[""'Creature'""]","[""'Zombie'"", ""'Wizard'""]",MH2,Rare
+1366,Repeal,['U'],1,"[""'Instant'""]",,RVR,Common
+1367,Scrapyard Recombiner,,3,"[""'Artifact'"", ""'Creature'""]","[""'Construct'""]",MH1,Rare
+1368,Skullclamp,,1,"[""'Artifact'""]","[""'Equipment'""]",VMA,Mythic
+1369,Snapback,['U'],2,"[""'Instant'""]",,TSR,Common
+1370,"Squee, Goblin Nabob",['R'],3,"[""'Legendary'"", ""'Creature'""]","[""'Goblin'""]",10E,Rare
+1371,Steel Overseer,,2,"[""'Artifact'"", ""'Creature'""]","[""'Construct'""]",M11,Rare
+1372,Thieving Skydiver,['U'],2,"[""'Creature'""]","[""'Merfolk'"", ""'Rogue'""]",ZNR,Rare
+1373,Tide Shaper,['U'],1,"[""'Creature'""]","[""'Merfolk'"", ""'Wizard'""]",MH2,Uncommon
+1374,Urza's Incubator,,3,"[""'Artifact'""]",,DMR,Mythic
+1375,Vodalian Hexcatcher,['U'],2,"[""'Creature'""]","[""'Merfolk'"", ""'Wizard'""]",DMU,Rare
+1376,Volatile Fault,,0,"[""'Land'""]","[""'Cave'""]",LCI,Uncommon
+1377,Allosaurus Shepherd,['G'],1,"[""'Creature'""]","[""'Elf'"", ""'Shaman'""]",PRM,Mythic
+1378,Basalt Monolith,,3,"[""'Artifact'""]",,2XM,Uncommon
+1379,"Comet, Stellar Pup","['R', 'W']",4,"[""'Legendary'"", ""'Planeswalker'""]","[""'Comet'""]",UNF,Mythic
+1380,Craterhoof Behemoth,['G'],8,"[""'Creature'""]","[""'Beast'""]",AVR,Mythic
+1381,Defense Grid,,2,"[""'Artifact'""]",,9ED,Rare
+1382,Ensnaring Bridge,,3,"[""'Artifact'""]",,8ED,Rare
+1383,Fiend Artisan,"['B', 'G']",2,"[""'Creature'""]","[""'Nightmare'""]",IKO,Mythic
+1384,Gaea's Cradle,,0,"[""'Legendary'"", ""'Land'""]",,PRM,Mythic
+1385,Goblin Engineer,['R'],2,"[""'Creature'""]","[""'Goblin'"", ""'Artificer'""]",MH1,Rare
+1386,Goblin Welder,['R'],1,"[""'Creature'""]","[""'Goblin'"", ""'Artificer'""]",C14,Rare
+1387,Invigorate,['G'],3,"[""'Instant'""]",,EMA,Uncommon
+1388,Memory's Journey,['U'],2,"[""'Instant'""]",,ISD,Uncommon
+1389,Natural Order,['G'],4,"[""'Sorcery'""]",,STA,Mythic
+1390,Phyrexian Dragon Engine,,3,"[""'Artifact'"", ""'Creature'""]","[""'Phyrexian'"", ""'Dragon'""]",BRO,Rare
+1391,Red Elemental Blast,['R'],1,"[""'Instant'""]",,PRM,Uncommon
+1392,Turntimber Symbiosis,['G'],7,"[""'Sorcery'""]",,PRM,Mythic
+1393,Urza's Workshop,,0,"[""'Land'""]","[""'Urza's'""]",BRC,Rare
+1394,Voltaic Key,,1,"[""'Artifact'""]",,M11,Uncommon
+1395,Wild Cantor,"['G', 'R']",1,"[""'Creature'""]","[""'Human'"", ""'Druid'""]",GPT,Common
+1396,Cityscape Leveler,,8,"[""'Artifact'"", ""'Creature'""]","[""'Construct'""]",PRM,Mythic
+1397,Deeproot Pilgrimage,['U'],2,"[""'Enchantment'""]",,LCI,Rare
+1398,Feign Death,['B'],1,"[""'Instant'""]",,AFR,Common
+1399,Hanweir Battlements,,0,"[""'Land'""]",,EMN,Rare
+1400,Kessig Wolf Run,,0,"[""'Land'""]",,ISD,Rare
+1401,Lord of Atlantis,['U'],2,"[""'Creature'""]","[""'Merfolk'""]",SPG,Rare
+1402,Mana Tithe,['W'],1,"[""'Instant'""]",,TSR,Common
+1403,Master of the Pearl Trident,['U'],2,"[""'Creature'""]","[""'Merfolk'""]",M13,Rare
+1404,Merfolk Trickster,['U'],2,"[""'Creature'""]","[""'Merfolk'"", ""'Wizard'""]",DAR,Uncommon
+1405,Oath of Nissa,['G'],1,"[""'Legendary'"", ""'Enchantment'""]",,OGW,Rare
+1406,Rishadan Dockhand,['U'],1,"[""'Creature'""]","[""'Merfolk'""]",MH2,Rare
+1407,Shadow of Doubt,"['B', 'U']",2,"[""'Instant'""]",,RAV,Rare
+1408,Souls of the Lost,['B'],2,"[""'Creature'""]","[""'Spirit'""]",LCI,Rare
+1409,Svyelun of Sea and Sky,['U'],3,"[""'Legendary'"", ""'Creature'""]","[""'Merfolk'"", ""'God'""]",MH2,Mythic
+1410,Thran Spider,,3,"[""'Artifact'"", ""'Creature'""]","[""'Spider'""]",BRO,Rare
+1411,Ardent Elementalist,['R'],4,"[""'Creature'""]","[""'Human'"", ""'Shaman'""]",MID,Common
+1412,Brinebarrow Intruder,['U'],1,"[""'Creature'""]","[""'Human'"", ""'Rogue'""]",KHM,Common
+1413,Crawl from the Cellar,['B'],1,"[""'Sorcery'""]",,MID,Common
+1414,Drown in Sorrow,['B'],3,"[""'Sorcery'""]",,CMM,Common
+1415,Electrickery,['R'],1,"[""'Instant'""]",,RTR,Common
+1416,Faerie Miscreant,['U'],1,"[""'Creature'""]","[""'Faerie'"", ""'Rogue'""]",M20,Common
+1417,Firebrand Archer,['R'],2,"[""'Creature'""]","[""'Human'"", ""'Archer'""]",HOU,Common
+1418,Late to Dinner,['W'],4,"[""'Sorcery'""]",,MH2,Common
+1419,Scholar of Athreos,['W'],3,"[""'Creature'""]","[""'Human'"", ""'Cleric'""]",THS,Common
+1420,Smoke Shroud,['U'],2,"[""'Enchantment'""]","[""'Aura'""]",MH1,Common
+1421,Stonehorn Dignitary,['W'],4,"[""'Creature'""]","[""'Rhino'"", ""'Soldier'""]",M12,Common
+1422,Wellwisher,['G'],2,"[""'Creature'""]","[""'Elf'""]",ONS,Common
+1423,Botanical Sanctum,,0,"[""'Land'""]",,KLD,Rare
+1424,Heartless Act,['B'],2,"[""'Instant'""]",,IKO,Uncommon
+1425,Render Silent,"['U', 'W']",3,"[""'Instant'""]",,DGM,Rare
+1426,Shimmer of Possibility,['U'],2,"[""'Sorcery'""]",,RNA,Common
+1427,Soaring Thought-Thief,"['B', 'U']",2,"[""'Creature'""]","[""'Human'"", ""'Rogue'""]",ZNR,Uncommon
+1428,Thieves' Guild Enforcer,['B'],1,"[""'Creature'""]","[""'Human'"", ""'Rogue'""]",M21,Rare
+1429,Wild Slash,['R'],1,"[""'Instant'""]",,FRF,Uncommon
+1430,Beast Within,['G'],3,"[""'Instant'""]",,NPH,Uncommon
+1431,Kogla and Yidaro,"['G', 'R']",6,"[""'Legendary'"", ""'Creature'""]","[""'Ape'"", ""'Dinosaur'"", ""'Turtle'""]",MOM,Rare
+1432,Pyrokinesis,['R'],6,"[""'Instant'""]",,EMA,Rare
+1433,Seal of Cleansing,['W'],2,"[""'Enchantment'""]",,EMA,Common
+1434,Teferi's Response,['U'],2,"[""'Instant'""]",,IN,Rare
+1435,Tinder Wall,['G'],1,"[""'Creature'""]","[""'Plant'"", ""'Wall'""]",PRM,Common
+1436,"Atris, Oracle of Half-Truths","['B', 'U']",4,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Advisor'""]",MUL,Rare
+1437,Auriok Salvagers,['W'],4,"[""'Creature'""]","[""'Human'"", ""'Soldier'""]",2XM,Uncommon
+1438,"Barrin, Tolarian Archmage",['U'],3,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Wizard'""]",M21,Rare
+1439,Breakthrough,['U'],1,"[""'Sorcery'""]",,2X2,Uncommon
+1440,Gemstone Mine,,0,"[""'Land'""]",,DMR,Rare
+1441,Gilded Drake,['U'],2,"[""'Creature'""]","[""'Drake'""]",UZ,Rare
+1442,Goblin Cratermaker,['R'],2,"[""'Creature'""]","[""'Goblin'"", ""'Warrior'""]",GRN,Uncommon
+1443,Greater Gargadon,['R'],10,"[""'Creature'""]","[""'Beast'""]",TSP,Rare
+1444,Legion Warboss,['R'],3,"[""'Creature'""]","[""'Goblin'"", ""'Soldier'""]",GRN,Rare
+1445,Lion Sash,['W'],2,"[""'Artifact'"", ""'Creature'""]","[""'Equipment'"", ""'Cat'""]",NEO,Rare
+1446,Ox of Agonas,['R'],5,"[""'Creature'""]","[""'Ox'""]",THB,Mythic
+1447,Phyrexian Devourer,,6,"[""'Artifact'"", ""'Creature'""]","[""'Phyrexian'"", ""'Construct'""]",ME2,Uncommon
+1448,Phyrexian Tower,,0,"[""'Legendary'"", ""'Land'""]",,UZ,Rare
+1449,Putrid Imp,['B'],1,"[""'Creature'""]","[""'Zombie'"", ""'Imp'""]",VMA,Common
+1450,"Sauron, the Dark Lord","['B', 'R', 'U']",6,"[""'Legendary'"", ""'Creature'""]","[""'Avatar'"", ""'Horror'""]",LTR,Mythic
+1451,Soulherder,"['U', 'W']",3,"[""'Creature'""]","[""'Spirit'""]",MH1,Uncommon
+1452,"Thalia, Heretic Cathar",['W'],3,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Soldier'""]",EMN,Rare
+1453,"Titania, Protector of Argoth",['G'],5,"[""'Legendary'"", ""'Creature'""]","[""'Elemental'""]",MH2,Mythic
+1454,Twinshot Sniper,['R'],4,"[""'Artifact'"", ""'Creature'""]","[""'Goblin'"", ""'Archer'""]",NEO,Uncommon
+1455,Unlicensed Hearse,,2,"[""'Artifact'""]","[""'Vehicle'""]",PRM,Rare
+1456,Veteran Explorer,['G'],1,"[""'Creature'""]","[""'Human'"", ""'Soldier'"", ""'Scout'""]",2XM,Uncommon
+1457,"Éowyn, Fearless Knight","['R', 'W']",4,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Knight'""]",LTR,Rare
+1458,Baleful Mastery,['B'],4,"[""'Instant'""]",,STX,Rare
+1459,Call of the Death-Dweller,['B'],3,"[""'Sorcery'""]",,IKO,Uncommon
+1460,Dromoka's Command,"['G', 'W']",2,"[""'Instant'""]",,DTK,Rare
+1461,Finale of Devastation,['G'],2,"[""'Sorcery'""]",,WAR,Mythic
+1462,Flick a Coin,['R'],3,"[""'Instant'""]",,WOE,Common
+1463,Mox Amber,,0,"[""'Legendary'"", ""'Artifact'""]",,DAR,Mythic
+1464,Sarinth Steelseeker,['G'],2,"[""'Creature'""]","[""'Human'"", ""'Artificer'"", ""'Scout'""]",BRO,Uncommon
+1465,Sprite Dragon,"['R', 'U']",2,"[""'Creature'""]","[""'Faerie'"", ""'Dragon'""]",IKO,Uncommon
+1466,Tear Asunder,['G'],2,"[""'Instant'""]",,DMU,Uncommon
+1467,Echoing Truth,['U'],2,"[""'Instant'""]",,DST,Common
+1468,Foundry Helix,"['R', 'W']",3,"[""'Instant'""]",,MH2,Common
+1469,Lorehold Campus,,0,"[""'Land'""]",,STX,Common
+1470,Mnemonic Wall,['U'],5,"[""'Creature'""]","[""'Wall'""]",IMA,Common
+1471,Ramosian Rally,['W'],4,"[""'Instant'""]",,MM,Common
+1472,Fireblade Charger,['R'],1,"[""'Creature'""]","[""'Goblin'"", ""'Warrior'""]",ZNR,Uncommon
+1473,Kazuul's Fury,['R'],3,"[""'Instant'""]",,ZNR,Uncommon
+1474,"Kellan, the Fae-Blooded",['R'],3,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Faerie'""]",WOE,Mythic
+1475,"Kemba, Kha Enduring",['W'],2,"[""'Legendary'"", ""'Creature'""]","[""'Cat'"", ""'Cleric'""]",ONE,Rare
+1476,Loran's Escape,['W'],1,"[""'Instant'""]",,BRO,Common
+1477,"Nahiri, the Unforgiving","['R', 'W']",4,"[""'Legendary'"", ""'Planeswalker'""]","[""'Nahiri'""]",ONE,Mythic
+1478,Resolute Strike,['W'],1,"[""'Instant'""]",,ZNR,Common
+1479,Voldaren Thrillseeker,['R'],3,"[""'Creature'""]","[""'Vampire'"", ""'Warrior'""]",MOM,Rare
+1480,Bushwhack,['G'],1,"[""'Sorcery'""]",,BRO,Uncommon
+1481,Errant and Giada,"['U', 'W']",3,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Angel'""]",MOM,Rare
+1482,Kitesail Larcenist,['U'],3,"[""'Creature'""]","[""'Human'"", ""'Pirate'""]",LCI,Rare
+1483,Surge Engine,,2,"[""'Artifact'"", ""'Creature'""]","[""'Construct'""]",BRO,Mythic
+1484,Tainted Observer,"['G', 'U']",3,"[""'Creature'""]","[""'Phyrexian'"", ""'Bird'""]",ONE,Uncommon
+1485,Tough Cookie,['G'],2,"[""'Artifact'"", ""'Creature'""]","[""'Food'"", ""'Golem'""]",WOE,Uncommon
+1486,Treasure Map,,2,"[""'Artifact'""]",,LCI,Rare
+1487,Zoetic Glyph,['U'],3,"[""'Enchantment'""]","[""'Aura'""]",LCI,Uncommon
+1488,Abrade,['R'],2,"[""'Instant'""]",,LCI,Common
+1489,Brain Freeze,['U'],2,"[""'Instant'""]",,VMA,Uncommon
+1490,Demonic Consultation,['B'],1,"[""'Instant'""]",,ME2,Uncommon
+1491,Terror of the Peaks,['R'],5,"[""'Creature'""]","[""'Dragon'""]",M21,Mythic
+1492,Back to Basics,['U'],3,"[""'Enchantment'""]",,UZ,Rare
+1493,Counterbalance,['U'],2,"[""'Enchantment'""]",,CSP,Uncommon
+1494,Echo of Eons,['U'],6,"[""'Sorcery'""]",,MH1,Mythic
+1495,"Jace, the Mind Sculptor",['U'],4,"[""'Legendary'"", ""'Planeswalker'""]","[""'Jace'""]",EMA,Mythic
+1496,"Jirina, Dauntless General","['B', 'W']",2,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Soldier'""]",MAT,Rare
+1497,Scroll Rack,,2,"[""'Artifact'""]",,CMR,Mythic
+1498,Vesuvan Drifter,['U'],3,"[""'Creature'""]","[""'Shapeshifter'""]",MAT,Rare
+1499,Angelsong,['W'],2,"[""'Instant'""]",,ALA,Common
+1500,Black Dragon Gate,,0,"[""'Land'""]","[""'Gate'""]",CLB,Common
+1501,Cast into the Fire,['R'],2,"[""'Instant'""]",,LTR,Common
+1502,Chittering Rats,['B'],3,"[""'Creature'""]","[""'Rat'""]",PRM,Common
+1503,Judge's Familiar,"['U', 'W']",1,"[""'Creature'""]","[""'Bird'""]",RVR,Common
+1504,Mukotai Ambusher,['B'],4,"[""'Artifact'"", ""'Creature'""]","[""'Rat'"", ""'Ninja'""]",NEO,Common
+1505,Okiba-Gang Shinobi,['B'],5,"[""'Creature'""]","[""'Rat'"", ""'Ninja'""]",BOK,Common
+1506,Phyrexian Rager,['B'],3,"[""'Creature'""]","[""'Phyrexian'"", ""'Horror'""]",DMR,Common
+1507,Remove Soul,['U'],2,"[""'Instant'""]",,ME3,Common
+1508,Mazemind Tome,,2,"[""'Artifact'""]",,M21,Rare
+1509,Scattered Groves,,0,"[""'Land'""]","[""'Forest'"", ""'Plains'""]",AKH,Rare
+1510,Slaughter Games,"['B', 'R']",4,"[""'Sorcery'""]",,RTR,Rare
+1511,Tale's End,['U'],2,"[""'Instant'""]",,M20,Rare
+1512,Temple of Enlightenment,,0,"[""'Land'""]",,THB,Rare
+1513,Temple of Plenty,,0,"[""'Land'""]",,THB,Rare
+1514,Waste Not,['B'],2,"[""'Enchantment'""]",,WOT,Rare
+1515,"Ash, Party Crasher","['R', 'W']",2,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Peasant'""]",WOE,Uncommon
+1516,Restless Bivouac,,0,"[""'Land'""]",,WOE,Rare
+1517,Sanguine Evangelist,['W'],3,"[""'Creature'""]","[""'Vampire'"", ""'Cleric'""]",LCI,Rare
+1518,Tocasia's Welcome,['W'],3,"[""'Enchantment'""]",,BRO,Rare
+1519,Chain of Vapor,['U'],1,"[""'Instant'""]",,PRM,Uncommon
+1520,Regrowth,['G'],2,"[""'Sorcery'""]",,MH1,Uncommon
+1521,Lightning Greaves,,2,"[""'Artifact'""]","[""'Equipment'""]",LCC,Uncommon
+1522,Nimble Obstructionist,['U'],3,"[""'Creature'""]","[""'Bird'"", ""'Wizard'""]",HOU,Rare
+1523,Beseech the Queen,['B'],6,"[""'Sorcery'""]",,SHM,Uncommon
+1524,Cosmic Rebirth,"['G', 'W']",3,"[""'Instant'""]",,MAT,Uncommon
+1525,Explore,['G'],2,"[""'Sorcery'""]",,WWK,Common
+1526,Faithful Mending,"['U', 'W']",2,"[""'Instant'""]",,MID,Uncommon
+1527,Legions to Ashes,"['B', 'W']",3,"[""'Sorcery'""]",,BRO,Rare
+1528,Sword of Fire and Ice,,3,"[""'Artifact'""]","[""'Equipment'""]",DST,Rare
+1529,The Rack,,1,"[""'Artifact'""]",,TSB,Rare
+1530,Unburial Rites,['B'],5,"[""'Sorcery'""]",,2X2,Uncommon
+1531,Vindicate,"['B', 'W']",3,"[""'Sorcery'""]",,PRM,Rare
+1532,Waterlogged Grove,,0,"[""'Land'""]",,MH1,Rare
+1533,Zuran Orb,,0,"[""'Artifact'""]",,MH2,Uncommon
+1534,False Summoning,['U'],2,"[""'Instant'""]",,ME4,Common
+1535,Rite of Flame,['R'],1,"[""'Sorcery'""]",,CSP,Common
+1536,Sandstone Needle,,0,"[""'Land'""]",,MM,Common
+1537,Trailblazer's Torch,,4,"[""'Artifact'""]","[""'Equipment'""]",CLB,Common
+1538,Archangel Avacyn,['W'],5,"[""'Legendary'"", ""'Creature'""]","[""'Angel'""]",SOI,Mythic
+1539,Binding the Old Gods,"['B', 'G']",4,"[""'Enchantment'""]","[""'Saga'""]",KHM,Uncommon
+1540,Callous Bloodmage,['B'],3,"[""'Creature'""]","[""'Vampire'"", ""'Warlock'""]",STX,Rare
+1541,Fae of Wishes,['U'],2,"[""'Creature'""]","[""'Faerie'"", ""'Wizard'""]",ELD,Rare
+1542,Gifted Aetherborn,['B'],2,"[""'Creature'""]","[""'Aetherborn'"", ""'Vampire'""]",AER,Uncommon
+1543,Hagra Mauling,['B'],4,"[""'Instant'""]",,ZNR,Rare
+1544,Ifnir Deadlands,,0,"[""'Land'""]","[""'Desert'""]",HOU,Uncommon
+1545,"Kinnan, Bonder Prodigy","['G', 'U']",2,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Druid'""]",IKO,Mythic
+1546,"Lukka, Coppercoat Outcast",['R'],5,"[""'Legendary'"", ""'Planeswalker'""]","[""'Lukka'""]",IKO,Mythic
+1547,Moon-Blessed Cleric,['W'],3,"[""'Creature'""]","[""'Human'"", ""'Elf'"", ""'Cleric'""]",AFR,Uncommon
+1548,Murderous Rider,['B'],3,"[""'Creature'""]","[""'Zombie'"", ""'Knight'""]",ELD,Rare
+1549,Reduce // Rubble,['U'],6,"[""'Instant'""]",,AKH,Uncommon
+1550,Renegade Rallier,"['G', 'W']",3,"[""'Creature'""]","[""'Human'"", ""'Warrior'""]",PRM,Uncommon
+1551,Retraction Helix,['U'],1,"[""'Instant'""]",,A25,Common
+1552,Sheoldred,['B'],4,"[""'Legendary'"", ""'Creature'""]","[""'Phyrexian'"", ""'Praetor'""]",MOM,Mythic
+1553,Spell Queller,"['U', 'W']",3,"[""'Creature'""]","[""'Spirit'""]",EMN,Rare
+1554,The Scarab God,"['B', 'U']",5,"[""'Legendary'"", ""'Creature'""]","[""'God'""]",HOU,Mythic
+1555,Trial of Ambition,['B'],2,"[""'Enchantment'""]",,AKH,Uncommon
+1556,Voice of the Blessed,['W'],2,"[""'Creature'""]","[""'Spirit'"", ""'Cleric'""]",VOW,Rare
+1557,Gaea's Blessing,['G'],2,"[""'Sorcery'""]",,DAR,Uncommon
+1558,Stonecoil Serpent,,0,"[""'Artifact'"", ""'Creature'""]","[""'Snake'""]",ELD,Rare
+1559,Empty the Warrens,['R'],4,"[""'Sorcery'""]",,DMR,Common
+1560,Gamble,['R'],1,"[""'Sorcery'""]",,VMA,Rare
+1561,Goblin Charbelcher,,4,"[""'Artifact'""]",,MRD,Rare
+1562,Peat Bog,,0,"[""'Land'""]",,MM,Common
+1563,Seething Song,['R'],3,"[""'Instant'""]",,MRD,Common
+1564,Brightclimb Pathway,,0,"[""'Land'""]",,ZNR,Rare
+1565,Calibrated Blast,['R'],3,"[""'Instant'""]",,MH2,Rare
+1566,Mishra's Factory,,0,"[""'Land'""]",,MH2,Uncommon
+1567,Night's Whisper,['B'],2,"[""'Sorcery'""]",,EMA,Common
+1568,Shadow of Mortality,['B'],15,"[""'Creature'""]","[""'Avatar'""]",SNC,Rare
+1569,Wrench Mind,['B'],2,"[""'Sorcery'""]",,MRD,Common
+1570,Evolving Wilds,,0,"[""'Land'""]",,WOE,Common
+1571,Sawblade Scamp,['R'],1,"[""'Creature'""]","[""'Phyrexian'"", ""'Beast'""]",ONE,Common
+1572,Can't Stay Away,"['B', 'W']",2,"[""'Sorcery'""]",,MID,Rare
+1573,Gallia of the Endless Dance,"['G', 'R']",2,"[""'Legendary'"", ""'Creature'""]","[""'Satyr'""]",THB,Rare
+1574,"Samut, Vizier of Naktamun","['G', 'R']",3,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Warrior'"", ""'Cleric'""]",MAT,Mythic
+1575,Strangle,['R'],1,"[""'Sorcery'""]",,SNC,Common
+1576,Thing in the Ice,['U'],2,"[""'Creature'""]","[""'Horror'""]",SOI,Rare
+1577,Voyaging Satyr,['G'],2,"[""'Creature'""]","[""'Satyr'"", ""'Druid'""]",THS,Common
+1578,Devious Cover-Up,['U'],4,"[""'Instant'""]",,DBL,Common
+1579,Dissipate,['U'],3,"[""'Instant'""]",,MID,Uncommon
+1580,Faerie Dreamthief,['B'],1,"[""'Creature'""]","[""'Faerie'"", ""'Warlock'""]",WOE,Uncommon
+1581,Gnawing Vermin,['B'],1,"[""'Creature'""]","[""'Rat'""]",BRO,Uncommon
+1582,White Sun's Twilight,['W'],2,"[""'Sorcery'""]",,ONE,Rare
+1583,"Chandra, Awakened Inferno",['R'],6,"[""'Legendary'"", ""'Planeswalker'""]","[""'Chandra'""]",M20,Mythic
+1584,Energy Flux,['U'],3,"[""'Enchantment'""]",,ME4,Uncommon
+1585,Breya's Apprentice,['R'],3,"[""'Artifact'"", ""'Creature'""]","[""'Human'"", ""'Artificer'""]",MH2,Rare
+1586,Currency Converter,,1,"[""'Artifact'""]",,PRM,Rare
+1587,Flooded Grove,,0,"[""'Land'""]",,EVE,Rare
+1588,Gut Shot,['R'],1,"[""'Instant'""]",,NPH,Uncommon
+1589,"Jace, Wielder of Mysteries",['U'],4,"[""'Legendary'"", ""'Planeswalker'""]","[""'Jace'""]",WAR,Rare
+1590,Moorland Haunt,,0,"[""'Land'""]",,ISD,Rare
+1591,Roiling Vortex,['R'],2,"[""'Enchantment'""]",,ZNR,Rare
+1592,Scourge of the Skyclaves,['B'],2,"[""'Creature'""]","[""'Demon'""]",ZNR,Mythic
+1593,Skullcrack,['R'],2,"[""'Instant'""]",,GTC,Uncommon
+1594,Sword of Feast and Famine,,3,"[""'Artifact'""]","[""'Equipment'""]",MBS,Mythic
+1595,Filigree Familiar,,3,"[""'Artifact'"", ""'Creature'""]","[""'Fox'""]",CMR,Common
+1596,Lys Alana Huntmaster,['G'],4,"[""'Creature'""]","[""'Elf'"", ""'Warrior'""]",EMA,Common
+1597,Clifftop Retreat,,0,"[""'Land'""]",,DAR,Rare
+1598,Diabolic Intent,['B'],2,"[""'Sorcery'""]",,BRO,Rare
+1599,Exuberant Fuseling,['R'],1,"[""'Creature'""]","[""'Phyrexian'"", ""'Goblin'"", ""'Warrior'""]",ONE,Uncommon
+1600,Goblin Instigator,['R'],2,"[""'Creature'""]","[""'Goblin'"", ""'Rogue'""]",M19,Common
+1601,"Liliana, the Last Hope",['B'],3,"[""'Legendary'"", ""'Planeswalker'""]","[""'Liliana'""]",EMN,Mythic
+1602,Rally the Ancestors,['W'],2,"[""'Instant'""]",,FRF,Rare
+1603,Rundvelt Hordemaster,['R'],2,"[""'Creature'""]","[""'Goblin'"", ""'Warrior'""]",DMU,Rare
+1604,Stitcher's Supplier,['B'],1,"[""'Creature'""]","[""'Zombie'""]",M19,Uncommon
+1605,Clay-Fired Bricks,['W'],2,"[""'Artifact'""]",,LCI,Uncommon
+1606,Roadside Reliquary,,0,"[""'Land'""]",,NEO,Uncommon
+1607,Spring-Loaded Sawblades,['W'],2,"[""'Artifact'""]",,LCI,Uncommon
+1608,Gush,['U'],5,"[""'Instant'""]",,PRM,Uncommon
+1609,Spirit of the Labyrinth,['W'],2,"[""'Enchantment'"", ""'Creature'""]","[""'Spirit'""]",BNG,Rare
+1610,Cabal Pit,,0,"[""'Land'""]",,OD,Uncommon
+1611,Chain of Smog,['B'],2,"[""'Sorcery'""]",,ONS,Uncommon
+1612,Hexdrinker,['G'],1,"[""'Creature'""]","[""'Snake'""]",MH1,Mythic
+1613,Oath of Ghouls,['B'],2,"[""'Enchantment'""]",,EX,Rare
+1614,Portal to Phyrexia,,9,"[""'Artifact'""]",,BRO,Mythic
+1615,Sinkhole,['B'],2,"[""'Sorcery'""]",,EMA,Rare
+1616,Temporal Mastery,['U'],7,"[""'Sorcery'""]",,AVR,Mythic
+1617,Witherbloom Apprentice,"['B', 'G']",2,"[""'Creature'""]","[""'Human'"", ""'Druid'""]",STX,Uncommon
+1618,Wrenn and Realmbreaker,['G'],3,"[""'Legendary'"", ""'Planeswalker'""]","[""'Wrenn'""]",MOM,Mythic
+1619,Abiding Grace,['W'],3,"[""'Enchantment'""]",,MH2,Uncommon
+1620,Academy Ruins,,0,"[""'Legendary'"", ""'Land'""]",,TSP,Rare
+1621,All Is Dust,,7,"[""'Tribal'"", ""'Sorcery'""]","[""'Eldrazi'""]",MM2,Rare
+1622,Bloodchief's Thirst,['B'],1,"[""'Sorcery'""]",,ZNR,Uncommon
+1623,Consume Spirit,['B'],2,"[""'Sorcery'""]",,MRD,Common
+1624,Eladamri's Call,"['G', 'W']",2,"[""'Instant'""]",,MH1,Rare
+1625,Eldrazi Temple,,0,"[""'Land'""]",,ROE,Rare
+1626,Engineered Explosives,,0,"[""'Artifact'""]",,5DN,Rare
+1627,Erebos's Intervention,['B'],1,"[""'Instant'""]",,THB,Rare
+1628,Flamekin Harbinger,['R'],1,"[""'Creature'""]","[""'Elemental'"", ""'Shaman'""]",LRW,Uncommon
+1629,Kami of False Hope,['W'],1,"[""'Creature'""]","[""'Spirit'""]",BOK,Common
+1630,Karn's Sylex,,3,"[""'Legendary'"", ""'Artifact'""]",,DMU,Mythic
+1631,Martyr of Sands,['W'],1,"[""'Creature'""]","[""'Human'"", ""'Cleric'""]",CSP,Common
+1632,Matter Reshaper,,3,"[""'Creature'""]","[""'Eldrazi'""]",OGW,Rare
+1633,Mind Stone,,2,"[""'Artifact'""]",,DMR,Common
+1634,Mistveil Plains,,0,"[""'Land'""]","[""'Plains'""]",SHM,Uncommon
+1635,"Omnath, Locus of the Roil","['G', 'R', 'U']",4,"[""'Legendary'"", ""'Creature'""]","[""'Elemental'""]",M20,Mythic
+1636,Reality Smasher,,5,"[""'Creature'""]","[""'Eldrazi'""]",OGW,Rare
+1637,Risen Reef,"['G', 'U']",3,"[""'Creature'""]","[""'Elemental'""]",M20,Uncommon
+1638,Roaming Throne,,4,"[""'Artifact'"", ""'Creature'""]","[""'Golem'""]",LCI,Rare
+1639,Silvergill Adept,['U'],2,"[""'Creature'""]","[""'Merfolk'"", ""'Wizard'""]",PRM,Uncommon
+1640,The Stone Brain,,2,"[""'Legendary'"", ""'Artifact'""]",,BRO,Rare
+1641,Thought-Knot Seer,,4,"[""'Creature'""]","[""'Eldrazi'""]",OGW,Rare
+1642,Thunderkin Awakener,['R'],2,"[""'Creature'""]","[""'Elemental'"", ""'Shaman'""]",M20,Rare
+1643,Trinket Mage,['U'],3,"[""'Creature'""]","[""'Human'"", ""'Wizard'""]",5DN,Common
+1644,Unsettled Mariner,"['U', 'W']",2,"[""'Creature'""]","[""'Shapeshifter'""]",MH1,Rare
+1645,Vesperlark,['W'],3,"[""'Creature'""]","[""'Elemental'""]",MH1,Uncommon
+1646,Wastes,,0,"[""'Basic'"", ""'Land'""]",,OGW,Common
+1647,Winds of Abandon,['W'],2,"[""'Sorcery'""]",,MH1,Rare
+1648,Bloodrite Invoker,['B'],3,"[""'Creature'""]","[""'Vampire'"", ""'Shaman'""]",ROE,Common
+1649,Benthic Biomancer,['U'],1,"[""'Creature'""]","[""'Merfolk'"", ""'Wizard'"", ""'Mutant'""]",RNA,Rare
+1650,Kumena's Speaker,['G'],1,"[""'Creature'""]","[""'Merfolk'"", ""'Shaman'""]",XLN,Uncommon
+1651,Merfolk Mistbinder,"['G', 'U']",2,"[""'Creature'""]","[""'Merfolk'"", ""'Shaman'""]",RIX,Uncommon
+1652,Mistcaller,['U'],1,"[""'Creature'""]","[""'Merfolk'"", ""'Wizard'""]",M19,Rare
+1653,Cut Short,['W'],3,"[""'Instant'""]",,MOM,Common
+1654,Elspeth's Smite,['W'],1,"[""'Instant'""]",,MOM,Uncommon
+1655,Anger,['R'],4,"[""'Creature'""]","[""'Incarnation'""]",PZ1,Uncommon
+1656,Anje's Ravager,['R'],3,"[""'Creature'""]","[""'Vampire'"", ""'Berserker'""]",C19,Rare
+1657,Imperial Recruiter,['R'],3,"[""'Creature'""]","[""'Human'"", ""'Advisor'""]",MH2,Mythic
+1658,Spoils of the Vault,['B'],1,"[""'Instant'""]",,MRD,Rare
+1659,Tormod's Crypt,,0,"[""'Artifact'""]",,M15,Uncommon
+1660,Autochthon Wurm,"['G', 'W']",15,"[""'Creature'""]","[""'Wurm'""]",RAV,Rare
+1661,Dwynen's Elite,['G'],2,"[""'Creature'""]","[""'Elf'"", ""'Warrior'""]",ORI,Uncommon
+1662,Elven Chorus,['G'],4,"[""'Enchantment'""]",,LTR,Rare
+1663,Elvish Archdruid,['G'],3,"[""'Creature'""]","[""'Elf'"", ""'Druid'""]",M13,Rare
+1664,Elvish Warmaster,['G'],2,"[""'Creature'""]","[""'Elf'"", ""'Warrior'""]",KHM,Rare
+1665,"Ezuri, Renegade Leader",['G'],3,"[""'Legendary'"", ""'Creature'""]","[""'Elf'"", ""'Warrior'""]",SOM,Rare
+1666,Fire-Lit Thicket,,0,"[""'Land'""]",,SHM,Rare
+1667,Firemind's Research,"['R', 'U']",2,"[""'Enchantment'""]",,PRM,Rare
+1668,Flame Slash,['R'],1,"[""'Sorcery'""]",,ROE,Common
+1669,Graven Cairns,,0,"[""'Land'""]",,FUT,Rare
+1670,Grove of the Burnwillows,,0,"[""'Land'""]",,FUT,Rare
+1671,Heritage Druid,['G'],1,"[""'Creature'""]","[""'Elf'"", ""'Druid'""]",MOR,Uncommon
+1672,Hidden Volcano,,0,"[""'Land'""]","[""'Cave'""]",LCI,Common
+1673,Leaf-Crowned Visionary,['G'],2,"[""'Creature'""]","[""'Elf'"", ""'Druid'""]",DMU,Rare
+1674,"Ral, Izzet Viceroy","['R', 'U']",5,"[""'Legendary'"", ""'Planeswalker'""]","[""'Ral'""]",GRN,Mythic
+1675,Realmwalker,['G'],3,"[""'Creature'""]","[""'Shapeshifter'""]",KHM,Rare
+1676,Repudiate // Replicate,"['U', 'G']",5,"[""'Instant'""]",,RNA,Rare
+1677,Skemfar Shadowsage,['B'],4,"[""'Creature'""]","[""'Elf'"", ""'Cleric'""]",KHM,Uncommon
+1678,Sunken Hollow,,0,"[""'Land'""]","[""'Island'"", ""'Swamp'""]",BFZ,Rare
+1679,Sunscorched Desert,,0,"[""'Land'""]","[""'Desert'""]",AKH,Common
+1680,Throes of Chaos,['R'],4,"[""'Sorcery'""]",,MH1,Uncommon
+1681,Wedding Invitation,,2,"[""'Artifact'""]",,VOW,Common
+1682,"Kaya, Intangible Slayer","['B', 'W']",7,"[""'Legendary'"", ""'Planeswalker'""]","[""'Kaya'""]",ONE,Rare
+1683,Eternal Witness,['G'],3,"[""'Creature'""]","[""'Human'"", ""'Shaman'""]",MMA,Uncommon
+1684,"Laelia, the Blade Reforged",['R'],3,"[""'Legendary'"", ""'Creature'""]","[""'Spirit'"", ""'Warrior'""]",PRM,Rare
+1685,"Lagrella, the Magpie","['G', 'U', 'W']",3,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Soldier'""]",SNC,Uncommon
+1686,Passageway Seer,['B'],4,"[""'Creature'""]","[""'Tiefling'"", ""'Warlock'""]",CLB,Uncommon
+1687,"Shinka, the Bloodsoaked Keep",,0,"[""'Legendary'"", ""'Land'""]",,CHK,Rare
+1688,Battlefield Raptor,['W'],1,"[""'Creature'""]","[""'Bird'""]",KHM,Common
+1689,Gloomshrieker,"['B', 'G']",3,"[""'Enchantment'"", ""'Creature'""]","[""'Cat'"", ""'Beast'""]",NEO,Uncommon
+1690,Wandering Mind,"['R', 'U']",3,"[""'Creature'""]","[""'Horror'""]",VOW,Uncommon
+1691,Festival Crasher,['R'],2,"[""'Creature'""]","[""'Devil'""]",MID,Common
+1692,Fetid Heath,,0,"[""'Land'""]",,EVE,Rare
+1693,Silverquill Silencer,"['B', 'W']",2,"[""'Creature'""]","[""'Human'"", ""'Cleric'""]",STX,Rare
+1694,Magmatic Sinkhole,['R'],6,"[""'Instant'""]",,MH1,Common
+1695,Dragonlord Atarka,"['G', 'R']",7,"[""'Legendary'"", ""'Creature'""]","[""'Elder'"", ""'Dragon'""]",DTK,Mythic
+1696,"Keruga, the Macrosage","['G', 'U']",5,"[""'Legendary'"", ""'Creature'""]","[""'Dinosaur'"", ""'Hippo'""]",MUL,Rare
+1697,Reckless Stormseeker,['R'],3,"[""'Creature'""]","[""'Human'"", ""'Werewolf'""]",MID,Rare
+1698,The Akroan War,['R'],4,"[""'Enchantment'""]","[""'Saga'""]",THB,Rare
+1699,The Huntsman's Redemption,['G'],3,"[""'Enchantment'""]","[""'Saga'""]",WOE,Rare
+1700,Tranquil Frillback,['G'],3,"[""'Creature'""]","[""'Dinosaur'""]",MAT,Rare
+1701,"Atsushi, the Blazing Sky",['R'],4,"[""'Legendary'"", ""'Creature'""]","[""'Dragon'"", ""'Spirit'""]",NEO,Mythic
+1702,"Ob Nixilis, the Adversary","['B', 'R']",3,"[""'Legendary'"", ""'Planeswalker'""]","[""'Nixilis'""]",PRM,Mythic
+1703,Barbarian Ring,,0,"[""'Land'""]",,PD2,Uncommon
+1704,"Breeches, Eager Pillager",['R'],3,"[""'Legendary'"", ""'Creature'""]","[""'Goblin'"", ""'Pirate'""]",LCI,Rare
+1705,Destiny Spinner,['G'],2,"[""'Enchantment'"", ""'Creature'""]","[""'Human'""]",THB,Uncommon
+1706,Pashalik Mons,['R'],3,"[""'Legendary'"", ""'Creature'""]","[""'Goblin'"", ""'Warrior'""]",MH1,Rare
+1707,Punishing Fire,['R'],2,"[""'Instant'""]",,ZEN,Uncommon
+1708,"Tamiyo, Collector of Tales","['G', 'U']",4,"[""'Legendary'"", ""'Planeswalker'""]","[""'Tamiyo'""]",WAR,Rare
+1709,Arbor Elf,['G'],1,"[""'Creature'""]","[""'Elf'"", ""'Druid'""]",A25,Common
+1710,Auriok Champion,['W'],2,"[""'Creature'""]","[""'Human'"", ""'Cleric'""]",5DN,Rare
+1711,Blinkmoth Nexus,,0,"[""'Land'""]",,DST,Rare
+1712,Conclave Mentor,"['G', 'W']",2,"[""'Creature'""]","[""'Centaur'"", ""'Cleric'""]",2X2,Uncommon
+1713,Holdout Settlement,,0,"[""'Land'""]",,OGW,Common
+1714,Indoctrination Attendant,['W'],4,"[""'Creature'""]","[""'Phyrexian'"", ""'Cleric'""]",ONE,Common
+1715,Scoured Barrens,,0,"[""'Land'""]",,MOM,Common
+1716,Silverquill Campus,,0,"[""'Land'""]",,STX,Common
+1717,Snaremaster Sprite,['U'],1,"[""'Creature'""]","[""'Faerie'"", ""'Wizard'""]",WOE,Common
+1718,Doom Foretold,"['B', 'W']",4,"[""'Enchantment'""]",,ELD,Rare
+1719,Kaya's Wrath,"['B', 'W']",4,"[""'Sorcery'""]",,RNA,Rare
+1720,Shambling Vent,,0,"[""'Land'""]",,BFZ,Rare
+1721,Treacherous Blessing,['B'],3,"[""'Enchantment'""]",,THB,Rare
+1722,Wasteland Strangler,,3,"[""'Creature'""]","[""'Eldrazi'"", ""'Processor'""]",BFZ,Rare
+1723,"Yorion, Sky Nomad","['U', 'W']",5,"[""'Legendary'"", ""'Creature'""]","[""'Bird'"", ""'Serpent'""]",MUL,Rare
+1724,Cursed Mirror,['R'],3,"[""'Artifact'""]",,BRC,Rare
+1725,"Gut, True Soul Zealot",['R'],3,"[""'Legendary'"", ""'Creature'""]","[""'Goblin'"", ""'Shaman'""]",CLB,Uncommon
+1726,Vampire Hexmage,['B'],2,"[""'Creature'""]","[""'Vampire'"", ""'Shaman'""]",ZEN,Uncommon
+1727,Arcbound Worker,,1,"[""'Artifact'"", ""'Creature'""]","[""'Construct'""]",MMA,Common
+1728,Raven's Crime,['B'],1,"[""'Sorcery'""]",,MMA,Common
+1729,Ashnod's Altar,,3,"[""'Artifact'""]",,CMM,Uncommon
+1730,Conjurer's Bauble,,1,"[""'Artifact'""]",,5DN,Common
+1731,Crusher Zendikon,['R'],3,"[""'Enchantment'""]","[""'Aura'""]",WWK,Common
+1732,Crystal Grotto,,0,"[""'Land'""]",,WOE,Common
+1733,Energy Refractor,,2,"[""'Artifact'""]",,BRO,Common
+1734,Golem Foundry,,3,"[""'Artifact'""]",,SOM,Common
+1735,Myr Retriever,,2,"[""'Artifact'"", ""'Creature'""]","[""'Myr'""]",2XM,Common
+1736,Polluted Mire,,0,"[""'Land'""]",,DMR,Common
+1737,Rowan's Grim Search,['B'],3,"[""'Instant'""]",,WOE,Common
+1738,Wizard's Rockets,,1,"[""'Artifact'""]",,LTR,Common
+1739,Bloodsoaked Champion,['B'],1,"[""'Creature'""]","[""'Human'"", ""'Warrior'""]",KTK,Rare
+1740,Nighthawk Scavenger,['B'],3,"[""'Creature'""]","[""'Vampire'"", ""'Rogue'""]",ZNR,Rare
+1741,Buried Alive,['B'],3,"[""'Sorcery'""]",,PD3,Uncommon
+1742,Diabolic Vision,"['B', 'U']",2,"[""'Sorcery'""]",,ME2,Uncommon
+1743,Eureka,['G'],4,"[""'Sorcery'""]",,VMA,Mythic
+1744,Faerie Vandal,['U'],2,"[""'Creature'""]","[""'Faerie'"", ""'Rogue'""]",SNC,Uncommon
+1745,"Ghalta, Stampede Tyrant",['G'],8,"[""'Legendary'"", ""'Creature'""]","[""'Elder'"", ""'Dinosaur'""]",LCI,Mythic
+1746,Gravecrawler,['B'],1,"[""'Creature'""]","[""'Zombie'""]",DKA,Rare
+1747,Lim-Dûl's Vault,"['B', 'U']",2,"[""'Instant'""]",,MED,Uncommon
+1748,Annoyed Altisaur,['G'],7,"[""'Creature'""]","[""'Dinosaur'""]",2X2,Common
+1749,Beckon Apparition,"['B', 'W']",1,"[""'Instant'""]",,UMA,Common
+1750,Benevolent Blessing,['W'],2,"[""'Enchantment'""]","[""'Aura'""]",CMR,Common
+1751,Blacksmith's Skill,['W'],1,"[""'Instant'""]",,MH2,Common
+1752,Boomerang,['U'],2,"[""'Instant'""]",,10E,Common
+1753,Deftblade Elite,['W'],1,"[""'Creature'""]","[""'Human'"", ""'Soldier'""]",VMA,Common
+1754,Highland Forest,,0,"[""'Snow'"", ""'Land'""]","[""'Mountain'"", ""'Forest'""]",KHM,Common
+1755,Hyena Umbra,['W'],1,"[""'Enchantment'""]","[""'Aura'""]",2X2,Common
+1756,Jewel Thief,['G'],3,"[""'Creature'""]","[""'Cat'"", ""'Rogue'""]",SNC,Common
+1757,Lagonna-Band Trailblazer,['W'],1,"[""'Creature'""]","[""'Centaur'"", ""'Scout'""]",JOU,Common
+1758,Llanowar Visionary,['G'],3,"[""'Creature'""]","[""'Elf'"", ""'Druid'""]",M21,Common
+1759,Mwonvuli Acid-Moss,['G'],4,"[""'Sorcery'""]",,TSP,Common
+1760,Sentinel's Eyes,['W'],1,"[""'Enchantment'""]","[""'Aura'""]",THB,Common
+1761,Slumbering Keepguard,['W'],1,"[""'Creature'""]","[""'Human'"", ""'Knight'""]",WOE,Common
+1762,Stone Rain,['R'],3,"[""'Sorcery'""]",,9ED,Common
+1763,Thermokarst,['G'],3,"[""'Sorcery'""]",,ME2,Common
+1764,Wild Growth,['G'],1,"[""'Enchantment'""]","[""'Aura'""]",DMR,Common
+1765,Cavalier of Flame,['R'],5,"[""'Creature'""]","[""'Elemental'"", ""'Knight'""]",M20,Mythic
+1766,Sphinx of Foresight,['U'],4,"[""'Creature'""]","[""'Sphinx'""]",RNA,Rare
+1767,Braided Net,['U'],3,"[""'Artifact'""]",,LCI,Rare
+1768,Coppercoat Vanguard,['W'],2,"[""'Creature'""]","[""'Human'"", ""'Soldier'""]",MAT,Uncommon
+1769,Fabrication Foundry,['W'],2,"[""'Artifact'""]",,LCI,Rare
+1770,Glass Casket,['W'],2,"[""'Artifact'""]",,WOE,Uncommon
+1771,Hopeful Initiate,['W'],1,"[""'Creature'""]","[""'Human'"", ""'Warlock'""]",VOW,Rare
+1772,"Katilda, Dawnhart Prime","['G', 'W']",2,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Warlock'""]",MID,Rare
+1773,Market Gnome,['W'],1,"[""'Artifact'"", ""'Creature'""]","[""'Gnome'""]",LCI,Uncommon
+1774,"Melira, the Living Cure","['G', 'W']",2,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Scout'""]",ONE,Rare
+1775,Overgrown Farmland,,0,"[""'Land'""]",,MID,Rare
+1776,Restless Prairie,,0,"[""'Land'""]",,LCI,Rare
+1777,"Sigarda, Font of Blessings","['G', 'W']",4,"[""'Legendary'"", ""'Creature'""]","[""'Angel'""]",MAT,Rare
+1778,Silver Scrutiny,['U'],2,"[""'Sorcery'""]",,DMU,Rare
+1779,Thousand Moons Smithy,['W'],4,"[""'Legendary'"", ""'Artifact'""]",,LCI,Rare
+1780,"Torens, Fist of the Angels","['G', 'W']",3,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Cleric'""]",VOW,Rare
+1781,Unstable Glyphbridge,['W'],5,"[""'Artifact'""]",,LCI,Rare
+1782,"Urza, Lord Protector","['U', 'W']",3,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Artificer'""]",BRO,Mythic
+1783,Gorilla Shaman,['R'],1,"[""'Creature'""]","[""'Ape'"", ""'Shaman'""]",MH2,Uncommon
+1784,Ashen Rider,"['B', 'W']",8,"[""'Creature'""]","[""'Archon'""]",THS,Mythic
+1785,Darkblast,['B'],1,"[""'Instant'""]",,RAV,Uncommon
+1786,Field of the Dead,,0,"[""'Land'""]",,M20,Rare
+1787,Helm of Obedience,,4,"[""'Artifact'""]",,PRM,Rare
+1788,"Indoraptor, the Perfect Hybrid","['B', 'G', 'R']",3,"[""'Legendary'"", ""'Creature'""]","[""'Dinosaur'"", ""'Mutant'""]",REX,Rare
+1789,Peek,['U'],1,"[""'Instant'""]",,10E,Common
+1790,Sire of Insanity,"['B', 'R']",6,"[""'Creature'""]","[""'Demon'""]",DGM,Rare
+1791,Bag of Holding,,1,"[""'Artifact'""]",,AFR,Uncommon
+1792,Crypt Incursion,['B'],3,"[""'Instant'""]",,DGM,Common
+1793,Coiling Oracle,"['G', 'U']",2,"[""'Creature'""]","[""'Snake'"", ""'Elf'"", ""'Druid'""]",RVR,Common
+1794,Family Reunion,['W'],2,"[""'Instant'""]",,LCI,Common
+1795,Gatecreeper Vine,['G'],2,"[""'Creature'""]","[""'Plant'""]",RTR,Common
+1796,Search Party Captain,['W'],4,"[""'Creature'""]","[""'Human'"", ""'Soldier'""]",MID,Common
+1797,Woodland Chasm,,0,"[""'Snow'"", ""'Land'""]","[""'Swamp'"", ""'Forest'""]",KHM,Common
+1798,Kari Zev's Expertise,['R'],3,"[""'Sorcery'""]",,AER,Rare
+1799,"Kutzil, Malamet Exemplar","['G', 'W']",3,"[""'Legendary'"", ""'Creature'""]","[""'Cat'"", ""'Warrior'""]",LCI,Uncommon
+1800,Squirming Emergence,"['B', 'G']",3,"[""'Sorcery'""]",,LCI,Rare
+1801,Courser of Kruphix,['G'],3,"[""'Enchantment'"", ""'Creature'""]","[""'Centaur'""]",BNG,Rare
+1802,Fastbond,['G'],1,"[""'Enchantment'""]",,VMA,Mythic
+1803,Sevinne's Reclamation,['W'],3,"[""'Sorcery'""]",,DMR,Rare
+1804,Valakut Exploration,['R'],3,"[""'Enchantment'""]",,ZNR,Rare
+1805,Basilisk Collar,,1,"[""'Artifact'""]","[""'Equipment'""]",WWK,Rare
+1806,"Kumena, Tyrant of Orazca","['G', 'U']",3,"[""'Legendary'"", ""'Creature'""]","[""'Merfolk'"", ""'Shaman'""]",RIX,Mythic
+1807,Tidehollow Sculler,"['B', 'W']",2,"[""'Artifact'"", ""'Creature'""]","[""'Zombie'""]",MMA,Uncommon
+1808,Unsubstantiate,['U'],2,"[""'Instant'""]",,M21,Uncommon
+1809,Disfigure,['B'],1,"[""'Instant'""]",,BRO,Common
+1810,Expel the Interlopers,['W'],5,"[""'Sorcery'""]",,WOE,Rare
+1811,Apex Devastator,['G'],10,"[""'Creature'""]","[""'Chimera'"", ""'Hydra'""]",CMR,Mythic
+1812,Call Forth the Tempest,['R'],8,"[""'Sorcery'""]",,LTC,Rare
+1813,Creative Technique,['R'],5,"[""'Sorcery'""]",,PRM,Rare
+1814,Hickory Woodlot,,0,"[""'Land'""]",,MM,Common
+1815,Maelstrom Wanderer,"['G', 'R', 'U']",8,"[""'Legendary'"", ""'Creature'""]","[""'Elemental'""]",PC2,Mythic
+1816,Mind's Desire,['U'],6,"[""'Sorcery'""]",,VMA,Rare
+1817,Mossfire Valley,,0,"[""'Land'""]",,OD,Rare
+1818,Scryb Ranger,['G'],2,"[""'Creature'""]","[""'Faerie'"", ""'Ranger'""]",TSR,Uncommon
+1819,Sulfur Vent,,0,"[""'Land'""]",,IN,Common
+1820,Tibalt's Trickery,['R'],2,"[""'Instant'""]",,KHM,Rare
+1821,Archfiend of Ifnir,['B'],5,"[""'Creature'""]","[""'Demon'""]",PRM,Rare
+1822,Harbinger of the Tides,['U'],2,"[""'Creature'""]","[""'Merfolk'"", ""'Wizard'""]",ORI,Rare
+1823,Phyrexia's Core,,0,"[""'Land'""]",,NPH,Uncommon
+1824,Exclude,['U'],3,"[""'Instant'""]",,CMM,Common
+1825,Fathom Seer,['U'],2,"[""'Creature'""]","[""'Illusion'""]",TSR,Common
+1826,Myr Kinsmith,,4,"[""'Artifact'"", ""'Creature'""]","[""'Myr'""]",ONE,Common
+1827,Armored Scrapgorger,['G'],2,"[""'Creature'""]","[""'Phyrexian'"", ""'Beast'""]",ONE,Uncommon
+1828,Cabaretti Courtyard,,0,"[""'Land'""]",,SNC,Common
+1829,Elspeth's Nightmare,['B'],3,"[""'Enchantment'""]","[""'Saga'""]",THB,Uncommon
+1830,Furnace Reins,['R'],3,"[""'Sorcery'""]",,MOM,Uncommon
+1831,Genesis Ultimatum,"['G', 'R', 'U']",7,"[""'Sorcery'""]",,IKO,Rare
+1832,Immersturm Skullcairn,,0,"[""'Land'""]",,KHM,Uncommon
+1833,"Koma, Cosmos Serpent","['G', 'U']",7,"[""'Legendary'"", ""'Creature'""]","[""'Serpent'""]",KHM,Mythic
+1834,Lofty Denial,['U'],2,"[""'Instant'""]",,M21,Common
+1835,Saw It Coming,['U'],3,"[""'Instant'""]",,KHM,Uncommon
+1836,Selfless Spirit,['W'],2,"[""'Creature'""]","[""'Spirit'"", ""'Cleric'""]",EMN,Rare
+1837,"Shigeki, Jukai Visionary",['G'],2,"[""'Legendary'"", ""'Enchantment'"", ""'Creature'""]","[""'Snake'"", ""'Druid'""]",NEO,Rare
+1838,Spring // Mind,['G'],9,"[""'Sorcery'""]",,AKH,Uncommon
+1839,Stern Lesson,['U'],3,"[""'Instant'""]",,BRO,Common
+1840,The Dross Pits,,0,"[""'Land'""]","[""'Sphere'""]",ONE,Common
+1841,Void Shatter,,3,"[""'Instant'""]",,OGW,Uncommon
+1842,"Yasharn, Implacable Earth","['G', 'W']",4,"[""'Legendary'"", ""'Creature'""]","[""'Elemental'"", ""'Boar'""]",ZNR,Rare
+1843,"Zahid, Djinn of the Lamp",['U'],6,"[""'Legendary'"", ""'Creature'""]","[""'Djinn'""]",CMM,Uncommon
+1844,Syncopate,['U'],1,"[""'Instant'""]",,VOW,Common
+1845,Hullbreaker Horror,['U'],7,"[""'Creature'""]","[""'Kraken'"", ""'Horror'""]",VOW,Rare
+1846,Not of This World,,7,"[""'Tribal'"", ""'Instant'""]","[""'Eldrazi'""]",ROE,Uncommon
+1847,Foil,['U'],4,"[""'Instant'""]",,UMA,Common
+1848,Frantic Inventory,['U'],2,"[""'Instant'""]",,M21,Common
+1849,Fungal Infection,['B'],1,"[""'Instant'""]",,DAR,Common
+1850,Goblin Wizardry,['R'],4,"[""'Instant'""]",,M21,Common
+1851,Sage's Row Denizen,['U'],3,"[""'Creature'""]","[""'Vedalken'"", ""'Wizard'""]",M20,Common
+1852,Alseid of Life's Bounty,['W'],1,"[""'Enchantment'"", ""'Creature'""]","[""'Nymph'""]",THB,Uncommon
+1853,Angel of Serenity,['W'],7,"[""'Creature'""]","[""'Angel'""]",RTR,Mythic
+1854,Cavalier of Dawn,['W'],5,"[""'Creature'""]","[""'Elemental'"", ""'Knight'""]",M20,Mythic
+1855,"Chandra, Torch of Defiance",['R'],4,"[""'Legendary'"", ""'Planeswalker'""]","[""'Chandra'""]",KLD,Mythic
+1856,Interplanar Beacon,,0,"[""'Land'""]",,WAR,Uncommon
+1857,Isolated Chapel,,0,"[""'Land'""]",,DAR,Rare
+1858,Rimrock Knight,['R'],2,"[""'Creature'""]","[""'Dwarf'"", ""'Knight'""]",ELD,Common
+1859,Soul Partition,['W'],2,"[""'Instant'""]",,BRO,Rare
+1860,The Enigma Jewel,['U'],1,"[""'Legendary'"", ""'Artifact'""]",,LCI,Mythic
+1861,Infernal Grasp,['B'],2,"[""'Instant'""]",,MID,Uncommon
+1862,Feed the Swarm,['B'],2,"[""'Sorcery'""]",,ZNR,Common
+1863,"Chimil, the Inner Sun",,6,"[""'Legendary'"", ""'Artifact'""]",,LCC,Mythic
+1864,Dwarven Ruins,,0,"[""'Land'""]",,ME2,Uncommon
+1865,Hidden Cataract,,0,"[""'Land'""]","[""'Cave'""]",LCI,Common
+1866,Ipnu Rivulet,,0,"[""'Land'""]","[""'Desert'""]",HOU,Uncommon
+1867,One with the Multiverse,['U'],8,"[""'Enchantment'""]",,BRO,Mythic
+1868,Sakashima's Protege,['U'],6,"[""'Creature'""]","[""'Shapeshifter'""]",CMR,Rare
+1869,Smallpox,['B'],2,"[""'Sorcery'""]",,TSR,Uncommon
+1870,Summer Bloom,['G'],2,"[""'Sorcery'""]",,2X2,Uncommon
+1871,Cuombajj Witches,['B'],2,"[""'Creature'""]","[""'Human'"", ""'Wizard'""]",PRM,Common
+1872,Gray Merchant of Asphodel,['B'],5,"[""'Creature'""]","[""'Zombie'""]",THS,Common
+1873,Improvised Club,['R'],2,"[""'Instant'""]",,LTR,Common
+1874,Oblivion Ring,['W'],3,"[""'Enchantment'""]",,TD0,Common
+1875,Pestilence,['B'],4,"[""'Enchantment'""]",,UZ,Common
+1876,Slagwoods Bridge,,0,"[""'Artifact'"", ""'Land'""]",,MH2,Common
+1877,Vault Skirge,['B'],2,"[""'Artifact'"", ""'Creature'""]","[""'Phyrexian'"", ""'Imp'""]",NPH,Common
+1878,Ghor-Clan Rampager,"['G', 'R']",4,"[""'Creature'""]","[""'Beast'""]",2XM,Uncommon
+1879,Selfless Samurai,['W'],2,"[""'Creature'""]","[""'Fox'"", ""'Samurai'""]",NEO,Uncommon
+1880,Siege Rhino,"['B', 'G', 'W']",4,"[""'Creature'""]","[""'Rhino'""]",KTK,Rare
+1881,"Thrun, Breaker of Silence",['G'],5,"[""'Legendary'"", ""'Creature'""]","[""'Troll'"", ""'Shaman'""]",ONE,Rare
+1882,"Trelasarra, Moon Dancer","['G', 'W']",2,"[""'Legendary'"", ""'Creature'""]","[""'Elf'"", ""'Cleric'""]",AFR,Uncommon
+1883,Vanquish the Horde,['W'],8,"[""'Sorcery'""]",,MID,Rare
+1884,Void Rend,"['B', 'U', 'W']",3,"[""'Instant'""]",,SNC,Rare
+1885,Hall of Heliod's Generosity,,0,"[""'Legendary'"", ""'Land'""]",,MH1,Rare
+1886,Pelakka Predation,['B'],3,"[""'Sorcery'""]",,ZNR,Uncommon
+1887,Ruby Medallion,,2,"[""'Artifact'""]",,CMM,Rare
+1888,Shriekmaw,['B'],5,"[""'Creature'""]","[""'Elemental'""]",LRW,Uncommon
+1889,Smokestack,,4,"[""'Artifact'""]",,VMA,Rare
+1890,Standstill,['U'],2,"[""'Enchantment'""]",,OD,Uncommon
+1891,Artful Dodge,['U'],1,"[""'Sorcery'""]",,DKA,Common
+1892,Devour Flesh,['B'],2,"[""'Instant'""]",,GTC,Common
+1893,Dinrova Horror,"['B', 'U']",6,"[""'Creature'""]","[""'Horror'""]",MM3,Common
+1894,Goblin Sledder,['R'],1,"[""'Creature'""]","[""'Goblin'""]",ONS,Common
+1895,Remote Isle,,0,"[""'Land'""]",,DMR,Common
+1896,Runaway Boulder,,6,"[""'Artifact'""]",,LCI,Common
+1897,Soul Manipulation,"['B', 'U']",3,"[""'Instant'""]",,ARB,Common
+1898,Unwind,['U'],3,"[""'Instant'""]",,DAR,Common
+1899,Blossoming Tortoise,['G'],4,"[""'Creature'""]","[""'Turtle'""]",WOE,Mythic
+1900,Sentinel of Lost Lore,['G'],3,"[""'Creature'""]","[""'Elf'"", ""'Knight'""]",WOE,Rare
+1901,Fragmentize,['W'],1,"[""'Sorcery'""]",,KLD,Common
+1902,Fauna Shaman,['G'],2,"[""'Creature'""]","[""'Elf'"", ""'Shaman'""]",BRO,Rare
+1903,Ideas Unbound,['U'],2,"[""'Sorcery'""]","[""'Arcane'""]",SOK,Common
+1904,Abundant Harvest,['G'],1,"[""'Sorcery'""]",,MH2,Common
+1905,Cinder Glade,,0,"[""'Land'""]","[""'Mountain'"", ""'Forest'""]",BFZ,Rare
+1906,Force of Virtue,['W'],4,"[""'Enchantment'""]",,MH1,Rare
+1907,Lingering Souls,['W'],3,"[""'Sorcery'""]",,DKA,Uncommon
+1908,Lonely Sandbar,,0,"[""'Land'""]",,VMA,Common
+1909,Recross the Paths,['G'],3,"[""'Sorcery'""]",,MOR,Uncommon
+1910,Selective Memory,['U'],4,"[""'Sorcery'""]",,WWK,Rare
+1911,Tangled Florahedron,['G'],2,"[""'Creature'""]","[""'Elemental'""]",ZNR,Uncommon
+1912,Throne of the God-Pharaoh,,2,"[""'Legendary'"", ""'Artifact'""]",,AKH,Rare
+1913,Twiddle,['U'],1,"[""'Instant'""]",,8ED,Common
+1914,Undying Malice,['B'],1,"[""'Instant'""]",,VOW,Common
+1915,Dreams of Steel and Oil,['B'],1,"[""'Sorcery'""]",,BRO,Uncommon
+1916,Halo Forager,"['B', 'U']",3,"[""'Creature'""]","[""'Faerie'"", ""'Rogue'""]",MOM,Uncommon
+1917,Acererak the Archlich,['B'],3,"[""'Legendary'"", ""'Creature'""]","[""'Zombie'"", ""'Wizard'""]",AFR,Mythic
+1918,Blue Elemental Blast,['U'],1,"[""'Instant'""]",,PRM,Uncommon
+1919,Carpet of Flowers,['G'],1,"[""'Enchantment'""]",,UZ,Uncommon
+1920,Choke,['G'],3,"[""'Enchantment'""]",,8ED,Uncommon
+1921,Deafening Silence,['W'],1,"[""'Enchantment'""]",,ELD,Uncommon
+1922,Faerie Macabre,['B'],3,"[""'Creature'""]","[""'Faerie'"", ""'Rogue'""]",MMA,Common
+1923,Fiery Confluence,['R'],4,"[""'Sorcery'""]",,PZ1,Rare
+1924,Fire Covenant,"['B', 'R']",3,"[""'Instant'""]",,MED,Uncommon
+1925,Foundation Breaker,['G'],4,"[""'Creature'""]","[""'Elemental'""]",MH2,Uncommon
+1926,Hydroblast,['U'],1,"[""'Instant'""]",,PRM,Common
+1927,Inevitable Betrayal,['U'],0,"[""'Sorcery'""]",,MH2,Rare
+1928,Meltdown,['R'],1,"[""'Sorcery'""]",,UZ,Uncommon
+1929,Phyrexian Censor,['W'],3,"[""'Creature'""]","[""'Phyrexian'"", ""'Wizard'""]",MOM,Uncommon
+1930,Powder Keg,,2,"[""'Artifact'""]",,UD,Rare
+1931,Propaganda,['U'],3,"[""'Enchantment'""]",,PZ1,Uncommon
+1932,Seeds of Innocence,['G'],3,"[""'Sorcery'""]",,MI,Rare
+1933,Serenity,['W'],2,"[""'Enchantment'""]",,WL,Rare
+1934,Sulfuric Vortex,['R'],3,"[""'Enchantment'""]",,VMA,Rare
+1935,Toxic Deluge,['B'],3,"[""'Sorcery'""]",,PZ1,Rare
+1936,Void Mirror,,2,"[""'Artifact'""]",,MH2,Rare
+1937,Alpine Moon,['R'],1,"[""'Enchantment'""]",,M19,Rare
+1938,Burrenton Forge-Tender,['W'],1,"[""'Creature'""]","[""'Kithkin'"", ""'Wizard'""]",LRW,Uncommon
+1939,Commandeer,['U'],7,"[""'Instant'""]",,CSP,Rare
+1940,Cursed Totem,,2,"[""'Artifact'""]",,MH2,Rare
+1941,Damping Matrix,,3,"[""'Artifact'""]",,MRD,Rare
+1942,Damping Sphere,,2,"[""'Artifact'""]",,DAR,Uncommon
+1943,"Elesh Norn, Grand Cenobite",['W'],7,"[""'Legendary'"", ""'Creature'""]","[""'Phyrexian'"", ""'Praetor'""]",NPH,Mythic
+1944,Ertai's Scorn,['U'],3,"[""'Instant'""]",,DMU,Uncommon
+1945,Hidetsugu Consumes All,"['B', 'R']",3,"[""'Enchantment'""]","[""'Saga'""]",NEO,Mythic
+1946,Invasive Surgery,['U'],1,"[""'Instant'""]",,SOI,Uncommon
+1947,"Kaheera, the Orphanguard","['G', 'W']",3,"[""'Legendary'"", ""'Creature'""]","[""'Cat'"", ""'Beast'""]",IKO,Rare
+1948,Natural State,['G'],1,"[""'Instant'""]",,OGW,Common
+1949,Necroplasm,['B'],3,"[""'Creature'""]","[""'Ooze'""]",RAV,Rare
+1950,Obsidian Charmaw,['R'],5,"[""'Creature'""]","[""'Dragon'""]",MH2,Rare
+1951,Reclamation Sage,['G'],3,"[""'Creature'""]","[""'Elf'"", ""'Shaman'""]",CMR,Uncommon
+1952,Rest in Peace,['W'],2,"[""'Enchantment'""]",,WOT,Rare
+1953,Tamiyo's Safekeeping,['G'],1,"[""'Instant'""]",,NEO,Common
+1954,Terastodon,['G'],8,"[""'Creature'""]","[""'Elephant'""]",PD3,Rare
+1955,Timely Reinforcements,['W'],3,"[""'Sorcery'""]",,M12,Uncommon
+1956,Wear // Tear,['R'],3,"[""'Instant'""]",,DGM,Uncommon
+1957,Active Volcano,['R'],1,"[""'Instant'""]",,ME3,Uncommon
+1958,Annul,['U'],1,"[""'Instant'""]",,KHM,Common
+1959,Arashin Cleric,['W'],2,"[""'Creature'""]","[""'Human'"", ""'Cleric'""]",FRF,Common
+1960,Curse of the Bloody Tome,['U'],3,"[""'Enchantment'""]","[""'Aura'"", ""'Curse'""]",ISD,Common
+1961,Flaring Pain,['R'],2,"[""'Instant'""]",,JUD,Common
+1962,Lifelink,['W'],1,"[""'Enchantment'""]","[""'Aura'""]",M12,Common
+1963,Return to Nature,['G'],2,"[""'Instant'""]",,MID,Common
+1964,Seal of Primordium,['G'],2,"[""'Enchantment'""]",,TSR,Common
+1965,Smash to Smithereens,['R'],2,"[""'Instant'""]",,PRM,Common
+1966,Spirit Link,['W'],1,"[""'Enchantment'""]","[""'Aura'""]",DMR,Common
+1967,Stormbound Geist,['U'],3,"[""'Creature'""]","[""'Spirit'""]",DKA,Common
+1968,Underworld Rage-Hound,['R'],2,"[""'Creature'""]","[""'Elemental'"", ""'Dog'""]",THB,Common
+1969,Vitality Charm,['G'],1,"[""'Instant'""]",,ONS,Common
+1970,Adanto Vanguard,['W'],2,"[""'Creature'""]","[""'Vampire'"", ""'Soldier'""]",XLN,Uncommon
+1971,Aether Gust,['U'],2,"[""'Instant'""]",,M20,Uncommon
+1972,Anger of the Gods,['R'],3,"[""'Sorcery'""]",,2X2,Rare
+1973,"Brimaz, King of Oreskos",['W'],3,"[""'Legendary'"", ""'Creature'""]","[""'Cat'"", ""'Soldier'""]",BNG,Mythic
+1974,Crackling Drake,"['R', 'U']",4,"[""'Creature'""]","[""'Drake'""]",GRN,Uncommon
+1975,Disdainful Stroke,['U'],2,"[""'Instant'""]",,SNC,Common
+1976,Dragonlord Dromoka,"['G', 'W']",6,"[""'Legendary'"", ""'Creature'""]","[""'Elder'"", ""'Dragon'""]",DTK,Mythic
+1977,Dream Trawler,"['U', 'W']",6,"[""'Creature'""]","[""'Sphinx'""]",THB,Rare
+1978,Eidolon of Rhetoric,['W'],3,"[""'Enchantment'"", ""'Creature'""]","[""'Spirit'""]",JOU,Uncommon
+1979,Goblin Chainwhirler,['R'],3,"[""'Creature'""]","[""'Goblin'"", ""'Warrior'""]",DAR,Rare
+1980,Hushbringer,['W'],2,"[""'Creature'""]","[""'Faerie'""]",ELD,Rare
+1981,"Jegantha, the Wellspring","['G', 'R']",5,"[""'Legendary'"", ""'Creature'""]","[""'Elemental'"", ""'Elk'""]",IKO,Rare
+1982,Languish,['B'],4,"[""'Sorcery'""]",,ORI,Rare
+1983,Leyline of Sanctity,['W'],4,"[""'Enchantment'""]",,M11,Rare
+1984,Narset's Reversal,['U'],2,"[""'Instant'""]",,WAR,Rare
+1985,"Obosh, the Preypiercer","['B', 'R']",5,"[""'Legendary'"", ""'Creature'""]","[""'Hellion'"", ""'Horror'""]",IKO,Rare
+1986,Regal Caracal,['W'],5,"[""'Creature'""]","[""'Cat'""]",AKH,Rare
+1987,Rending Volley,['R'],1,"[""'Instant'""]",,DTK,Uncommon
+1988,"Saheeli, Sublime Artificer","['R', 'U']",3,"[""'Legendary'"", ""'Planeswalker'""]","[""'Saheeli'""]",WAR,Uncommon
+1989,Showdown of the Skalds,"['R', 'W']",4,"[""'Enchantment'""]","[""'Saga'""]",KHM,Rare
+1990,Summary Dismissal,['U'],4,"[""'Instant'""]",,EMN,Rare
+1991,Test of Talents,['U'],2,"[""'Instant'""]",,STX,Uncommon
+1992,Witness Protection,['U'],1,"[""'Enchantment'""]","[""'Aura'""]",SNC,Common
+1993,Knockout Blow,['W'],3,"[""'Instant'""]",,SNC,Uncommon
+1994,Lithomantic Barrage,['R'],1,"[""'Sorcery'""]",,MOM,Uncommon
+1995,Phyrexian Arena,['B'],3,"[""'Enchantment'""]",,ONE,Rare
+1996,Urabrask's Forge,['R'],3,"[""'Artifact'""]",,ONE,Rare
+1997,Argentum Masticore,,5,"[""'Artifact'"", ""'Creature'""]","[""'Phyrexian'"", ""'Masticore'""]",ONE,Rare
+1998,Mycosynth Lattice,,6,"[""'Artifact'""]",,DST,Rare
+1999,Court of Ardenvale,['W'],4,"[""'Enchantment'""]",,WOC,Rare
+2000,Curse of Silence,['W'],1,"[""'Enchantment'""]","[""'Aura'"", ""'Curse'""]",MID,Rare
+2001,"Iona, Shield of Emeria",['W'],9,"[""'Legendary'"", ""'Creature'""]","[""'Angel'""]",ZEN,Mythic
+2002,Kiora's Dismissal,['U'],1,"[""'Instant'""]",,JOU,Uncommon
+2003,Stern Dismissal,['U'],1,"[""'Instant'""]",,THB,Common
+2004,Submerge,['U'],5,"[""'Instant'""]",,NE,Uncommon
+2005,Tivadar of Thorn,['W'],3,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Knight'""]",TSP,Rare
+2006,"Tourach, Dread Cantor",['B'],2,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Cleric'""]",MH2,Mythic
+2007,Winter Orb,,2,"[""'Artifact'""]",,MED,Rare
+2008,Ancient Grudge,['R'],2,"[""'Instant'""]",,TSR,Common
+2009,Celestial Purge,['W'],2,"[""'Instant'""]",,MM2,Uncommon
+2010,Crack the Earth,['R'],1,"[""'Sorcery'""]","[""'Arcane'""]",BOK,Common
+2011,Drannith Magistrate,['W'],2,"[""'Creature'""]","[""'Human'"", ""'Wizard'""]",IKO,Rare
+2012,Eliminate,['B'],2,"[""'Instant'""]",,STA,Uncommon
+2013,Extirpate,['B'],1,"[""'Instant'""]",,PLC,Rare
+2014,Liquimetal Coating,,2,"[""'Artifact'""]",,BRR,Uncommon
+2015,Sanctifier en-Vec,['W'],2,"[""'Creature'""]","[""'Human'"", ""'Cleric'""]",MH2,Rare
+2016,Spellskite,,2,"[""'Artifact'"", ""'Creature'""]","[""'Phyrexian'"", ""'Horror'""]",NPH,Rare
+2017,Sundering Titan,,8,"[""'Artifact'"", ""'Creature'""]","[""'Golem'""]",DST,Rare
+2018,Circle of Protection: Blue,['W'],2,"[""'Enchantment'""]",,8ED,Uncommon
+2019,Coalition Honor Guard,['W'],4,"[""'Creature'""]","[""'Human'"", ""'Flagbearer'""]",EMA,Common
+2020,Crimson Acolyte,['W'],2,"[""'Creature'""]","[""'Human'"", ""'Cleric'""]",IN,Common
+2021,Curse of Chains,"['U', 'W']",2,"[""'Enchantment'""]","[""'Aura'""]",SHM,Common
+2022,Dust to Dust,['W'],3,"[""'Sorcery'""]",,MED,Common
+2023,Envelop,['U'],1,"[""'Instant'""]",,JUD,Common
+2024,Introduction to Prophecy,,3,"[""'Sorcery'""]","[""'Lesson'""]",STX,Common
+2025,Last Breath,['W'],2,"[""'Instant'""]",,2X2,Common
+2026,Nature's Chant,"['G', 'W']",2,"[""'Instant'""]",,MH1,Common
+2027,Obsidian Acolyte,['W'],2,"[""'Creature'""]","[""'Human'"", ""'Cleric'""]",IN,Common
+2028,Rotten Reunion,['B'],1,"[""'Instant'""]",,MID,Common
+2029,Scattershot Archer,['G'],1,"[""'Creature'""]","[""'Elf'"", ""'Archer'""]",CON,Common
+2030,Standard Bearer,['W'],2,"[""'Creature'""]","[""'Human'"", ""'Flagbearer'""]",AP,Common
+2031,Steel Sabotage,['U'],1,"[""'Instant'""]",,2XM,Common
+2032,Tectonic Hazard,['R'],1,"[""'Sorcery'""]",,LCI,Common
+2033,Troublemaker Ouphe,['G'],2,"[""'Creature'""]","[""'Ouphe'""]",WOE,Common
+2034,"Ashiok, Dream Render","['B', 'U']",3,"[""'Legendary'"", ""'Planeswalker'""]","[""'Ashiok'""]",WAR,Uncommon
+2035,Banewhip Punisher,['B'],3,"[""'Creature'""]","[""'Human'"", ""'Warrior'""]",HOU,Uncommon
+2036,Knight of Dusk's Shadow,['B'],2,"[""'Creature'""]","[""'Human'"", ""'Knight'""]",DMU,Uncommon
+2037,Nimble Larcenist,"['B', 'U', 'W']",3,"[""'Creature'""]","[""'Bird'"", ""'Rogue'""]",SNC,Uncommon
+2038,Notion Thief,"['B', 'U']",4,"[""'Creature'""]","[""'Human'"", ""'Rogue'""]",DGM,Rare
+2039,Ray of Enfeeblement,['B'],1,"[""'Instant'""]",,AFR,Uncommon
+2040,"Reidane, God of the Worthy",['W'],3,"[""'Legendary'"", ""'Creature'""]","[""'God'""]",KHM,Rare
+2041,Remorseful Cleric,['W'],2,"[""'Creature'""]","[""'Spirit'"", ""'Cleric'""]",M19,Rare
+2042,Young Pyromancer,['R'],2,"[""'Creature'""]","[""'Human'"", ""'Shaman'""]",2X2,Uncommon
+2043,Boon-Bringer Valkyrie,['W'],5,"[""'Creature'""]","[""'Angel'"", ""'Warrior'""]",MOM,Rare
+2044,"Kura, the Boundless Sky",['G'],5,"[""'Legendary'"", ""'Creature'""]","[""'Dragon'"", ""'Spirit'""]",NEO,Mythic
+2045,Malicious Eclipse,['B'],3,"[""'Sorcery'""]",,LCI,Uncommon
+2046,Metropolis Reformer,['W'],3,"[""'Creature'""]","[""'Angel'"", ""'Cleric'""]",MAT,Rare
+2047,Obstinate Baloth,['G'],4,"[""'Creature'""]","[""'Beast'""]",BRO,Uncommon
+2048,Pilfer,['B'],2,"[""'Sorcery'""]",,DMU,Uncommon
+2049,Rebel Salvo,['R'],3,"[""'Instant'""]",,ONE,Uncommon
+2050,Sunset Revelry,['W'],2,"[""'Sorcery'""]",,MID,Uncommon
+2051,Twisted Fealty,['R'],3,"[""'Sorcery'""]",,WOE,Uncommon
+2052,Archon of Absolution,['W'],4,"[""'Creature'""]","[""'Archon'""]",ELD,Uncommon
+2053,Lurrus of the Dream-Den,"['B', 'W']",3,"[""'Legendary'"", ""'Creature'""]","[""'Cat'"", ""'Nightmare'""]",IKO,Rare
+2054,Soul Rend,['B'],2,"[""'Instant'""]",,MI,Uncommon
+2055,Tarfire,['R'],1,"[""'Tribal'"", ""'Instant'""]","[""'Goblin'""]",LRW,Common
+2056,Chill,['U'],2,"[""'Enchantment'""]",,TE,Uncommon
+2057,Court of Cunning,['U'],3,"[""'Enchantment'""]",,PRM,Rare
+2058,Dead of Winter,['B'],3,"[""'Sorcery'""]",,MH1,Rare
+2059,Force of Despair,['B'],3,"[""'Instant'""]",,MH1,Rare
+2060,Goblin Settler,['R'],4,"[""'Creature'""]","[""'Goblin'""]",VMA,Uncommon
+2061,Maddening Hex,['R'],3,"[""'Enchantment'""]","[""'Aura'"", ""'Curse'""]",AFC,Rare
+2062,Peer into the Abyss,['B'],7,"[""'Sorcery'""]",,M21,Rare
+2063,Professor Onyx,['B'],6,"[""'Legendary'"", ""'Planeswalker'""]","[""'Liliana'""]",STX,Mythic
+2064,Rough // Tumble,['R'],8,"[""'Sorcery'""]",,TSR,Uncommon
+2065,Sudden Edict,['B'],2,"[""'Instant'""]",,MH2,Uncommon
+2066,Surge Node,,1,"[""'Artifact'""]",,2XM,Common
+2067,Firespout,"['G', 'R']",3,"[""'Sorcery'""]",,SHM,Uncommon
+2068,Geist of Saint Traft,"['U', 'W']",3,"[""'Legendary'"", ""'Creature'""]","[""'Spirit'"", ""'Cleric'""]",ISD,Mythic
+2069,Ingot Chewer,['R'],5,"[""'Creature'""]","[""'Elemental'""]",UMA,Common
+2070,Nature's Claim,['G'],1,"[""'Instant'""]",,EMA,Common
+2071,Necromentia,['B'],3,"[""'Sorcery'""]",,M21,Rare
+2072,Shattering Spree,['R'],1,"[""'Sorcery'""]",,GPT,Uncommon
+2073,Storm's Wrath,['R'],4,"[""'Sorcery'""]",,THB,Rare
+2074,Void Snare,['U'],1,"[""'Sorcery'""]",,M15,Common
+2075,Deglamer,['G'],2,"[""'Instant'""]",,MOR,Common
+2076,Out of Air,['U'],4,"[""'Instant'""]",,LCI,Common
+2077,Ray of Revelation,['W'],2,"[""'Instant'""]",,DKA,Common
+2078,Raze the Effigy,['R'],1,"[""'Instant'""]",,MID,Common
+2079,Unmake,"['B', 'W']",3,"[""'Instant'""]",,EVE,Common
+2080,Banefire,['R'],1,"[""'Sorcery'""]",,M19,Rare
+2081,Doom Whisperer,['B'],5,"[""'Creature'""]","[""'Nightmare'"", ""'Demon'""]",GRN,Mythic
+2082,Callous Sell-Sword,['B'],2,"[""'Creature'""]","[""'Human'"", ""'Soldier'""]",WOE,Uncommon
+2083,Circle of Confinement,['W'],2,"[""'Enchantment'""]",,VOW,Uncommon
+2084,Dreadmaw's Ire,['R'],1,"[""'Instant'""]",,LCI,Uncommon
+2085,Glistening Deluge,['B'],3,"[""'Sorcery'""]",,MOM,Uncommon
+2086,Night Clubber,['B'],3,"[""'Creature'""]","[""'Human'"", ""'Warrior'""]",SNC,Uncommon
+2087,Parasitic Grasp,['B'],2,"[""'Instant'""]",,VOW,Uncommon
+2088,Firemind's Foresight,"['R', 'U']",7,"[""'Instant'""]",,RTR,Rare
+2089,Ruination,['R'],4,"[""'Sorcery'""]",,ST,Rare
+2090,Shared Summons,['G'],5,"[""'Instant'""]",,M20,Rare
+2091,Sublime Epiphany,['U'],6,"[""'Instant'""]",,M21,Rare
+2092,Thran Foundry,,1,"[""'Artifact'""]",,UD,Uncommon
+2093,Wipe Away,['U'],3,"[""'Instant'""]",,TSR,Uncommon
+2094,Blossoming Calm,['W'],1,"[""'Instant'""]",,MH2,Uncommon
+2095,Exquisite Firecraft,['R'],3,"[""'Sorcery'""]",,ORI,Rare
+2096,Oust,['W'],1,"[""'Sorcery'""]",,ROE,Uncommon
+2097,Searing Blood,['R'],2,"[""'Instant'""]",,BNG,Uncommon
+2098,The Filigree Sylex,,2,"[""'Legendary'"", ""'Artifact'""]",,ONE,Rare
+2099,Coffin Purge,['B'],1,"[""'Instant'""]",,OD,Common
+2100,Ghostfire,,3,"[""'Instant'""]",,FUT,Common
+2101,Keep Watch,['U'],3,"[""'Instant'""]",,JUD,Common
+2102,Revoke Existence,['W'],2,"[""'Sorcery'""]",,2XM,Common
+2103,Wilt,['G'],2,"[""'Instant'""]",,IKO,Common
+2104,Wrap in Vigor,['G'],2,"[""'Instant'""]",,FUT,Common
+2105,Cinderclasm,['R'],2,"[""'Instant'""]",,ZNR,Uncommon
+2106,Dark Betrayal,['B'],1,"[""'Instant'""]",,THS,Uncommon
+2107,Giant Cindermaw,['R'],3,"[""'Creature'""]","[""'Dinosaur'"", ""'Beast'""]",BRO,Uncommon
+2108,"Jaya, Fiery Negotiator",['R'],4,"[""'Legendary'"", ""'Planeswalker'""]","[""'Jaya'""]",DMU,Mythic
+2109,"Koth, Fire of Resistance",['R'],4,"[""'Legendary'"", ""'Planeswalker'""]","[""'Koth'""]",ONE,Rare
+2110,Lantern Flare,['W'],2,"[""'Instant'""]",,VOW,Rare
+2111,Obscura Interceptor,"['B', 'U', 'W']",4,"[""'Creature'""]","[""'Cephalid'"", ""'Wizard'""]",SNC,Rare
+2112,Virtue's Ruin,['B'],3,"[""'Sorcery'""]",,V14,Mythic
+2113,Crime // Punishment,"['W', 'B']",7,"[""'Sorcery'""]",,DIS,Rare
+2114,Elixir of Immortality,,1,"[""'Artifact'""]",,M14,Uncommon
+2115,Balance,['W'],2,"[""'Sorcery'""]",,VMA,Mythic
+2116,Sickening Shoal,['B'],2,"[""'Instant'""]","[""'Arcane'""]",BOK,Rare
+2117,Sphinx of the Steel Wind,"['B', 'U', 'W']",8,"[""'Artifact'"", ""'Creature'""]","[""'Sphinx'""]",PD3,Mythic
+2118,Choking Sands,['B'],3,"[""'Sorcery'""]",,VMA,Common
+2119,Echoing Ruin,['R'],2,"[""'Sorcery'""]",,DST,Common
+2120,Geth's Verdict,['B'],2,"[""'Instant'""]",,NPH,Common
+2121,Shrivel,['B'],2,"[""'Sorcery'""]",,MM2,Common
+2122,Trespasser's Curse,['B'],2,"[""'Enchantment'""]","[""'Aura'"", ""'Curse'""]",AKH,Common
+2123,Cathar Commando,['W'],2,"[""'Creature'""]","[""'Human'"", ""'Soldier'""]",MID,Common
+2124,Destructive Revelry,"['G', 'R']",2,"[""'Instant'""]",,THS,Uncommon
+2125,Thought Distortion,['B'],6,"[""'Sorcery'""]",,M20,Uncommon
+2126,By Force,['R'],1,"[""'Sorcery'""]",,AKH,Uncommon
+2127,Fracture,"['B', 'W']",2,"[""'Instant'""]",,STX,Uncommon
+2128,Rootpath Purifier,['G'],4,"[""'Creature'""]","[""'Elf'"", ""'Druid'""]",PRM,Mythic
+2129,Aria of Flame,['R'],3,"[""'Enchantment'""]",,MH1,Rare
+2130,Essence Warden,['G'],1,"[""'Creature'""]","[""'Elf'"", ""'Shaman'""]",PLC,Common
+2131,Hijack,['R'],3,"[""'Sorcery'""]",,XLN,Common
+2132,Wicked Akuba,['B'],2,"[""'Creature'""]","[""'Spirit'""]",CHK,Common
+2133,Guardian of Faith,['W'],3,"[""'Creature'""]","[""'Spirit'"", ""'Knight'""]",AFR,Rare
+2134,Ritual of Soot,['B'],4,"[""'Sorcery'""]",,GRN,Rare
+2135,"Ruric Thar, the Unbowed","['G', 'R']",6,"[""'Legendary'"", ""'Creature'""]","[""'Ogre'"", ""'Warrior'""]",2X2,Rare
+2136,Stormbreath Dragon,['R'],5,"[""'Creature'""]","[""'Dragon'""]",THS,Mythic
+2137,Tainted Remedy,['B'],3,"[""'Enchantment'""]",,ORI,Rare
+2138,"Vivien, Champion of the Wilds",['G'],3,"[""'Legendary'"", ""'Planeswalker'""]","[""'Vivien'""]",WAR,Rare
+2139,Vampires' Vengeance,['R'],3,"[""'Instant'""]",,VOW,Uncommon
+2140,Yixlid Jailer,['B'],2,"[""'Creature'""]","[""'Zombie'"", ""'Wizard'""]",PRM,Uncommon
+2141,Court of Grace,['W'],4,"[""'Enchantment'""]",,CMR,Rare
+2142,Humility,['W'],4,"[""'Enchantment'""]",,TPR,Mythic
+2143,Ratchet Bomb,,2,"[""'Artifact'""]",,M14,Rare
+2144,Stony Silence,['W'],2,"[""'Enchantment'""]",,ISD,Rare
+2145,Xantid Swarm,['G'],1,"[""'Creature'""]","[""'Insect'""]",EMA,Rare
+2146,Earthquake,['R'],1,"[""'Sorcery'""]",,M10,Rare
+2147,Platinum Angel,,7,"[""'Artifact'"", ""'Creature'""]","[""'Angel'""]",M11,Mythic
+2148,Thragtusk,['G'],5,"[""'Creature'""]","[""'Beast'""]",M13,Rare
+2149,Turn the Earth,['G'],1,"[""'Instant'""]",,MID,Uncommon
+2150,Bind the Monster,['U'],1,"[""'Enchantment'""]","[""'Aura'""]",KHM,Common
+2151,Guardian Naga,['W'],7,"[""'Creature'""]","[""'Naga'""]",CLB,Common
+2152,Hallow,['W'],1,"[""'Instant'""]",,DST,Common
+2153,Spidersilk Armor,['G'],3,"[""'Enchantment'""]",,DDG,Common
+2154,Forge Devil,['R'],1,"[""'Creature'""]","[""'Devil'""]",M15,Common
+2155,Perilous Voyage,['U'],2,"[""'Instant'""]",,XLN,Uncommon
+2156,Roast,['R'],2,"[""'Sorcery'""]",,DTK,Uncommon
+2157,Sphinx of the Final Word,['U'],7,"[""'Creature'""]","[""'Sphinx'""]",OGW,Mythic
+2158,Weathered Runestone,,2,"[""'Artifact'""]",,KHM,Uncommon
+2159,"Zacama, Primal Calamity","['G', 'R', 'W']",9,"[""'Legendary'"", ""'Creature'""]","[""'Elder'"", ""'Dinosaur'""]",RIX,Mythic
+2160,Unchained Berserker,['R'],2,"[""'Creature'""]","[""'Human'"", ""'Berserker'""]",M20,Uncommon
+2161,Bill the Pony,['W'],4,"[""'Legendary'"", ""'Creature'""]","[""'Horse'""]",LTR,Uncommon
+2162,Break the Ice,['B'],2,"[""'Sorcery'""]",,MH2,Uncommon
+2163,Heroic Intervention,['G'],2,"[""'Instant'""]",,AER,Rare
+2164,Run Afoul,['G'],1,"[""'Instant'""]",,M21,Common
+2165,Trickbind,['U'],2,"[""'Instant'""]",,TSP,Rare
+2166,Essence Scatter,['U'],2,"[""'Instant'""]",,DMU,Common
+2167,Recruit the Worthy,['W'],1,"[""'Instant'""]",,MH1,Common
+2168,Fiendslayer Paladin,['W'],3,"[""'Creature'""]","[""'Human'"", ""'Knight'""]",M14,Rare
+2169,Flowstone Infusion,['R'],1,"[""'Instant'""]",,DMU,Common
+2170,Atraxa's Fall,['G'],2,"[""'Sorcery'""]",,MOM,Common
+2171,Disruption Protocol,['U'],2,"[""'Instant'""]",,NEO,Common
+2172,"Migloz, Maze Crusher","['G', 'R']",3,"[""'Legendary'"", ""'Creature'""]","[""'Phyrexian'"", ""'Beast'""]",ONE,Rare
+2173,Overcharged Amalgam,['U'],4,"[""'Creature'""]","[""'Zombie'"", ""'Horror'""]",VOW,Rare
+2174,Staff of Compleation,,3,"[""'Artifact'""]",,ONE,Mythic
+2175,Cataclysm,['W'],4,"[""'Sorcery'""]",,EX,Rare
+2176,Council's Judgment,['W'],3,"[""'Sorcery'""]",,VMA,Rare
+2177,The Battle of Bywater,['W'],3,"[""'Sorcery'""]",,LTR,Rare
+2178,Circle of Protection: Green,['W'],2,"[""'Enchantment'""]",,7E,Common
+2179,Divest,['B'],1,"[""'Sorcery'""]",,2XM,Common
+2180,Fangren Marauder,['G'],6,"[""'Creature'""]","[""'Beast'""]",MBS,Common
+2181,Sunlance,['W'],1,"[""'Sorcery'""]",,TSR,Common
+2182,"Davriel, Rogue Shadowmage",['B'],3,"[""'Legendary'"", ""'Planeswalker'""]","[""'Davriel'""]",WAR,Uncommon
+2183,Experimental Frenzy,['R'],4,"[""'Enchantment'""]",,GRN,Rare
+2184,Manaform Hellkite,['R'],4,"[""'Creature'""]","[""'Dragon'""]",VOW,Mythic
+2185,Noxious Grasp,['B'],2,"[""'Instant'""]",,M20,Uncommon
+2186,Radiant Flames,['R'],3,"[""'Sorcery'""]",,BFZ,Rare
+2187,The Raven Man,['B'],2,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Wizard'""]",DMU,Rare
+2188,Angelfire Ignition,"['R', 'W']",3,"[""'Sorcery'""]",,MID,Rare
+2189,Valorous Stance,['W'],2,"[""'Instant'""]",,VOW,Uncommon
+2190,Empty-Shrine Kannushi,['W'],1,"[""'Creature'""]","[""'Human'"", ""'Cleric'""]",BOK,Uncommon
+2191,Spatial Contortion,,2,"[""'Instant'""]",,PRM,Uncommon
+2192,Kor Firewalker,['W'],2,"[""'Creature'""]","[""'Kor'"", ""'Soldier'""]",PRM,Uncommon
+2193,Misery's Shadow,['B'],2,"[""'Creature'""]","[""'Shade'""]",BRO,Rare
+2194,Carnage Tyrant,['G'],6,"[""'Creature'""]","[""'Dinosaur'""]",XLN,Mythic
+2195,Elspeth Conquers Death,['W'],5,"[""'Enchantment'""]","[""'Saga'""]",THB,Rare
+2196,Settle the Wreckage,['W'],4,"[""'Instant'""]",,XLN,Rare
+2197,Shapers' Sanctuary,['G'],1,"[""'Enchantment'""]",,XLN,Rare
+2198,Starnheim Unleashed,['W'],4,"[""'Sorcery'""]",,KHM,Mythic
+2199,Aspirant's Ascent,['U'],1,"[""'Instant'""]",,ONE,Common
+2200,Petrified Field,,0,"[""'Land'""]",,OD,Rare
+2201,Chains of Mephistopheles,['B'],2,"[""'Enchantment'""]",,PRM,Rare
+2202,Goblin War Strike,['R'],1,"[""'Sorcery'""]",,SCG,Common
+2203,Jeska's Will,['R'],3,"[""'Sorcery'""]",,PRM,Rare
+2204,Plaguecrafter,['B'],3,"[""'Creature'""]","[""'Human'"", ""'Shaman'""]",GRN,Uncommon
+2205,Reverent Silence,['G'],4,"[""'Sorcery'""]",,NE,Common
+2206,Drana and Linvala,"['B', 'W']",4,"[""'Legendary'"", ""'Creature'""]","[""'Vampire'"", ""'Angel'""]",MOM,Rare
+2207,Phyrexian Fleshgorger,,7,"[""'Artifact'"", ""'Creature'""]","[""'Phyrexian'"", ""'Wurm'""]",BRO,Mythic
+2208,Grim Discovery,['B'],2,"[""'Sorcery'""]",,ZEN,Common
+2209,"Karn, Scion of Urza",,4,"[""'Legendary'"", ""'Planeswalker'""]","[""'Karn'""]",DAR,Mythic
+2210,Boom // Bust,['R'],8,"[""'Sorcery'""]",,PLC,Rare
+2211,Deflecting Palm,"['R', 'W']",2,"[""'Instant'""]",,KTK,Rare
+2212,Nemesis of Mortals,['G'],6,"[""'Creature'""]","[""'Snake'""]",THS,Uncommon
+2213,Gleeful Sabotage,['G'],2,"[""'Sorcery'""]",,SHM,Common
+2214,Sandstorm,['G'],1,"[""'Instant'""]",,DMR,Common
+2215,Viridian Longbow,,1,"[""'Artifact'""]","[""'Equipment'""]",MRD,Common
+2216,Leyline of Combustion,['R'],4,"[""'Enchantment'""]",,M20,Rare
+2217,Aven Mindcensor,['W'],3,"[""'Creature'""]","[""'Bird'"", ""'Wizard'""]",TSR,Uncommon
+2218,Bone Shards,['B'],1,"[""'Sorcery'""]",,MH2,Common
+2219,Court of Garenbrig,['G'],3,"[""'Enchantment'""]",,WOC,Rare
+2220,Kozilek's Return,,3,"[""'Instant'""]",,OGW,Mythic
+2221,Nether Void,['B'],4,"[""'World'"", ""'Enchantment'""]",,ME3,Rare
+2222,"Ulamog, the Infinite Gyre",,11,"[""'Legendary'"", ""'Creature'""]","[""'Eldrazi'""]",MM2,Mythic
+2223,Fry,['R'],2,"[""'Instant'""]",,M20,Uncommon
+2224,Mirrorshell Crab,['U'],7,"[""'Artifact'"", ""'Creature'""]","[""'Crab'""]",NEO,Common
+2225,"Ao, the Dawn Sky",['W'],5,"[""'Legendary'"", ""'Creature'""]","[""'Dragon'"", ""'Spirit'""]",NEO,Mythic
+2226,Bladecoil Serpent,,6,"[""'Artifact'"", ""'Creature'""]","[""'Serpent'""]",BRO,Mythic
+2227,Blue Sun's Twilight,['U'],2,"[""'Sorcery'""]",,ONE,Rare
+2228,Sword of Once and Future,,3,"[""'Artifact'""]","[""'Equipment'""]",MOM,Mythic
+2229,The Kami War,"['B', 'G', 'R', 'U', 'W']",6,"[""'Enchantment'""]","[""'Saga'""]",NEO,Mythic
+2230,Firestorm,['R'],1,"[""'Instant'""]",,WL,Rare
+2231,Scavenger Grounds,,0,"[""'Land'""]","[""'Desert'""]",HOU,Rare
+2232,Vendilion Clique,['U'],3,"[""'Legendary'"", ""'Creature'""]","[""'Faerie'"", ""'Wizard'""]",MOR,Rare
+2233,Spire Golem,,6,"[""'Artifact'"", ""'Creature'""]","[""'Golem'""]",DST,Common
+2234,Sedgemoor Witch,['B'],3,"[""'Creature'""]","[""'Human'"", ""'Warlock'""]",STX,Rare
+2235,Elspeth Resplendent,['W'],5,"[""'Legendary'"", ""'Planeswalker'""]","[""'Elspeth'""]",SNC,Mythic
+2236,Homeward Path,,0,"[""'Land'""]",,C13,Rare
+2237,Trading Post,,4,"[""'Artifact'""]",,M14,Rare
+2238,Turn Aside,['U'],1,"[""'Instant'""]",,EMN,Common
+2239,"Keranos, God of Storms","['R', 'U']",5,"[""'Legendary'"", ""'Enchantment'"", ""'Creature'""]","[""'God'""]",JOU,Mythic
+2240,Electrostatic Infantry,['R'],2,"[""'Creature'""]","[""'Dwarf'"", ""'Wizard'""]",DMU,Uncommon
+2241,"Kataki, War's Wage",['W'],2,"[""'Legendary'"", ""'Creature'""]","[""'Spirit'""]",SOK,Rare
+2242,Krosan Grip,['G'],3,"[""'Instant'""]",,TSR,Uncommon
+2243,Peacekeeper,['W'],3,"[""'Creature'""]","[""'Human'""]",WL,Rare
+2244,Sword of Light and Shadow,,3,"[""'Artifact'""]","[""'Equipment'""]",DST,Rare
+2245,Tsabo's Web,,2,"[""'Artifact'""]",,IN,Rare
+2246,Swan Song,['U'],1,"[""'Instant'""]",,THS,Rare
+2247,Elder Gargaroth,['G'],5,"[""'Creature'""]","[""'Beast'""]",M21,Mythic
+2248,"Xenagos, the Reveler","['G', 'R']",4,"[""'Legendary'"", ""'Planeswalker'""]","[""'Xenagos'""]",THS,Mythic
+2249,Spore Frog,['G'],1,"[""'Creature'""]","[""'Frog'""]",MH1,Common
+2250,Crumble to Dust,,4,"[""'Sorcery'""]",,BFZ,Uncommon
+2251,Rakdos Charm,"['B', 'R']",2,"[""'Instant'""]",,RTR,Uncommon
+2252,Mystic Remora,['U'],1,"[""'Enchantment'""]",,DMR,Rare
+2253,Light of Hope,['W'],1,"[""'Instant'""]",,IKO,Common
+2254,Goblin Gardener,['R'],4,"[""'Creature'""]","[""'Goblin'""]",7E,Common
+2255,Ravenform,['U'],3,"[""'Sorcery'""]",,KHM,Common
+2256,Shenanigans,['R'],2,"[""'Sorcery'""]",,MH1,Common
+2257,Sorcerous Spyglass,,2,"[""'Artifact'""]",,LCI,Uncommon
+2258,Harsh Mentor,['R'],2,"[""'Creature'""]","[""'Human'"", ""'Cleric'""]",AKH,Rare
+2259,Scattershot,['R'],3,"[""'Instant'""]",,SCG,Common
+2260,Archangel of Thune,['W'],5,"[""'Creature'""]","[""'Angel'""]",M14,Mythic
+2261,Kraul Harpooner,['G'],2,"[""'Creature'""]","[""'Insect'"", ""'Warrior'""]",GRN,Uncommon
+2262,Shefet Monitor,['G'],6,"[""'Creature'""]","[""'Lizard'""]",AKH,Uncommon
+2263,Llanowar Loamspeaker,['G'],2,"[""'Creature'""]","[""'Elf'"", ""'Druid'""]",DMU,Rare
+2264,Aboleth Spawn,['U'],3,"[""'Creature'""]","[""'Fish'"", ""'Horror'""]",CLB,Rare
+2266,Court of Locthwain,['B'],4,"[""'Enchantment'""]",,WOC,Rare
+2267,From the Ashes,['R'],4,"[""'Sorcery'""]",,C13,Rare
+2268,Dawn Charm,['W'],2,"[""'Instant'""]",,PLC,Common
+2269,Death Speakers,['W'],1,"[""'Creature'""]","[""'Human'"", ""'Cleric'""]",MED,Common
+2270,"Akal Pakal, First Among Equals",['U'],3,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Advisor'""]",LCI,Rare
+2271,Fade from History,['G'],4,"[""'Sorcery'""]",,BRO,Rare
+2272,Holy Light,['W'],3,"[""'Instant'""]",,MED,Common
+2273,"Angrath, the Flame-Chained","['B', 'R']",5,"[""'Legendary'"", ""'Planeswalker'""]","[""'Angrath'""]",RIX,Mythic
+2274,Cindervines,"['G', 'R']",2,"[""'Enchantment'""]",,RNA,Rare
+2275,Gruul Charm,"['G', 'R']",2,"[""'Instant'""]",,GTC,Uncommon
+2276,Stronghold Gambit,['R'],2,"[""'Sorcery'""]",,NE,Rare
+2277,Unified Will,['U'],2,"[""'Instant'""]",,ROE,Uncommon
+2278,Curse of the Pierced Heart,['R'],2,"[""'Enchantment'""]","[""'Aura'"", ""'Curse'""]",ISD,Common
+2279,Rampage of the Clans,['G'],4,"[""'Instant'""]",,RNA,Rare
+2280,Rampaging War Mammoth,['R'],7,"[""'Creature'""]","[""'Elephant'""]",LTC,Rare
+2281,Sakura-Tribe Elder,['G'],2,"[""'Creature'""]","[""'Snake'"", ""'Shaman'""]",CHK,Common
+2282,Tunnel Ignus,['R'],2,"[""'Creature'""]","[""'Elemental'""]",SOM,Rare
+2283,Cavalry Drillmaster,['W'],2,"[""'Creature'""]","[""'Human'"", ""'Knight'""]",M19,Common
+2284,"Kotose, the Silent Spider","['B', 'U']",5,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Ninja'""]",NEO,Rare
+2285,Lantern of the Lost,,1,"[""'Artifact'""]",,VOW,Uncommon
+2286,Massacre Girl,['B'],5,"[""'Legendary'"", ""'Creature'""]","[""'Human'"", ""'Assassin'""]",WAR,Rare
+2287,Mortify,"['B', 'W']",3,"[""'Instant'""]",,RNA,Uncommon
+2288,Soul Sear,['R'],3,"[""'Instant'""]",,M21,Uncommon
+2289,Distress,['B'],2,"[""'Sorcery'""]",,M12,Common
+2290,Razor Golem,,6,"[""'Artifact'"", ""'Creature'""]","[""'Golem'""]",DST,Common
+2291,Doomskar,['W'],5,"[""'Sorcery'""]",,KHM,Rare
+2292,Embereth Shieldbreaker,['R'],2,"[""'Creature'""]","[""'Human'"", ""'Knight'""]",ELD,Uncommon
+2293,"Erebos, God of the Dead",['B'],4,"[""'Legendary'"", ""'Enchantment'"", ""'Creature'""]","[""'God'""]",THS,Mythic
+2294,Skylasher,['G'],2,"[""'Creature'""]","[""'Insect'""]",DGM,Rare
+2295,"Zirda, the Dawnwaker","['R', 'W']",3,"[""'Legendary'"", ""'Creature'""]","[""'Elemental'"", ""'Fox'""]",IKO,Rare
+2296,Mindlink Mech,['U'],3,"[""'Artifact'""]","[""'Vehicle'""]",NEO,Rare
+2297,Ghostly Prison,['W'],3,"[""'Enchantment'""]",,CHK,Uncommon
+2298,Tendrils of Corruption,['B'],4,"[""'Instant'""]",,TSR,Common
+2299,Cyclonic Rift,['U'],2,"[""'Instant'""]",,RTR,Rare
+2300,Cankerbloom,['G'],2,"[""'Creature'""]","[""'Phyrexian'"", ""'Fungus'""]",ONE,Uncommon
+2301,Jack-o'-Lantern,,1,"[""'Artifact'""]",,MID,Common
+2302,Invoke the Winds,['U'],5,"[""'Sorcery'""]",,NEO,Rare
+2303,Rankle's Prank,['B'],4,"[""'Sorcery'""]",,WOE,Rare
+2304,Dystopia,['B'],3,"[""'Enchantment'""]",,ME2,Rare
+2305,Leyline of Anticipation,['U'],4,"[""'Enchantment'""]",,M11,Rare
+2306,"Aeve, Progenitor Ooze",['G'],5,"[""'Legendary'"", ""'Creature'""]","[""'Ooze'""]",MH2,Rare
+2307,Pyroclasm,['R'],2,"[""'Sorcery'""]",,A25,Uncommon
+2308,Tome Scour,['U'],1,"[""'Sorcery'""]",,M14,Common
+2309,Sunder the Gateway,['W'],2,"[""'Sorcery'""]",,MOM,Common
+2265,Altar Of Dementia,,2,['Artifact'],,BRR,Mythic
